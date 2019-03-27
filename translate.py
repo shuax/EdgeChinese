@@ -8,8 +8,8 @@ with open('manual.json', 'rb') as f:
     for k, v in manual.items():
         en_cn_dict[k] = v
 
-with open('zh-CN2.json', 'rb') as f:
-    zhcn = json.loads(f.read())
+# with open('zh-CN2.json', 'rb') as f:
+    # zhcn = json.loads(f.read())
     # for x in zhcn['entry']:
     #     x['text']
     # for k, v in manual.items():

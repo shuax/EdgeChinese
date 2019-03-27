@@ -130,11 +130,11 @@
         },
         {
             "id": 166,
-            "text": "Favorites bar"
+            "text": "收藏夹"
         },
         {
             "id": 167,
-            "text": "Other favorites"
+            "text": "其它收藏"
         },
         {
             "id": 168,
@@ -246,7 +246,7 @@
         },
         {
             "id": 203,
-            "text": "Home (Alt+Home key)"
+            "text": "主页（Alt+Home）"
         },
         {
             "id": 204,
@@ -290,7 +290,7 @@
         },
         {
             "id": 215,
-            "text": "Settings and more (Alt+F)"
+            "text": "更多设置 (Alt+F)"
         },
         {
             "id": 216,
@@ -534,7 +534,7 @@
         },
         {
             "id": 422,
-            "text": "Sign in to Microsoft Edge"
+            "text": "登录到Microsoft Edge"
         },
         {
             "id": 423,
@@ -598,11 +598,11 @@
         },
         {
             "id": 443,
-            "text": "sign in to Microsoft Edge"
+            "text": "登录到Microsoft Edge"
         },
         {
             "id": 444,
-            "text": "Browser Task Manager"
+            "text": "任务管理器"
         },
         {
             "id": 445,
@@ -786,11 +786,11 @@
         },
         {
             "id": 516,
-            "text": "Move to the menu"
+            "text": "移动到菜单"
         },
         {
             "id": 518,
-            "text": "If you turn this on, Microsoft Edge can't prevent the extension from saving your browsing history."
+            "text": "如果启用此选项，Microsoft Edge无法阻止扩展程序保存您的浏览历史记录。"
         },
         {
             "id": 520,
@@ -1010,7 +1010,7 @@
         },
         {
             "id": 602,
-            "text": "Open in &InPrivate Window"
+            "text": "在隐身窗口打开"
         },
         {
             "id": 604,
@@ -1166,11 +1166,11 @@
         },
         {
             "id": 800,
-            "text": "For quick access, place your favorites here on the favorites bar."
+            "text": "请把收藏放置在收藏夹上，以便快速访问。"
         },
         {
             "id": 801,
-            "text": "Import favorites now"
+            "text": "立刻导入"
         },
         {
             "id": 802,
@@ -1222,15 +1222,15 @@
         },
         {
             "id": 815,
-            "text": "{COUNT, plural,\n          =0 {&Open all}\n          =1 {&Open favorite}\n          other {&Open all (#)}}"
+            "text": "{COUNT, plural,\n          =0 {打开全部}\n          =1 {打开收藏}\n          other {打开全部 (#)}}"
         },
         {
             "id": 816,
-            "text": "{COUNT,plural, =0{在新窗口中打开全部网址(&N)}=1{在新窗口中打开 1 个网址(&N)}other{在新窗口中打开全部（# 个）网址(&N)}}"
+            "text": "{COUNT, plural,\n          =0 {新窗口打开全部}\n          =1 {新窗口打开}\n          other {新窗口打开全部}}"
         },
         {
             "id": 817,
-            "text": "{COUNT, plural,\n        =0 {Open all in &InPrivate window}\n        =1 {Open in &InPrivate window}\n        other {Open all (#) in &InPrivate window}}"
+            "text": "{COUNT, plural,\n        =0 {隐身窗口打开全部}\n        =1 {隐身窗口打开}\n        other {隐身窗口打开全部}}"
         },
         {
             "id": 818,
@@ -1242,7 +1242,7 @@
         },
         {
             "id": 820,
-            "text": "Open in &InPrivate window"
+            "text": "在隐身窗口打开"
         },
         {
             "id": 821,
@@ -1286,7 +1286,7 @@
         },
         {
             "id": 832,
-            "text": "Edit favorite"
+            "text": "编辑收藏"
         },
         {
             "id": 833,
@@ -1302,7 +1302,7 @@
         },
         {
             "id": 837,
-            "text": "More"
+            "text": "更多"
         },
         {
             "id": 838,
@@ -1310,7 +1310,7 @@
         },
         {
             "id": 839,
-            "text": "To get your favorites on all your devices, $1."
+            "text": "在您的所有设备上获取收藏夹，$1."
         },
         {
             "id": 840,
@@ -1342,11 +1342,11 @@
         },
         {
             "id": 856,
-            "text": "Add all tabs to favorites"
+            "text": "添加所有标签到书签"
         },
         {
             "id": 857,
-            "text": "收藏夹"
+            "text": "收藏"
         },
         {
             "id": 858,
@@ -1354,15 +1354,15 @@
         },
         {
             "id": 859,
-            "text": "Search favorites"
+            "text": "搜索收藏"
         },
         {
             "id": 860,
-            "text": "管理收藏夹"
+            "text": "管理收藏"
         },
         {
             "id": 861,
-            "text": "管理收藏夹"
+            "text": "管理收藏"
         },
         {
             "id": 866,
@@ -1370,11 +1370,11 @@
         },
         {
             "id": 867,
-            "text": "Add favorite"
+            "text": "添加收藏"
         },
         {
             "id": 868,
-            "text": "To add a page to favorites, click the star in the address bar"
+            "text": "要将页面添加到收藏夹，请单击地址栏中的星标"
         },
         {
             "id": 871,
@@ -1382,15 +1382,15 @@
         },
         {
             "id": 872,
-            "text": "Export favorites"
+            "text": "导出收藏"
         },
         {
             "id": 873,
-            "text": "Import favorites"
+            "text": "导入收藏"
         },
         {
             "id": 875,
-            "text": "Open all ($1)"
+            "text": "打开全部($1)"
         },
         {
             "id": 876,
@@ -1410,11 +1410,11 @@
         },
         {
             "id": 884,
-            "text": "Open all ($1) in new window"
+            "text": "新窗口打开全部($1)"
         },
         {
             "id": 885,
-            "text": "Open all ($1) in new InPrivate window"
+            "text": "隐私窗口打开全部($1)"
         },
         {
             "id": 886,
@@ -1426,7 +1426,7 @@
         },
         {
             "id": 888,
-            "text": "Open in new InPrivate window"
+            "text": "在隐身窗口打开"
         },
         {
             "id": 889,
@@ -1454,15 +1454,15 @@
         },
         {
             "id": 907,
-            "text": "收藏夹"
+            "text": "收藏"
         },
         {
             "id": 908,
-            "text": "添加当前页面到收藏夹"
+            "text": "添加当前页面到收藏"
         },
         {
             "id": 909,
-            "text": "添加打开页面到收藏夹"
+            "text": "添加打开页面到收藏"
         },
         {
             "id": 910,
@@ -1906,11 +1906,11 @@
         },
         {
             "id": 1051,
-            "text": "Sync your browsing data across all your devices."
+            "text": "在所有设备中同步你的数据"
         },
         {
             "id": 1052,
-            "text": "Profile 1"
+            "text": "用户1"
         },
         {
             "id": 1053,
@@ -2450,7 +2450,7 @@
         },
         {
             "id": 2640,
-            "text": "Full name"
+            "text": "姓名"
         },
         {
             "id": 2641,
@@ -2458,7 +2458,7 @@
         },
         {
             "id": 2642,
-            "text": "Country/region"
+            "text": "国家/区域"
         },
         {
             "id": 2643,
@@ -2702,7 +2702,7 @@
         },
         {
             "id": 2815,
-            "text": "Autofill form data (includes forms and cards)"
+            "text": "自动填充表单数据"
         },
         {
             "id": 2816,
@@ -2794,7 +2794,7 @@
         },
         {
             "id": 3167,
-            "text": "Use all open tabs"
+            "text": "所有打开的标签页"
         },
         {
             "id": 3168,
@@ -3066,11 +3066,11 @@
         },
         {
             "id": 3250,
-            "text": "Any effect of turning this on depends on whether a website responds to the request, and how the request is interpreted. For example, some sites might respond to this request by showing you ads that aren't based on other websites you've visited. Many sites will still collect and use your browsing data - for example to improve security, to provide content, services, ads and recommendations on their websites, and to generate reporting statistics."
+            "text": "启用此功能的任何效果取决于网站是否响应请求以及请求如何解释。 例如，某些网站可能会通过向您展示不是基于您访问过的其他网站的广告来回复此请求。 许多网站仍会收集和使用您的浏览数据 - 例如，提高安全性，在其网站上提供内容，服务，广告和推荐，以及生成报告统计信息。"
         },
         {
             "id": 3251,
-            "text": "Send request"
+            "text": "发生请求"
         },
         {
             "id": 3252,
@@ -3338,7 +3338,7 @@
         },
         {
             "id": 3360,
-            "text": "Download PDF files instead of automatically opening them"
+            "text": "下载PDF文件而不是自动打开它们"
         },
         {
             "id": 3361,
@@ -3438,7 +3438,7 @@
         },
         {
             "id": 3385,
-            "text": "Will block if turned off"
+            "text": "关闭则默认禁用"
         },
         {
             "id": 3386,
@@ -3474,7 +3474,7 @@
         },
         {
             "id": 3394,
-            "text": "Your Flash settings will be kept until you quit Microsoft Edge."
+            "text": "在您退出Microsoft Edge之前，将保留您的Flash设置。"
         },
         {
             "id": 3395,
@@ -3574,11 +3574,11 @@
         },
         {
             "id": 3419,
-            "text": "Block (recommended)"
+            "text": "阻止（推荐）"
         },
         {
             "id": 3420,
-            "text": "Allow"
+            "text": "允许"
         },
         {
             "id": 3421,
@@ -3662,7 +3662,7 @@
         },
         {
             "id": 3451,
-            "text": "Remove all"
+            "text": "删除全部"
         },
         {
             "id": 3452,
@@ -3758,7 +3758,7 @@
         },
         {
             "id": 3480,
-            "text": "No sites available"
+            "text": "无"
         },
         {
             "id": 3481,
@@ -4150,7 +4150,7 @@
         },
         {
             "id": 3665,
-            "text": "Choose what to import"
+            "text": "选择导入内容"
         },
         {
             "id": 3666,
@@ -4162,7 +4162,7 @@
         },
         {
             "id": 3671,
-            "text": "Autofill data (forms & payment info)"
+            "text": "填充数据（表单和付款信息）"
         },
         {
             "id": 3672,
@@ -4190,11 +4190,11 @@
         },
         {
             "id": 3679,
-            "text": "Import from"
+            "text": "导入"
         },
         {
             "id": 3680,
-            "text": "个人资料"
+            "text": "用户"
         },
         {
             "id": 3682,
@@ -4242,15 +4242,15 @@
         },
         {
             "id": 3698,
-            "text": "This will permanently delete browsing data like favorites, history, and passwords from this device. However, any data that was previously synced to your account will remain in the Microsoft cloud."
+            "text": "这将永久删除此设备中的收藏夹，历史记录和密码等浏览数据。 但是，之前同步到您帐户的所有数据都将保留在Microsoft云中。"
         },
         {
             "id": 3699,
-            "text": "This will permanently delete browsing data like favorites, history, and passwords from this device."
+            "text": "这将永久删除此设备中的收藏夹，历史记录和密码等浏览数据。"
         },
         {
             "id": 3700,
-            "text": "Remove profile"
+            "text": "删除用户"
         },
         {
             "id": 3702,
@@ -4426,7 +4426,7 @@
         },
         {
             "id": 3992,
-            "text": "Background page"
+            "text": "背景页"
         },
         {
             "id": 3993,
@@ -4478,7 +4478,7 @@
         },
         {
             "id": 4007,
-            "text": "Allow extensions from other stores."
+            "text": "允许加载其它商店扩展"
         },
         {
             "id": 4008,
@@ -4618,7 +4618,7 @@
         },
         {
             "id": 4048,
-            "text": "Allow in InPrivate"
+            "text": "隐私模式下启用"
         },
         {
             "id": 4049,
@@ -4630,7 +4630,7 @@
         },
         {
             "id": 4051,
-            "text": "Allow this extension to read and change all your data on websites you visit"
+            "text": "允许此扩展程序读取和更改您访问的网站上的所有数据"
         },
         {
             "id": 4052,
@@ -4694,7 +4694,7 @@
         },
         {
             "id": 4072,
-            "text": "Source"
+            "text": "来源"
         },
         {
             "id": 4073,
@@ -4738,7 +4738,7 @@
         },
         {
             "id": 4086,
-            "text": "Want to enhance your browser experience? Try adding extensions from the <a target=\"_blank\" href=\"https://www.microsoft.com/en-us/microsoft-edge/insider-addons\">Microsoft Store.</a>"
+            "text": "想要增强您的浏览器体验？ 尝试从 <a target=\"_blank\" href=\"https://www.microsoft.com/en-us/microsoft-edge/insider-addons\">Microsoft Store</a> 添加扩展程序。"
         },
         {
             "id": 4087,
@@ -4790,7 +4790,7 @@
         },
         {
             "id": 4101,
-            "text": "All extensions"
+            "text": "所有扩展"
         },
         {
             "id": 4102,
@@ -4798,7 +4798,7 @@
         },
         {
             "id": 4103,
-            "text": "From other sources"
+            "text": "其它来源"
         },
         {
             "id": 4104,
@@ -4810,7 +4810,7 @@
         },
         {
             "id": 4111,
-            "text": "Get extensions from Microsoft Store"
+            "text": "从 Microsoft Store 获取扩展"
         },
         {
             "id": 4113,
@@ -4838,19 +4838,19 @@
         },
         {
             "id": 4121,
-            "text": "Allow extensions from other stores"
+            "text": "允许加载其它商店扩展"
         },
         {
             "id": 4122,
-            "text": "Extensions installed from sources other than the Microsoft Store are unverified, and may affect browser performance. For Microsoft verified extensions, visit the Microsoft Store."
+            "text": "从Microsoft Store以外的源安装的扩展未经验证，可能会影响浏览器性能。 对于Microsoft验证的扩展，请访问Microsoft Store。"
         },
         {
             "id": 4123,
-            "text": "Disable extensions from other stores"
+            "text": "禁止其它商店扩展"
         },
         {
             "id": 4124,
-            "text": "Extensions installed from other stores will be disabled. To use them, keep it enabled."
+            "text": "从其他商店安装的扩展程序将被禁用。 要使用它们，请保持启用状态。"
         },
         {
             "id": 4125,
@@ -4994,7 +4994,7 @@
         },
         {
             "id": 4190,
-            "text": "Printer"
+            "text": "打印机"
         },
         {
             "id": 4191,
@@ -5074,11 +5074,11 @@
         },
         {
             "id": 4213,
-            "text": "张纸"
+            "text": "页"
         },
         {
             "id": 4214,
-            "text": "sheet of paper"
+            "text": "页"
         },
         {
             "id": 4215,
@@ -5246,7 +5246,7 @@
         },
         {
             "id": 4260,
-            "text": "Less settings"
+            "text": "更多设置"
         },
         {
             "id": 4261,
@@ -5310,7 +5310,7 @@
         },
         {
             "id": 4280,
-            "text": "Print using system dialog $1"
+            "text": "使用系统对话框打印 $1"
         },
         {
             "id": 4283,
@@ -5658,19 +5658,19 @@
         },
         {
             "id": 4409,
-            "text": "Last week"
+            "text": "上周"
         },
         {
             "id": 4410,
-            "text": "Older"
+            "text": "更早"
         },
         {
             "id": 4411,
-            "text": "Yesterday - $1/$2"
+            "text": "昨天 - $1月$2日"
         },
         {
             "id": 4412,
-            "text": "Last week - $1/$2 to $3/$4"
+            "text": "上周 - $1月$2日 到 $3月$4日"
         },
         {
             "id": 4414,
@@ -5698,7 +5698,7 @@
         },
         {
             "id": 4425,
-            "text": "Search results"
+            "text": "搜索结果"
         },
         {
             "id": 4426,
@@ -5770,11 +5770,11 @@
         },
         {
             "id": 4443,
-            "text": "Refres&h frame"
+            "text": "刷新框架"
         },
         {
             "id": 4444,
-            "text": "View fra&me source"
+            "text": "查看框架源代码"
         },
         {
             "id": 4446,
@@ -5818,11 +5818,11 @@
         },
         {
             "id": 4456,
-            "text": "Sa&ve image as"
+            "text": "图片另存为"
         },
         {
             "id": 4457,
-            "text": "Copy i&mage link"
+            "text": "复制图片地址"
         },
         {
             "id": 4458,
@@ -5830,7 +5830,7 @@
         },
         {
             "id": 4459,
-            "text": "&Open image in new tab"
+            "text": "在新标签页打开图片(&O)"
         },
         {
             "id": 4460,
@@ -5846,7 +5846,7 @@
         },
         {
             "id": 4463,
-            "text": "&Show controls"
+            "text": "显示控件"
         },
         {
             "id": 4464,
@@ -5858,7 +5858,7 @@
         },
         {
             "id": 4466,
-            "text": "Save video as"
+            "text": "视频另存为"
         },
         {
             "id": 4468,
@@ -5930,7 +5930,7 @@
         },
         {
             "id": 4492,
-            "text": "&Search the web for image"
+            "text": "搜索图片(&S)"
         },
         {
             "id": 4493,
@@ -6022,19 +6022,19 @@
         },
         {
             "id": 4525,
-            "text": "Voice options"
+            "text": "语音选项"
         },
         {
             "id": 4526,
-            "text": "Speed"
+            "text": "速度"
         },
         {
             "id": 4527,
-            "text": "Choose a voice"
+            "text": "选择语音"
         },
         {
             "id": 4528,
-            "text": "Learn how to add more voices"
+            "text": "了解如何添加更多声音"
         },
         {
             "id": 4529,
@@ -6430,7 +6430,7 @@
         },
         {
             "id": 4675,
-            "text": "When you download files from the web, they'll show up here."
+            "text": "您下载的文件将会显示在这里"
         },
         {
             "id": 4676,
@@ -6462,7 +6462,7 @@
         },
         {
             "id": 4690,
-            "text": "Downloads settings"
+            "text": "下载设置"
         },
         {
             "id": 4691,
@@ -6470,23 +6470,23 @@
         },
         {
             "id": 4693,
-            "text": "All files"
+            "text": "全部文件"
         },
         {
             "id": 4695,
-            "text": "Audio"
+            "text": "音乐"
         },
         {
             "id": 4696,
-            "text": "Compressed files"
+            "text": "压缩文件"
         },
         {
             "id": 4697,
-            "text": "Documents"
+            "text": "文档"
         },
         {
             "id": 4699,
-            "text": "Videos"
+            "text": "视频"
         },
         {
             "id": 4700,
@@ -6494,7 +6494,7 @@
         },
         {
             "id": 4701,
-            "text": "PDFs"
+            "text": "PDF"
         },
         {
             "id": 4702,
@@ -7258,7 +7258,7 @@
         },
         {
             "id": 5132,
-            "text": "Add \"$1\" to Microsoft Edge?"
+            "text": "添加 \"$1\" 到Microsoft Edge？"
         },
         {
             "id": 5133,
@@ -7354,7 +7354,7 @@
         },
         {
             "id": 5158,
-            "text": "The extension can:"
+            "text": "这个扩展会："
         },
         {
             "id": 5159,
@@ -7870,15 +7870,15 @@
         },
         {
             "id": 5297,
-            "text": "To add extensions from the chrome web store, select Manage extensions > Allow extensions from other stores."
+            "text": "要从Chrome网上应用店添加扩展程序，请选择管理扩展程序>允许其他商店的扩展程序。"
         },
         {
             "id": 5298,
-            "text": "You can now add extensions from the Chrome Web Store to Microsoft Edge. Simply click \"Add to Chrome\"."
+            "text": "您现在可以将Chrome网上应用店中的扩展程序添加到Microsoft Edge。 只需点击“添加到Chrome”即可。"
         },
         {
             "id": 5299,
-            "text": "Manage Extensions"
+            "text": "管理扩展程序"
         },
         {
             "id": 5300,
@@ -7942,7 +7942,7 @@
         },
         {
             "id": 5320,
-            "text": "Move to the toolbar"
+            "text": "移动到工具条"
         },
         {
             "id": 5321,
@@ -7950,7 +7950,7 @@
         },
         {
             "id": 5322,
-            "text": "Inspect pop-up window"
+            "text": "检查弹出窗口"
         },
         {
             "id": 5323,
@@ -8930,15 +8930,15 @@
         },
         {
             "id": 5670,
-            "text": "Describe what's happening"
+            "text": "描述发生了什么"
         },
         {
             "id": 5672,
-            "text": "Remember not to include personal info like phone numbers."
+            "text": "切记不要包含电话号码等个人信息。"
         },
         {
             "id": 5673,
-            "text": "Include email address"
+            "text": "邮件地址"
         },
         {
             "id": 5674,
@@ -8958,7 +8958,7 @@
         },
         {
             "id": 5678,
-            "text": "Your feedback will be used to improve Microsoft's products and services. By including your email address, you agree that Microsoft can email you about your feedback. <a href=\"#\" id=\"privacy-statement-page-url\">Microsoft Privacy Statement</a>"
+            "text": "您的反馈意见将用于改进Microsoft的产品和服务。 通过包含您的电子邮件地址，您同意Microsoft可以通过电子邮件向您发送有关您反馈 <a href=\"#\" id=\"privacy-statement-page-url\">Microsoft隐私声明</a>"
         },
         {
             "id": 5679,
@@ -9714,7 +9714,7 @@
         },
         {
             "id": 5999,
-            "text": "Website apps work like other apps on your computer, though you manage them here. Some apps can also run offline and do other things that aren’t available on regular websites. To install an app, visit any site and go to Settings and more … > Apps > Install app. To get to the app faster, you can also pin it to your taskbar."
+            "text": "网站应用程序的工作方式与您计算机上的其他应用程序类似 某些应用程序也可以脱机运行，并执行常规网站上不可用的其他操作。 要安装应用，请访问任何网站，然后转到设置和更多...>应用>安装应用。 要更快地访问应用程序，您还可以将其固定到任务栏。"
         },
         {
             "id": 6000,
@@ -9986,7 +9986,7 @@
         },
         {
             "id": 6094,
-            "text": "历史记录(&H)"
+            "text": "历史记录"
         },
         {
             "id": 6095,
@@ -11586,7 +11586,7 @@
         },
         {
             "id": 15147,
-            "text": "Province"
+            "text": "省份"
         },
         {
             "id": 15148,
@@ -11594,7 +11594,7 @@
         },
         {
             "id": 15149,
-            "text": "Postal code"
+            "text": "邮编"
         },
         {
             "id": 15151,
@@ -11758,7 +11758,7 @@
         },
         {
             "id": 15270,
-            "text": "添加当前页面到收藏夹"
+            "text": "添加当前页面到收藏"
         },
         {
             "id": 15272,
@@ -12286,7 +12286,7 @@
         },
         {
             "id": 15464,
-            "text": "Go see the sites! The pages you visit will show up here."
+            "text": "您访问的页面将显示在此处。"
         },
         {
             "id": 15473,
@@ -12310,7 +12310,7 @@
         },
         {
             "id": 15481,
-            "text": "Recent"
+            "text": "最近"
         },
         {
             "id": 15482,
@@ -12590,7 +12590,7 @@
         },
         {
             "id": 15609,
-            "text": "Your information (for example, passwords or credit card numbers) is kept private when it's sent to this site."
+            "text": "您的信息（例如，密码或信用卡号码）在发送到此站点时会保密。"
         },
         {
             "id": 15610,
@@ -12702,11 +12702,11 @@
         },
         {
             "id": 15643,
-            "text": "(valid)"
+            "text": "(有效)"
         },
         {
             "id": 15644,
-            "text": "(not valid)"
+            "text": "(无效)"
         },
         {
             "id": 15645,
@@ -15690,7 +15690,7 @@
         },
         {
             "id": 27394,
-            "text": "&Writing direction"
+            "text": "书写方向"
         },
         {
             "id": 27395,
@@ -15698,11 +15698,11 @@
         },
         {
             "id": 27396,
-            "text": "&Left to right"
+            "text": "从左到右"
         },
         {
             "id": 27397,
-            "text": "&Right to left"
+            "text": "从右到左"
         },
         {
             "id": 27404,
@@ -15790,11 +15790,11 @@
         },
         {
             "id": 27446,
-            "text": "Left arrow"
+            "text": "左箭头"
         },
         {
             "id": 27447,
-            "text": "Right arrow"
+            "text": "右箭头"
         },
         {
             "id": 27448,
@@ -15850,7 +15850,7 @@
         },
         {
             "id": 27462,
-            "text": "期间"
+            "text": "句号"
         },
         {
             "id": 27463,
