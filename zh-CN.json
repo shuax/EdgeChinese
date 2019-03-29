@@ -1282,7 +1282,7 @@
         },
         {
             "id": 831,
-            "text": "Favorite added"
+            "text": "加入收藏"
         },
         {
             "id": 832,
@@ -1306,11 +1306,11 @@
         },
         {
             "id": 838,
-            "text": "Choose another folder"
+            "text": "选择其它目录"
         },
         {
             "id": 839,
-            "text": "在您的所有设备上获取收藏夹，$1."
+            "text": "在您的所有设备上同步收藏夹，$1."
         },
         {
             "id": 840,
@@ -2482,7 +2482,7 @@
         },
         {
             "id": 2648,
-            "text": "Delete"
+            "text": "删除"
         },
         {
             "id": 2650,
@@ -6378,7 +6378,7 @@
         },
         {
             "id": 4654,
-            "text": "Are you sure you want to delete all of your download history?"
+            "text": "您确定要删除所有下载历史记录吗？"
         },
         {
             "id": 4657,
@@ -12302,11 +12302,11 @@
         },
         {
             "id": 15479,
-            "text": "result"
+            "text": "结果"
         },
         {
             "id": 15480,
-            "text": "results"
+            "text": "结果"
         },
         {
             "id": 15481,
@@ -12326,7 +12326,7 @@
         },
         {
             "id": 15490,
-            "text": "您与此网站之间建立的连接不安全"
+            "text": "您与此站点的连接不安全"
         },
         {
             "id": 15494,
@@ -12558,11 +12558,11 @@
         },
         {
             "id": 15601,
-            "text": "Your connection to this site isn't fully secure"
+            "text": "您与此站点的连接不完全安全"
         },
         {
             "id": 15602,
-            "text": "Your connection to this site isn't secure"
+            "text": "您与此站点的连接不安全"
         },
         {
             "id": 15603,
@@ -12598,7 +12598,7 @@
         },
         {
             "id": 15611,
-            "text": "Don't enter any sensitive information on this site (for example, passwords or credit cards). It could be stolen by attackers."
+            "text": "请勿在本网站上输入任何敏感信息（例如，密码或信用卡）。 它可能被攻击者偷走。"
         },
         {
             "id": 15612,
@@ -14538,7 +14538,7 @@
         },
         {
             "id": 16491,
-            "text": "About version"
+            "text": "关于版本"
         },
         {
             "id": 16492,
@@ -14558,23 +14558,23 @@
         },
         {
             "id": 16496,
-            "text": "Operating system"
+            "text": "操作系统"
         },
         {
             "id": 16498,
-            "text": "User agent"
+            "text": "用户代理"
         },
         {
             "id": 16499,
-            "text": "Command-line"
+            "text": "命令行"
         },
         {
             "id": 16503,
-            "text": "Executable path"
+            "text": "可执行文件路径"
         },
         {
             "id": 16504,
-            "text": "Profile path"
+            "text": "个人资料路径"
         },
         {
             "id": 16505,
