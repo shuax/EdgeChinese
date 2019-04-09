@@ -1,5 +1,12 @@
 import json
 
+def is_chinese(s):
+    try:
+        s.encode('ascii')
+        return False
+    except Exception as e:
+        return True
+
 with open('chrome/en_cn_dict.json', 'rb') as f:
     en_cn_dict = json.loads(f.read())
 
@@ -20,12 +27,17 @@ with open('en-US.json', 'rb') as f:
 
 for entry in en['entry']:
     text = entry['text']
+    if entry['text'].isdigit():
+        continue
     if text in en_cn_dict:
         entry['text'] = en_cn_dict[text]
     else:
         text = text.replace('&','')
         if text in en_cn_dict:
             entry['text'] = en_cn_dict[text]
+
+    if not is_chinese(entry['text']):
+        print(entry['text'])
 
 with open('zh-CN.json', 'wb') as f:
     f.write(json.dumps(en, ensure_ascii=False, indent=4).encode())
