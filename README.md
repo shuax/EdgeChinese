@@ -35,6 +35,8 @@ python3
 
 # 如果要生成一个特定版本的资源
 
+*特别注意，不同版本pak不通用！*
+
 1、放入这个版本的en-us.pak
 
 2、运行unpack.bat解包en-us.pak为en-us.json
