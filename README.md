@@ -12,13 +12,11 @@ python3
 # 使用方法
 准备生成词典。
 
-首先关注chrome目录。最开始我是用的chrome的资源。
+首先关注chrome目录。我是用的chrome的资源。
 
 首先使用unpack.bat解包en-us.pak，zh-CN.pak为en-US.json，zh-CN.json
 
 然后运行dict.py就会生成en_cn_dict.json这个词典文件
-
-后来随着edge更新，汉化包的迭代，这里面的资源变成相对老版本edge的资源了。
 
 注意对比的pak文件一定要是相同版本的。
 
@@ -33,3 +31,16 @@ python3
 经过多次迭代以后，词典就会越来越全，manual.json变得不那么重要。
 
 运行build.bat可以把zh-CN.json打包成zh-CN.pak，这个放回edge文件夹就支持中文了。
+
+
+# 如果要生成一个特定版本的资源
+
+1、放入这个版本的en-us.pak
+
+2、运行unpack.bat解包en-us.pak为en-us.json
+
+3、运行translate.py把en-us.json汉化为zh-CN.json
+
+4、运行build.bat把zh-CN.json打包成zh-CN.pak
+
+放回zh-CN.pak即可得到汉化版。
