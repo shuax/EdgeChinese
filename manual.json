@@ -610,5 +610,12 @@
     "Browse as Guest":"访客模式",
     "Browse as guest":"访客模式",
     "Add a profile":"增加用户",
+    "$1. Thank you!":"$1. 谢谢!",
+    "Customize import":"自定义导入",
+    "Browsing data sync is not yet available for work or school accounts.":"浏览数据同步尚不适用于工作或学校帐户。",
+    "You are in control of your privacy. We use data collected to improve Microsoft products and features. Change these settings here or manage your data in the <a href=\"https://account.microsoft.com/account/privacy\">Microsoft privacy dashboard</a>.":"您可以控制自己的隐私。 我们使用收集的数据来改进Microsoft产品和功能。 在此更改这些设置或在<a href=\"https://account.microsoft.com/account/privacy\"> Microsoft隐私信息中心</a>中管理您的数据。",
+    "Manage search suggestions and search engine used in the address bar":"管理地址栏中使用的搜索建议和搜索引擎",
+    "$1 (Recommended, default)":"$1 (推荐, 默认)",
+    "Others":"其它",
     "shuax": "shuax"
 }
