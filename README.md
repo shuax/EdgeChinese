@@ -32,6 +32,11 @@ python3
 
 运行build.bat可以把zh-CN.json打包成zh-CN.pak，这个放回edge文件夹就支持中文了。
 
+# 汉化成品
+我会把汉化好的打个包发布，另外集成了Edge++增强软件，在这里下载
+
+https://tools.shuax.com/edge/
+
 
 # 如果要生成一个特定版本的资源
 
