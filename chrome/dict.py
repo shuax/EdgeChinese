@@ -14,6 +14,8 @@ for x in en['entry']:
 for x in cn['entry']:
     cn_dict[x['id']] = x['text']
 for i, value in en_dict.items():
+    if value.isdigit():
+        continue
     if i in cn_dict:
         en_cn_dict[value] = cn_dict[i]
 # print(en_cn_dict)

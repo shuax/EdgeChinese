@@ -30,6 +30,8 @@ python3
 
 经过多次迭代以后，词典就会越来越全，manual.json变得不那么重要。
 
+未翻译部分会写入not_translate.json，方便查看有多少缺失。
+
 运行build.bat可以把zh-CN.json打包成zh-CN.pak，这个放回edge文件夹就支持中文了。
 
 # 汉化成品
@@ -40,14 +42,10 @@ https://tools.shuax.com/edge/
 
 # 如果要生成一个特定版本的资源
 
-*特别注意，不同版本pak不通用！*
+*特别注意，不同版本pak不通用！即使是同一个版本的64位和32位也不通用！*
 
 1、放入这个版本的en-us.pak
 
-2、运行unpack.bat解包en-us.pak为en-us.json
+2、运行build.bat，自动解包en-us.pak为en-us.json，调用translate.py把en-us.json汉化为zh-CN.json，自动打包zh-CN.json成zh-CN.pak
 
-3、运行translate.py把en-us.json汉化为zh-CN.json
-
-4、运行build.bat把zh-CN.json打包成zh-CN.pak
-
-放回zh-CN.pak即可得到汉化版。
+放回zh-CN.pak即可得到汉化版。还不行就把原始的en-us.pak删掉。

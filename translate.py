@@ -25,9 +25,13 @@ with open('manual.json', 'rb') as f:
 with open('en-US.json', 'rb') as f:
     en = json.loads(f.read())
 
+not_translate = []
+
 for entry in en['entry']:
     text = entry['text']
     if entry['text'].isdigit():
+        continue
+    if entry['text'].isupper():
         continue
     if text in en_cn_dict:
         entry['text'] = en_cn_dict[text]
@@ -35,9 +39,13 @@ for entry in en['entry']:
         text = text.replace('&','')
         if text in en_cn_dict:
             entry['text'] = en_cn_dict[text]
-
-    if not is_chinese(entry['text']):
-        print(entry['text'])
+        else:
+            # if not is_chinese(entry['text']):
+            # if len(entry['text']) > 20:
+            not_translate.append(entry['text'])
 
 with open('zh-CN.json', 'wb') as f:
     f.write(json.dumps(en, ensure_ascii=False, indent=4).encode())
+
+with open('not_translate.json', 'wb') as f:
+    f.write(json.dumps(not_translate, ensure_ascii=False, indent=4).encode())
