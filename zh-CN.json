@@ -154,7 +154,7 @@
         },
         {
             "id": 173,
-            "text": "Chrome 网上应用店"
+            "text": "Web Store"
         },
         {
             "id": 177,
@@ -350,7 +350,7 @@
         },
         {
             "id": 231,
-            "text": "Top Sites"
+            "text": "热门网站"
         },
         {
             "id": 240,
@@ -806,7 +806,7 @@
         },
         {
             "id": 525,
-            "text": "In Microsoft Edge"
+            "text": "在 Microsoft Edge 中"
         },
         {
             "id": 526,
@@ -898,19 +898,19 @@
         },
         {
             "id": 570,
-            "text": "Edge Apps"
+            "text": "Edge 应用"
         },
         {
             "id": 571,
-            "text": "Edge Canary Apps"
+            "text": "Edge Canary 应用"
         },
         {
             "id": 572,
-            "text": "Edge Beta Apps"
+            "text": "Edge Beta 应用"
         },
         {
             "id": 573,
-            "text": "Edge Dev Apps"
+            "text": "Edge Dev 应用"
         },
         {
             "id": 575,
@@ -1078,19 +1078,19 @@
         },
         {
             "id": 627,
-            "text": "{SECONDS, plural,\n           =1 {Microsoft Edge will restart in 1 second}\n           other {Microsoft Edge will restart in # seconds}}"
+            "text": "{SECONDS, plural,\n           =1 {Microsoft Edge将在1秒内重启}\n           other {Microsoft Edge将在#秒内重启}}"
         },
         {
             "id": 628,
-            "text": "You should restart Microsoft Edge now."
+            "text": "你现在应该重启Microsoft Edge。"
         },
         {
             "id": 629,
-            "text": "Restart Microsoft Edge to get a special security update for for the browser (we'll restore your tabs)."
+            "text": "重新启动Microsoft Edge以获取浏览器的特殊安全更新（我们将恢复您的选项卡）。"
         },
         {
             "id": 632,
-            "text": "Microsoft Edge tab"
+            "text": "Microsoft Edge选项卡"
         },
         {
             "id": 651,
@@ -1102,11 +1102,11 @@
         },
         {
             "id": 654,
-            "text": "Take Microsoft Edge everywhere"
+            "text": "无处不在Microsoft Edge"
         },
         {
             "id": 655,
-            "text": "Web browsing with Microsoft Edge smarts"
+            "text": "使用Microsoft Edge智能手机进行网页浏览"
         },
         {
             "id": 656,
@@ -1114,15 +1114,15 @@
         },
         {
             "id": 659,
-            "text": "Get to Microsoft Edge faster"
+            "text": "更快地访问Microsoft Edge"
         },
         {
             "id": 660,
-            "text": "Make Microsoft Edge your default browser"
+            "text": "将Microsoft Edge作为默认浏览器"
         },
         {
             "id": 661,
-            "text": "Pin Microsoft Edge to your taskbar"
+            "text": "将Microsoft Edge固定到您的任务栏"
         },
         {
             "id": 662,
@@ -1130,35 +1130,35 @@
         },
         {
             "id": 663,
-            "text": "Click <strong>Switch anyway</strong>, if it's shown"
+            "text": "点击<strong>切换</strong>，如果显示"
         },
         {
             "id": 664,
-            "text": "Go to Microsoft Edge notification settings"
+            "text": "转到Microsoft Edge通知设置"
         },
         {
             "id": 665,
-            "text": "{0, plural,\n          =0 {A Microsoft Edge update is available}\n          =1 {A Microsoft Edge update is available}\n          other {A Microsoft Edge update has been available for # days}}"
+            "text": "{0, plural,\n          =0 {Microsoft Edge更新可用}\n          =1 {{Microsoft Edge更新可用}\n          other {Microsoft Edge更新可用}}"
         },
         {
             "id": 666,
-            "text": "Your administrator asks that you relaunch Microsoft Edge to apply this update"
+            "text": "您的管理员要求您重新启动Microsoft Edge以应用此更新"
         },
         {
             "id": 667,
-            "text": "{0, plural,\n          =1 {Relaunch Microsoft Edge within a day}\n          other {Relaunch Microsoft Edge within # days}}"
+            "text": "{0, plural,\n          =1 {在一天内重新启动Microsoft Edge}\n          other {在#天内重新启动Microsoft Edge}}"
         },
         {
             "id": 668,
-            "text": "{0, plural,\n          =1 {Microsoft Edge will relaunch in an hour}\n          other {Microsoft Edge will relaunch in # hours}}"
+            "text": "{0, plural,\n          =1 {Microsoft Edge将在一小时后重新启动}\n          other {Microsoft Edge将在#小时后重新启动}}"
         },
         {
             "id": 669,
-            "text": "{0, plural,\n          =1 {Microsoft Edge will relaunch in 1 minute}\n          other {Microsoft Edge will relaunch in # minutes}}"
+            "text": "{0, plural,\n          =1 {Microsoft Edge将在1分钟后重新启动}\n          other {Microsoft Edge将在#分钟后重新启动}}"
         },
         {
             "id": 670,
-            "text": "{0, plural,\n          =0 {Microsoft Edge will relaunch now}\n          =1 {Microsoft Edge will relaunch in 1 second}\n          other {Microsoft Edge will relaunch in # seconds}}"
+            "text": "{0, plural,\n          =0 {Microsoft Edge将立即重新启动}\n          =1 {Microsoft Edge将在1秒后重新启动}\n          other {Microsoft Edge将在#秒后重新启动}}"
         },
         {
             "id": 671,
@@ -1818,7 +1818,7 @@
         },
         {
             "id": 1006,
-            "text": "管理员($1)可在chrome.com上查看使用情况和历史记录。"
+            "text": "Usage and history can be reviewed by the manager ($1) on chrome.com."
         },
         {
             "id": 1007,
@@ -2314,7 +2314,7 @@
         },
         {
             "id": 2487,
-            "text": "打开网上商店"
+            "text": "打开应用商店"
         },
         {
             "id": 2488,
@@ -2330,7 +2330,7 @@
         },
         {
             "id": 2491,
-            "text": "如果图片缺少有用的说明，则 Chrome 会尝试为您提供一条说明。为便于创建说明，系统会将图片发送给 Google。"
+            "text": "If an image doesn’t have a useful description, Chrome will try to provide one for you. To create descriptions, images are sent to Google."
         },
         {
             "id": 2628,
@@ -2394,7 +2394,7 @@
         },
         {
             "id": 2648,
-            "text": "打开 Chrome 网上应用店"
+            "text": "Open Chrome Web Store"
         },
         {
             "id": 2652,
@@ -3090,7 +3090,7 @@
         },
         {
             "id": 3289,
-            "text": "帮助我们改进 Chrome 的功能和性能"
+            "text": "Help improve Chrome's features and performance"
         },
         {
             "id": 3290,
@@ -3147,6 +3147,14 @@
         {
             "id": 3305,
             "text": "现在清除"
+        },
+        {
+            "id": 3306,
+            "text": "这将仅清除Microsoft Edge中的浏览数据。要清除Application Guard中的浏览数据，请转到 设置 > 隐私和服务。"
+        },
+        {
+            "id": 3307,
+            "text": "这将仅清除 Application Guard 中的浏览数据。要清除 Microsoft Edge 中的浏览数据，请转至 设置>隐私和服务 。"
         },
         {
             "id": 3308,
@@ -4118,7 +4126,7 @@
         },
         {
             "id": 3702,
-            "text": "Chrome 同步的数据"
+            "text": "Data from Chrome sync"
         },
         {
             "id": 3703,
@@ -4730,7 +4738,7 @@
         },
         {
             "id": 4138,
-            "text": "在 Chrome 网上应用店中查看详情"
+            "text": "View in Chrome Web Store"
         },
         {
             "id": 4139,
@@ -4774,7 +4782,7 @@
         },
         {
             "id": 4151,
-            "text": "Chrome网上应用店"
+            "text": "Chrome应用商店"
         },
         {
             "id": 4153,
@@ -4806,7 +4814,7 @@
         },
         {
             "id": 4162,
-            "text": "No search results found. Visit <a target=\"_blank\" href=\"https://microsoftedge.microsoft.com/insider-addons\">Microsoft Store</a> to install your extension."
+            "text": "未找到搜索结果。请访问<a target=\"_blank\" href=\"https://microsoftedge.microsoft.com/insider-addons\"> Microsoft Store </a>以安装您的扩展程序。"
         },
         {
             "id": 4163,
@@ -4862,7 +4870,7 @@
         },
         {
             "id": 4178,
-            "text": "From Microsoft Store"
+            "text": "来自Microsoft Store"
         },
         {
             "id": 4179,
@@ -4942,19 +4950,19 @@
         },
         {
             "id": 4218,
-            "text": "Favorites added"
+            "text": "收藏夹"
         },
         {
             "id": 4219,
-            "text": "Favorite removed"
+            "text": "最喜欢删除"
         },
         {
             "id": 4220,
-            "text": "Favorites removed"
+            "text": "收藏夹删除"
         },
         {
             "id": 4221,
-            "text": "Favorite replaced"
+            "text": "最喜欢的替换"
         },
         {
             "id": 4229,
@@ -4974,7 +4982,7 @@
         },
         {
             "id": 4245,
-            "text": "Get Started"
+            "text": "开始"
         },
         {
             "id": 4247,
@@ -5026,7 +5034,7 @@
         },
         {
             "id": 4261,
-            "text": "Change…"
+            "text": "更改…"
         },
         {
             "id": 4262,
@@ -5046,7 +5054,7 @@
         },
         {
             "id": 4267,
-            "text": "Add a printer"
+            "text": "添加打印机"
         },
         {
             "id": 4268,
@@ -5166,7 +5174,7 @@
         },
         {
             "id": 4301,
-            "text": "Print specific pages"
+            "text": "打印特定页面"
         },
         {
             "id": 4302,
@@ -5246,7 +5254,7 @@
         },
         {
             "id": 4323,
-            "text": "Add account"
+            "text": "新增帐户"
         },
         {
             "id": 4324,
@@ -5262,15 +5270,15 @@
         },
         {
             "id": 4327,
-            "text": "Recent destinations"
+            "text": "最近的目的地"
         },
         {
             "id": 4328,
-            "text": "Print destinations"
+            "text": "打印目的地"
         },
         {
             "id": 4330,
-            "text": "See more"
+            "text": "看更多"
         },
         {
             "id": 4331,
@@ -5322,7 +5330,7 @@
         },
         {
             "id": 4345,
-            "text": "Apply"
+            "text": "应用"
         },
         {
             "id": 4346,
@@ -5342,11 +5350,11 @@
         },
         {
             "id": 4350,
-            "text": "<strong>$1</strong> wants to share a printer (<strong>$2</strong>) with a group you own: <strong>$3</strong>. If you accept, all group members will be able to print to the printer."
+            "text": "<strong>$1</strong>希望与您拥有的群组共享打印机（<strong>$2</strong>）：<strong>$3</strong>。如果您接受，则所有群组成员都可以打印到打印机。"
         },
         {
             "id": 4351,
-            "text": "<strong>$1</strong> wants to share a printer (<strong>$2</strong>) with you."
+            "text": "<strong>$1</strong>希望与您共享打印机（<strong>$2</strong>）。"
         },
         {
             "id": 4352,
@@ -5374,11 +5382,11 @@
         },
         {
             "id": 4366,
-            "text": "Untitled document"
+            "text": "无标题文档"
         },
         {
             "id": 4367,
-            "text": "Print failed"
+            "text": "打印失败"
         },
         {
             "id": 4369,
@@ -5486,11 +5494,11 @@
         },
         {
             "id": 4400,
-            "text": "Finish"
+            "text": "完"
         },
         {
             "id": 4401,
-            "text": "New InPrivate tab"
+            "text": "新的隐身标签"
         },
         {
             "id": 4403,
@@ -5502,15 +5510,15 @@
         },
         {
             "id": 4405,
-            "text": "Close InPrivate tabs"
+            "text": "关闭隐身标签"
         },
         {
             "id": 4409,
-            "text": "Close full-screen"
+            "text": "关闭全屏"
         },
         {
             "id": 4410,
-            "text": "Scroll / click"
+            "text": "滚动/点击"
         },
         {
             "id": 4412,
@@ -5518,7 +5526,7 @@
         },
         {
             "id": 4413,
-            "text": "Close VR"
+            "text": "关闭VR"
         },
         {
             "id": 4414,
@@ -5714,7 +5722,7 @@
         },
         {
             "id": 4485,
-            "text": "History filters"
+            "text": "历史过滤器"
         },
         {
             "id": 4497,
@@ -5742,11 +5750,11 @@
         },
         {
             "id": 4505,
-            "text": "边缘兼容性页面正在建设中。"
+            "text": "Edge兼容性页面正在建设中。"
         },
         {
             "id": 4506,
-            "text": "Edge Compatibility"
+            "text": "Edge兼容性"
         },
         {
             "id": 4510,
@@ -5754,7 +5762,7 @@
         },
         {
             "id": 4512,
-            "text": "Results for '$1'"
+            "text": "'$1'的结果"
         },
         {
             "id": 4513,
@@ -5810,11 +5818,11 @@
         },
         {
             "id": 4528,
-            "text": "Open link wit&h"
+            "text": "打开链接机"
         },
         {
             "id": 4529,
-            "text": "&Change default"
+            "text": "更改默认值"
         },
         {
             "id": 4530,
@@ -5830,7 +5838,7 @@
         },
         {
             "id": 4533,
-            "text": "&Refresh app"
+            "text": "刷新应用"
         },
         {
             "id": 4534,
@@ -5938,7 +5946,7 @@
         },
         {
             "id": 4562,
-            "text": "Sa&ve audio as"
+            "text": "音频另存为"
         },
         {
             "id": 4564,
@@ -5986,11 +5994,11 @@
         },
         {
             "id": 4580,
-            "text": "Getting suggestion"
+            "text": "得到建议"
         },
         {
             "id": 4581,
-            "text": "No more suggestions"
+            "text": "没有更多建议"
         },
         {
             "id": 4583,
@@ -6010,15 +6018,15 @@
         },
         {
             "id": 4589,
-            "text": "Run this plug-in"
+            "text": "运行此插件"
         },
         {
             "id": 4590,
-            "text": "Hide this plug-in"
+            "text": "隐藏此插件"
         },
         {
             "id": 4591,
-            "text": "Turn on Flash"
+            "text": "打开Flash"
         },
         {
             "id": 4592,
@@ -6051,6 +6059,10 @@
         {
             "id": 4599,
             "text": "打开新的隐身窗口"
+        },
+        {
+            "id": 4600,
+            "text": "新的Application Guard窗口"
         },
         {
             "id": 4601,
@@ -6234,11 +6246,11 @@
         },
         {
             "id": 4678,
-            "text": "Couldn't download"
+            "text": "无法下载"
         },
         {
             "id": 4679,
-            "text": "No permissions"
+            "text": "没有权限"
         },
         {
             "id": 4680,
@@ -6254,7 +6266,7 @@
         },
         {
             "id": 4683,
-            "text": "Hard disk full"
+            "text": "硬盘已满"
         },
         {
             "id": 4684,
@@ -6270,7 +6282,7 @@
         },
         {
             "id": 4687,
-            "text": "Try again later"
+            "text": "稍后再试"
         },
         {
             "id": 4688,
@@ -6318,7 +6330,7 @@
         },
         {
             "id": 4701,
-            "text": "Poor connectivity"
+            "text": "连通性差"
         },
         {
             "id": 4702,
@@ -6334,7 +6346,7 @@
         },
         {
             "id": 4705,
-            "text": "Server not available"
+            "text": "服务器不可用"
         },
         {
             "id": 4706,
@@ -6342,7 +6354,7 @@
         },
         {
             "id": 4707,
-            "text": "Network issue"
+            "text": "网络问题"
         },
         {
             "id": 4708,
@@ -6366,7 +6378,7 @@
         },
         {
             "id": 4713,
-            "text": "Browser closed"
+            "text": "浏览器已关闭"
         },
         {
             "id": 4714,
@@ -6374,7 +6386,7 @@
         },
         {
             "id": 4715,
-            "text": "Browser crashed"
+            "text": "浏览器崩溃"
         },
         {
             "id": 4716,
@@ -6406,7 +6418,7 @@
         },
         {
             "id": 4727,
-            "text": "Downloading…"
+            "text": "下载..."
         },
         {
             "id": 4736,
@@ -6442,7 +6454,7 @@
         },
         {
             "id": 4745,
-            "text": "Scanning for viruses"
+            "text": "扫描病毒"
         },
         {
             "id": 4746,
@@ -6522,11 +6534,11 @@
         },
         {
             "id": 4772,
-            "text": "all files"
+            "text": "所有的文件"
         },
         {
             "id": 4773,
-            "text": "compressed files"
+            "text": "压缩文件"
         },
         {
             "id": 4775,
@@ -6534,7 +6546,7 @@
         },
         {
             "id": 4776,
-            "text": "Downloads filters"
+            "text": "下载过滤器"
         },
         {
             "id": 4777,
@@ -6550,11 +6562,11 @@
         },
         {
             "id": 4781,
-            "text": "Open file $1"
+            "text": "打开文件$1"
         },
         {
             "id": 4782,
-            "text": "Resume"
+            "text": "恢复"
         },
         {
             "id": 4783,
@@ -6566,7 +6578,7 @@
         },
         {
             "id": 4788,
-            "text": "Deleted"
+            "text": "已删除"
         },
         {
             "id": 4790,
@@ -6606,7 +6618,7 @@
         },
         {
             "id": 4804,
-            "text": "apps"
+            "text": "应用"
         },
         {
             "id": 4805,
@@ -6614,19 +6626,19 @@
         },
         {
             "id": 4806,
-            "text": "documents"
+            "text": "文件"
         },
         {
             "id": 4807,
-            "text": "images"
+            "text": "图片"
         },
         {
             "id": 4808,
-            "text": "videos"
+            "text": "视频"
         },
         {
             "id": 4809,
-            "text": "others"
+            "text": "其他"
         },
         {
             "id": 4811,
@@ -6738,7 +6750,7 @@
         },
         {
             "id": 4862,
-            "text": "{NUM_DOWNLOAD, plural,\n          =1 {You might lose it if you close InPrivate browsing.} other {You might lose them if you close InPrivate browsing.}}"
+            "text": "{NUM_DOWNLOAD, plural,\n          =1 {如果您关闭隐身浏览，可能会丢失它。} other {如果您关闭隐身浏览，可能会丢失它们。}}"
         },
         {
             "id": 4870,
@@ -6918,7 +6930,7 @@
         },
         {
             "id": 4935,
-            "text": "Show cookies and other site data"
+            "text": "显示Cookie和其他网站数据"
         },
         {
             "id": 4936,
@@ -7034,7 +7046,7 @@
         },
         {
             "id": 4965,
-            "text": "Plug-in blocked"
+            "text": "插件被阻止"
         },
         {
             "id": 4966,
@@ -7078,7 +7090,7 @@
         },
         {
             "id": 4976,
-            "text": "Subject"
+            "text": "标题"
         },
         {
             "id": 4977,
@@ -7090,7 +7102,7 @@
         },
         {
             "id": 4979,
-            "text": "Serial number"
+            "text": "序列号"
         },
         {
             "id": 5160,
@@ -7098,11 +7110,11 @@
         },
         {
             "id": 5161,
-            "text": "DevTools requests full access to $1. Make sure you don't reveal any sensitive information."
+            "text": "DevTools要求完全访问$1.请确保您不会泄露任何敏感信息。"
         },
         {
             "id": 5163,
-            "text": "Deny"
+            "text": "拒绝"
         },
         {
             "id": 5164,
@@ -7234,7 +7246,7 @@
         },
         {
             "id": 5199,
-            "text": "InPrivate Extension: $1"
+            "text": "隐身扩展：$1"
         },
         {
             "id": 5200,
@@ -7242,7 +7254,7 @@
         },
         {
             "id": 5201,
-            "text": "InPrivate App: $1"
+            "text": "隐身应用：$1"
         },
         {
             "id": 5202,
@@ -7250,7 +7262,7 @@
         },
         {
             "id": 5203,
-            "text": "InPrivate Tab: $1"
+            "text": "隐身标签：$1"
         },
         {
             "id": 5204,
@@ -7290,7 +7302,7 @@
         },
         {
             "id": 5213,
-            "text": "Native client module: $1"
+            "text": "原生客户端模块：$1"
         },
         {
             "id": 5214,
@@ -7310,11 +7322,11 @@
         },
         {
             "id": 5218,
-            "text": "InPrivate Subframe: $1"
+            "text": "InPrivate Subframe：$1"
         },
         {
             "id": 5226,
-            "text": "Microsoft Edge file utilities"
+            "text": "Microsoft Edge文件实用程序"
         },
         {
             "id": 5227,
@@ -7326,7 +7338,7 @@
         },
         {
             "id": 5229,
-            "text": "Microsoft Edge system image writer"
+            "text": "Microsoft Edge系统映像编写器"
         },
         {
             "id": 5230,
@@ -7354,7 +7366,7 @@
         },
         {
             "id": 5237,
-            "text": "To enable this extension, accept the new permissions."
+            "text": "要启用此扩展程序，请接受新权限。"
         },
         {
             "id": 5238,
@@ -7370,11 +7382,11 @@
         },
         {
             "id": 5241,
-            "text": "Refresh page to use this extension"
+            "text": "刷新页面以使用此扩展程序"
         },
         {
             "id": 5247,
-            "text": "Confirm permissions"
+            "text": "确认权限"
         },
         {
             "id": 5248,
@@ -7386,15 +7398,15 @@
         },
         {
             "id": 5250,
-            "text": "Remove \"$1\" from Microsoft Edge?"
+            "text": "从Microsoft Edge删除\"$1\"？"
         },
         {
             "id": 5251,
-            "text": "\"$1\" would like to remove \"$2\" from Microsoft Edge."
+            "text": "\"$1\" 想从Microsoft Edge中删除 \"$2\"。"
         },
         {
             "id": 5252,
-            "text": "The newest version of \"$1\" has been disabled because it requires additional permissions."
+            "text": "最新版本的 \"$1\" 已被禁用，因为它需要额外的权限。"
         },
         {
             "id": 5253,
@@ -7414,15 +7426,15 @@
         },
         {
             "id": 5257,
-            "text": "Another program on your computer added an app that may change the way Microsoft Edge works.\n\n\n$1"
+            "text": "您计算机上的另一个程序添加了一个可能会改变Microsoft Edge工作方式的应用程序。\n\n\n$1"
         },
         {
             "id": 5258,
-            "text": "Another program on your computer added an extension that may change the way Microsoft Edge works.\n\n$1"
+            "text": "您计算机上的另一个程序添加了一个扩展，可能会改变Microsoft Edge的工作方式。\n\n\n$1"
         },
         {
             "id": 5259,
-            "text": "Another program on your computer added a theme that may change the way Microsoft Edge works.\n\n$1"
+            "text": "您计算机上的另一个程序添加了一个可能改变Microsoft Edge工作方式的主题。\n\n\n$1"
         },
         {
             "id": 5260,
@@ -7438,11 +7450,11 @@
         },
         {
             "id": 5264,
-            "text": "Confirm changes"
+            "text": "确认更改"
         },
         {
             "id": 5265,
-            "text": "The extension \"$1\" has been added to Microsoft Edge."
+            "text": "扩展 \"$1\" 已添加到Microsoft Edge。"
         },
         {
             "id": 5266,
@@ -7458,7 +7470,7 @@
         },
         {
             "id": 5269,
-            "text": "在 Chrome 网上应用店中打开"
+            "text": "Open in Web Store"
         },
         {
             "id": 5270,
@@ -7486,7 +7498,7 @@
         },
         {
             "id": 5277,
-            "text": "The extension could:"
+            "text": "扩展可以："
         },
         {
             "id": 5279,
@@ -7658,7 +7670,7 @@
         },
         {
             "id": 5323,
-            "text": "All $1 sites"
+            "text": "所有$1的网站"
         },
         {
             "id": 5324,
@@ -7974,11 +7986,11 @@
         },
         {
             "id": 5409,
-            "text": "通过选择此图标或按$1使用此扩展名。"
+            "text": "通过选择此图标或按$1使用此扩展。"
         },
         {
             "id": 5410,
-            "text": "要使用此扩展名，请键入 \"$1\"，按Tab键，然后键入命令或搜索。"
+            "text": "要使用此扩展，请键入 \"$1\"，按Tab键，然后键入命令或搜索。"
         },
         {
             "id": 5411,
@@ -7994,11 +8006,11 @@
         },
         {
             "id": 5414,
-            "text": "您现在可以从Chrome网上应用店向Microsoft Edge添加扩展程序。"
+            "text": "您现在可以从Chrome应用商店向Microsoft Edge添加扩展程序。"
         },
         {
             "id": 5415,
-            "text": "您现在可以从Chrome网上应用店向Microsoft Edge添加扩展程序 - 点击“添加到Chrome”。"
+            "text": "您现在可以从Chrome应用商店向Microsoft Edge添加扩展程序 - 点击“添加到Chrome”。"
         },
         {
             "id": 5421,
@@ -8010,7 +8022,7 @@
         },
         {
             "id": 5423,
-            "text": "Confirm access"
+            "text": "确认访问权限"
         },
         {
             "id": 5424,
@@ -8026,7 +8038,7 @@
         },
         {
             "id": 5427,
-            "text": "我们无法加载扩展名："
+            "text": "我们无法加载扩展："
         },
         {
             "id": 5428,
@@ -8122,7 +8134,7 @@
         },
         {
             "id": 5457,
-            "text": "Created the following files:\n\nExtension: $1\nKey file: $2\n\nKeep your key file in a safe place. You'll need it to create new versions of your extension."
+            "text": "创建了以下文件：\n\n扩展：$1\n密钥：$2\n\n将您的密钥文件保存在安全的地方。您需要它来创建扩展的新版本。"
         },
         {
             "id": 5458,
@@ -8150,7 +8162,7 @@
         },
         {
             "id": 5468,
-            "text": "\"$1\" wants to remove this extension."
+            "text": "\"$1\" 想要删除此扩展程序。"
         },
         {
             "id": 5469,
@@ -8174,7 +8186,7 @@
         },
         {
             "id": 5476,
-            "text": "Install extension"
+            "text": "安装扩展"
         },
         {
             "id": 5478,
@@ -8190,15 +8202,15 @@
         },
         {
             "id": 5483,
-            "text": "Show details"
+            "text": "显示详细资料"
         },
         {
             "id": 5484,
-            "text": "Hide details"
+            "text": "隐藏细节"
         },
         {
             "id": 5485,
-            "text": "We can't complete that download. You don't have access."
+            "text": "我们无法完成下载。您无法访问。"
         },
         {
             "id": 5486,
@@ -8206,35 +8218,35 @@
         },
         {
             "id": 5487,
-            "text": "$1 extension has been added."
+            "text": "已添加$1的续订。"
         },
         {
             "id": 5488,
-            "text": "$1 app has been added."
+            "text": "已经添加了$1的应用程序。"
         },
         {
             "id": 5489,
-            "text": "$1 has been added."
+            "text": "已经添加了$1。"
         },
         {
             "id": 5490,
-            "text": "\"$1\" added to Microsoft Edge"
+            "text": "\"$1\" 添加到Microsoft Edge"
         },
         {
             "id": 5491,
-            "text": "您计算机上的其他程序添加了一个应用，该应用可能会改变 Chrome 的工作方式。"
+            "text": "Another program on your computer added an app that may change the way Chrome works."
         },
         {
             "id": 5492,
-            "text": "您计算机上的其他程序添加了一个主题背景，该主题背景可能会改变 Chrome 的工作方式。"
+            "text": "Another program on your computer added a theme that may change the way Chrome works."
         },
         {
             "id": 5493,
-            "text": "Unsupported extensions are disabled"
+            "text": "禁用不支持的扩展程序"
         },
         {
             "id": 5494,
-            "text": "Another program on your computer added an extension that may change the way Microsoft Edge works."
+            "text": "您计算机上的另一个程序添加了一个扩展，可能会改变Microsoft Edge的工作方式。"
         },
         {
             "id": 5495,
@@ -8242,7 +8254,7 @@
         },
         {
             "id": 5497,
-            "text": "This extension is not from any known source, and may have been added without your knowledge."
+            "text": "此扩展程序不是来自任何已知来源，可能是在您不知情的情况下添加的。"
         },
         {
             "id": 5498,
@@ -8254,19 +8266,19 @@
         },
         {
             "id": 5502,
-            "text": "Is this the homepage you expected?"
+            "text": "这是你期望的主页吗？"
         },
         {
             "id": 5503,
-            "text": "Is this the startup page you expected?"
+            "text": "这是你期望的启动页吗？"
         },
         {
             "id": 5504,
-            "text": "Is this the search page you expected?"
+            "text": "这是您期望的搜索页面吗？"
         },
         {
             "id": 5505,
-            "text": "Is this the new tab you expected?"
+            "text": "这是你期望的新标签吗？"
         },
         {
             "id": 5506,
@@ -8274,43 +8286,43 @@
         },
         {
             "id": 5507,
-            "text": "This extension has changed the page that's shown when you search from the address bar."
+            "text": "此扩展程序更改了从地址栏搜索时显示的页面。"
         },
         {
             "id": 5508,
-            "text": "The extension \"$1\" has changed the page that's shown when you search from the address bar."
+            "text": "扩展 \"$1\" 已更改了从地址栏搜索时显示的页面。"
         },
         {
             "id": 5509,
-            "text": "This extension has changed the page that's shown when you click the Home button."
+            "text": "此扩展程序更改了单击”主页“按钮时显示的页面。"
         },
         {
             "id": 5510,
-            "text": "The extension \"$1\" has changed the page that's shown when you click the Home button."
+            "text": "扩展 \"$1\" 已更改单击”主页“按钮时显示的页面。"
         },
         {
             "id": 5511,
-            "text": " It also controls the page shown when you search."
+            "text": "它还控制搜索时显示的页面。"
         },
         {
             "id": 5512,
-            "text": " It also controls which page is shown when you select the Home button."
+            "text": "它还控制选择主页按钮时显示的页面。"
         },
         {
             "id": 5513,
-            "text": " It also controls which page is shown when you click the Home button or search from the address bar."
+            "text": "它还控制单击”主页“按钮或从地址栏搜索时显示的页面。"
         },
         {
             "id": 5514,
-            "text": "An extension has changed the page shown when you open a new tab."
+            "text": "扩展程序更改了打开新标签页时显示的页面。"
         },
         {
             "id": 5515,
-            "text": "The extension \"$1\" has taken control of your proxy settings, which means it can change, break, or eavesdrop on anything you do online. If you aren't sure why this change happened, you may not want it."
+            "text": "扩展 \"$1\" 已经控制了你的代理设置，这意味着它可以改变，破坏或窃听你在网上做的任何事情。如果你不确定为什么会发生这种改变，你可能不会想要它。"
         },
         {
             "id": 5516,
-            "text": "This extension has taken control of your proxy settings, which means it can change, break, or eavesdrop on anything you do online. If you aren't sure why this change happened, you may not want it."
+            "text": "此扩展程序已控制您的代理设置，这意味着它可以更改，中断或窃听您在线执行的任何操作。如果您不确定为何发生此更改，则可能不需要它。"
         },
         {
             "id": 5517,
@@ -8330,7 +8342,7 @@
         },
         {
             "id": 5521,
-            "text": "Click to go back"
+            "text": "点击返回"
         },
         {
             "id": 5522,
@@ -8362,19 +8374,19 @@
         },
         {
             "id": 5530,
-            "text": "Checking…"
+            "text": "检查…"
         },
         {
             "id": 5532,
-            "text": "Downloading diff…"
+            "text": "正在下载差异..."
         },
         {
             "id": 5534,
-            "text": "Downloaded"
+            "text": "下载"
         },
         {
             "id": 5535,
-            "text": "Updating diff…"
+            "text": "正在更新差异..."
         },
         {
             "id": 5537,
@@ -8442,11 +8454,11 @@
         },
         {
             "id": 5556,
-            "text": "Save password"
+            "text": "保存密码"
         },
         {
             "id": 5557,
-            "text": "Save username"
+            "text": "保存用户名"
         },
         {
             "id": 5558,
@@ -8470,7 +8482,7 @@
         },
         {
             "id": 5565,
-            "text": "To get your passwords on all your devices, sign in to Microsoft Edge."
+            "text": "要在所有设备上获取密码，请登录Microsoft Edge。"
         },
         {
             "id": 5566,
@@ -8482,11 +8494,11 @@
         },
         {
             "id": 5573,
-            "text": "You saved data"
+            "text": "你保存了数据"
         },
         {
             "id": 5574,
-            "text": "Page loads faster"
+            "text": "页面加载速度更快"
         },
         {
             "id": 5575,
@@ -8498,7 +8510,7 @@
         },
         {
             "id": 5577,
-            "text": "Updated 1 hr ago"
+            "text": "1小时前更新"
         },
         {
             "id": 5578,
@@ -8610,7 +8622,7 @@
         },
         {
             "id": 5612,
-            "text": "We couldn't download $1"
+            "text": "我们无法下载$1"
         },
         {
             "id": 5613,
@@ -8638,11 +8650,11 @@
         },
         {
             "id": 5621,
-            "text": "You're using an unsupported command-line flag: $1. This poses stability and security risks."
+            "text": "你使用的是不受支持的命令行标志：$1。这会带来稳定性和安全风险。"
         },
         {
             "id": 5622,
-            "text": "You're using an unsupported feature flag: $1. This poses stability and security risks."
+            "text": "你正在使用一个不受支持的功能标志：$1。这会带来稳定性和安全风险。"
         },
         {
             "id": 5623,
@@ -8650,7 +8662,7 @@
         },
         {
             "id": 5626,
-            "text": "Unsandboxed plug-in blocked"
+            "text": "未封装的插件被阻止"
         },
         {
             "id": 5627,
@@ -8658,7 +8670,7 @@
         },
         {
             "id": 5628,
-            "text": "An unsandboxed plug-in was prevented from running on this page."
+            "text": "防止在此页面上运行未经过沙盒插入的插件。"
         },
         {
             "id": 5629,
@@ -8666,11 +8678,11 @@
         },
         {
             "id": 5630,
-            "text": "Always allow unsandboxed plug-ins on $1"
+            "text": "总是允许$1的无沙箱的插件"
         },
         {
             "id": 5631,
-            "text": "Continue blocking unsandboxed plug-ins"
+            "text": "继续阻止无沙箱的插件"
         },
         {
             "id": 5632,
@@ -8710,15 +8722,15 @@
         },
         {
             "id": 5645,
-            "text": "Expand"
+            "text": "展开"
         },
         {
             "id": 5646,
-            "text": "Collapse"
+            "text": "折叠"
         },
         {
             "id": 5647,
-            "text": "We couldn't parse the upload for the $1 file"
+            "text": "我们无法解析$1文件的上传"
         },
         {
             "id": 5655,
@@ -8821,12 +8833,16 @@
             "text": "发送反馈"
         },
         {
+            "id": 5698,
+            "text": "Application Guard"
+        },
+        {
             "id": 5699,
             "text": "刷新 （F5）"
         },
         {
             "id": 5700,
-            "text": "Refresh this page, hold to see more options"
+            "text": "刷新此页面，按住以查看更多选项"
         },
         {
             "id": 5701,
@@ -8842,7 +8858,7 @@
         },
         {
             "id": 5707,
-            "text": "Show translate options"
+            "text": "显示翻译选项"
         },
         {
             "id": 5708,
@@ -8858,7 +8874,7 @@
         },
         {
             "id": 5712,
-            "text": "Reading View"
+            "text": "阅读视图"
         },
         {
             "id": 5713,
@@ -8878,11 +8894,11 @@
         },
         {
             "id": 5717,
-            "text": "继续使用 Chrome"
+            "text": "Stay in Chrome"
         },
         {
             "id": 5719,
-            "text": "$1 (InPrivate)"
+            "text": "$1（隐身）"
         },
         {
             "id": 5722,
@@ -8890,11 +8906,11 @@
         },
         {
             "id": 5723,
-            "text": "Feedback"
+            "text": "反馈"
         },
         {
             "id": 5728,
-            "text": "$1 folder"
+            "text": "$1文件夹"
         },
         {
             "id": 5729,
@@ -8946,31 +8962,31 @@
         },
         {
             "id": 5748,
-            "text": "Easily find this page later by adding it to favorites"
+            "text": "稍后通过将其添加到收藏夹轻松找到此页面"
         },
         {
             "id": 5749,
-            "text": "To add a page to favorites, select the star"
+            "text": "要将页面添加到收藏夹，请选择星标"
         },
         {
             "id": 5750,
-            "text": "Get back here fast by adding this page to favorites"
+            "text": "通过将此页面添加到收藏夹中快速返回此处"
         },
         {
             "id": 5751,
-            "text": "Browse privately with an InPrivate window."
+            "text": "使用InPrivate窗口私下浏览。"
         },
         {
             "id": 5752,
-            "text": "With InPrivate windows, you can browse the web without saving your history."
+            "text": "使用隐身窗口，您可以浏览网页而不保存历史记录。"
         },
         {
             "id": 5753,
-            "text": "Using a shared computer? Try browsing using an InPrivate window."
+            "text": "使用共享计算机？尝试使用隐身窗口进行浏览。"
         },
         {
             "id": 5754,
-            "text": "To browse privately, choose Settings > New InPrivate window or press and hold Ctrl+Shift+N."
+            "text": "要私下浏览，请选择设置>新建隐身窗口或按住Ctrl + Shift + N."
         },
         {
             "id": 5755,
@@ -8994,7 +9010,7 @@
         },
         {
             "id": 5761,
-            "text": "{NUM_PAGES, plural,\n        =1 {This page isn't responding}\n        other {These pages aren't responding}}"
+            "text": "{NUM_PAGES, plural,\n        =1 {此页面无响应}\n        other {这些页面没有响应}}"
         },
         {
             "id": 5763,
@@ -9014,7 +9030,7 @@
         },
         {
             "id": 5768,
-            "text": "Stop plug-in"
+            "text": "停止插件"
         },
         {
             "id": 5771,
@@ -9034,11 +9050,11 @@
         },
         {
             "id": 5782,
-            "text": "Import Passwords To Microsoft Edge"
+            "text": "将密码导入Microsoft Edge"
         },
         {
             "id": 5783,
-            "text": "Export Passwords From Microsoft Edge"
+            "text": "从Microsoft Edge导出密码"
         },
         {
             "id": 5791,
@@ -9090,11 +9106,11 @@
         },
         {
             "id": 5812,
-            "text": "Magnified screenshot of your desktop and Microsoft Edge windows."
+            "text": "桌面和Microsoft Edge窗口的放大屏幕截图。"
         },
         {
             "id": 5813,
-            "text": "Zoom to a screenshot of your desktop and Microsoft Edge windows. Warning: might contain sensitive information."
+            "text": "缩放到桌面和Microsoft Edge窗口的屏幕截图。警告：可能包含敏感信息。"
         },
         {
             "id": 5815,
@@ -9114,51 +9130,51 @@
         },
         {
             "id": 5820,
-            "text": "Tell us more"
+            "text": "请告诉我们更多"
         },
         {
             "id": 5821,
-            "text": "Your feedback will be used to improve Microsoft's products and services. <a href=\"#\" id=\"privacy-statement-page-url\">Microsoft Privacy Statement</a>"
+            "text": "您的反馈将用于改进Microsoft的产品和服务。<a href=\"#\" id=\"privacy-statement-page-url\"> Microsoft隐私声明</a>"
         },
         {
             "id": 5822,
-            "text": "Recommend Microsoft Edge"
+            "text": "推荐Microsoft Edge"
         },
         {
             "id": 5823,
-            "text": "How likely are you to recommend Microsoft Edge to a friend or colleague?"
+            "text": "你有多大可能向朋友或同事推荐Microsoft Edge？"
         },
         {
             "id": 5824,
-            "text": "Not at all likely"
+            "text": "根本不可能"
         },
         {
             "id": 5825,
-            "text": "Not likely"
+            "text": "不见得"
         },
         {
             "id": 5826,
-            "text": "Neutral"
+            "text": "中性"
         },
         {
             "id": 5827,
-            "text": "Likely"
+            "text": "有可能"
         },
         {
             "id": 5828,
-            "text": "Extremely likely"
+            "text": "极有可能"
         },
         {
             "id": 5829,
-            "text": "Tell us more about your score"
+            "text": "告诉我们更多关于你的分数"
         },
         {
             "id": 5830,
-            "text": "How likely are you to recommend Microsoft Edge$1 to a friend or colleague?"
+            "text": "你有多大可能向朋友或同事推荐Microsoft Edge $1？"
         },
         {
             "id": 5833,
-            "text": "System Information"
+            "text": "系统信息"
         },
         {
             "id": 5835,
@@ -9186,15 +9202,15 @@
         },
         {
             "id": 5846,
-            "text": "为了更好地诊断蓝牙问题，Google 用户可以在反馈报告中包含其他蓝牙日志。此选项处于选中状态时，您的报告中将包含来自当前会话的 btsnoop 和 HCI 日志，这些日志经过处理，尽可能移除了个人身份信息。只有 Listnr 的 Chrome 操作系统产品组管理员可以访问这些日志。这些日志将于 90 天后被完全清除。"
+            "text": "To better diagnose Bluetooth issues, Googlers can include additional Bluetooth logs with their feedback reports. When this option is checked, your report will include btsnoop and HCI logs from your current session, sanitized to remove as much PII as possible. Access to these logs will be restricted to managers of the Chrome OS product group in Listnr. Logs will be purged after 90 days."
         },
         {
             "id": 5847,
-            "text": "Feedback report"
+            "text": "反馈报告"
         },
         {
             "id": 5848,
-            "text": "Thank you for your feedback. It'll be sent next time you're online."
+            "text": "感谢您的反馈。下次您在线时会发送。"
         },
         {
             "id": 5852,
@@ -9231,6 +9247,10 @@
         {
             "id": 5863,
             "text": "其他信息（选填）"
+        },
+        {
+            "id": 5865,
+            "text": "You're browsing in Application Guard for Microsoft Edge. This helps keep your computer safer by creating a separate browsing environment."
         },
         {
             "id": 5868,
@@ -9574,7 +9594,7 @@
         },
         {
             "id": 6012,
-            "text": "Setting up…"
+            "text": "配置…"
         },
         {
             "id": 6013,
@@ -9622,7 +9642,7 @@
         },
         {
             "id": 6024,
-            "text": "此扩展程序违反了 Chrome 网上应用店政策。"
+            "text": "This extension violates the Chrome Web Store policy."
         },
         {
             "id": 6025,
@@ -9658,7 +9678,7 @@
         },
         {
             "id": 6033,
-            "text": "Homepage"
+            "text": "主页"
         },
         {
             "id": 6034,
@@ -9710,7 +9730,7 @@
         },
         {
             "id": 6054,
-            "text": "Clear upon exit"
+            "text": "退出时清除"
         },
         {
             "id": 6056,
@@ -9726,7 +9746,7 @@
         },
         {
             "id": 6066,
-            "text": "Cleared upon exit"
+            "text": "退出后清除"
         },
         {
             "id": 6067,
@@ -9790,11 +9810,11 @@
         },
         {
             "id": 6100,
-            "text": "No cookie selected"
+            "text": "没有选择cookie"
         },
         {
             "id": 6109,
-            "text": "Application caches"
+            "text": "应用程序缓存"
         },
         {
             "id": 6113,
@@ -9810,23 +9830,23 @@
         },
         {
             "id": 6118,
-            "text": "Media licenses"
+            "text": "媒体许可证"
         },
         {
             "id": 6120,
-            "text": "File systems"
+            "text": "文件系统"
         },
         {
             "id": 6126,
-            "text": "Service workers"
+            "text": "服务人员"
         },
         {
             "id": 6127,
-            "text": "Shared workers"
+            "text": "共享工人"
         },
         {
             "id": 6130,
-            "text": "Opening new tab"
+            "text": "打开新标签"
         },
         {
             "id": 6133,
@@ -9858,7 +9878,7 @@
         },
         {
             "id": 6140,
-            "text": "Thumbnail removed."
+            "text": "删除了缩略图。"
         },
         {
             "id": 6141,
@@ -9870,7 +9890,7 @@
         },
         {
             "id": 6145,
-            "text": "在 Chrome 网上应用店中查看"
+            "text": "View in Web Store"
         },
         {
             "id": 6146,
@@ -9910,7 +9930,7 @@
         },
         {
             "id": 6158,
-            "text": "Start syncing?"
+            "text": "开始同步？"
         },
         {
             "id": 6159,
@@ -9966,7 +9986,7 @@
         },
         {
             "id": 6173,
-            "text": "Cancel sign-in"
+            "text": "取消登录"
         },
         {
             "id": 6176,
@@ -9974,7 +9994,7 @@
         },
         {
             "id": 6177,
-            "text": "We've signed you in"
+            "text": "我们已经签了你"
         },
         {
             "id": 6178,
@@ -10030,7 +10050,7 @@
         },
         {
             "id": 6208,
-            "text": "We couldn't load $1"
+            "text": "我们无法加载$1"
         },
         {
             "id": 6209,
@@ -10062,27 +10082,27 @@
         },
         {
             "id": 6218,
-            "text": "Date modified"
+            "text": "修改日期"
         },
         {
             "id": 6219,
-            "text": "The server sent data $1 didn't understand. You can <a href=\"https://to-be-replaced.invalid\">report a bug</a>, and include the <a href=\"LOCATION\">raw listing</a>."
+            "text": "服务器发送的数据$1不明白。您可以<a href=\"https://to-be-replaced.invalid\">报告错误</a>，并包含<a href=\"LOCATION\">原始列表</a>。"
         },
         {
             "id": 6220,
-            "text": "Webpage, HTML only"
+            "text": "网页，仅限HTML"
         },
         {
             "id": 6221,
-            "text": "Webpage, single file"
+            "text": "网页，单个文件"
         },
         {
             "id": 6222,
-            "text": "Webpage, complete"
+            "text": "网页，完整"
         },
         {
             "id": 6223,
-            "text": "Profile error"
+            "text": "个人资料错误"
         },
         {
             "id": 6224,
@@ -10258,7 +10278,7 @@
         },
         {
             "id": 6305,
-            "text": "Translated page"
+            "text": "翻译页面"
         },
         {
             "id": 6306,
@@ -10266,7 +10286,7 @@
         },
         {
             "id": 6308,
-            "text": "Advanced options"
+            "text": "高级选项"
         },
         {
             "id": 6309,
@@ -10282,7 +10302,7 @@
         },
         {
             "id": 6313,
-            "text": "Translate to"
+            "text": "翻译成"
         },
         {
             "id": 6314,
@@ -10298,7 +10318,7 @@
         },
         {
             "id": 6318,
-            "text": "Translate again?"
+            "text": "再翻译一下？"
         },
         {
             "id": 6321,
@@ -10314,7 +10334,7 @@
         },
         {
             "id": 6330,
-            "text": "Show notifications"
+            "text": "显示通知"
         },
         {
             "id": 6334,
@@ -10430,7 +10450,7 @@
         },
         {
             "id": 6520,
-            "text": "Microsoft account"
+            "text": "微软帐户"
         },
         {
             "id": 6521,
@@ -10478,19 +10498,19 @@
         },
         {
             "id": 6548,
-            "text": "Image files"
+            "text": "图像文件"
         },
         {
             "id": 6549,
-            "text": "Audio files"
+            "text": "音频文件"
         },
         {
             "id": 6550,
-            "text": "Video files"
+            "text": "视频文件"
         },
         {
             "id": 6551,
-            "text": "Custom files"
+            "text": "自定义文件"
         },
         {
             "id": 6552,
@@ -10542,7 +10562,7 @@
         },
         {
             "id": 6564,
-            "text": "email"
+            "text": "电子邮件"
         },
         {
             "id": 6565,
@@ -10642,7 +10662,7 @@
         },
         {
             "id": 6603,
-            "text": "Dark theme"
+            "text": "黑暗主题"
         },
         {
             "id": 6604,
@@ -10650,23 +10670,23 @@
         },
         {
             "id": 6606,
-            "text": "Media file permissions for \"$1\""
+            "text": "\"$1\" 的媒体文件权限"
         },
         {
             "id": 6607,
-            "text": "\"$1\" can read and write images, video, and sound files in the selected locations."
+            "text": "\"$1\" 可以读取和写入所选位置的图像，视频和声音文件。"
         },
         {
             "id": 6608,
-            "text": "\"$1\" can read and delete images, video, and sound files in the selected locations."
+            "text": "\"$1\" 可以读取和删除所选位置的图像，视频和声音文件。"
         },
         {
             "id": 6609,
-            "text": "\"$1\" can read images, video, and sound files in the selected locations."
+            "text": "\"$1\" 可以读取所选位置的图像，视频和声音文件。"
         },
         {
             "id": 6610,
-            "text": "Location suggestions"
+            "text": "位置建议"
         },
         {
             "id": 6611,
@@ -10674,19 +10694,19 @@
         },
         {
             "id": 6612,
-            "text": "Add location"
+            "text": "添加位置"
         },
         {
             "id": 6615,
-            "text": "Add a media gallery by directory"
+            "text": "按目录添加媒体库"
         },
         {
             "id": 6616,
-            "text": "Attached"
+            "text": "附加"
         },
         {
             "id": 6617,
-            "text": "Not attached"
+            "text": "没有附加"
         },
         {
             "id": 6618,
@@ -10726,15 +10746,15 @@
         },
         {
             "id": 6644,
-            "text": "Scopes"
+            "text": "作用域"
         },
         {
             "id": 6645,
-            "text": "Revoke"
+            "text": "撤消"
         },
         {
             "id": 6647,
-            "text": "Disk usage is high"
+            "text": "磁盘使用率很高"
         },
         {
             "id": 6648,
@@ -10766,11 +10786,11 @@
         },
         {
             "id": 6657,
-            "text": "Your entire screen"
+            "text": "你的整个屏幕"
         },
         {
             "id": 6658,
-            "text": "Application window"
+            "text": "申请窗口"
         },
         {
             "id": 6659,
@@ -10802,7 +10822,7 @@
         },
         {
             "id": 6671,
-            "text": "We couldn't complete registration"
+            "text": "我们无法完成注册"
         },
         {
             "id": 6672,
@@ -10814,7 +10834,7 @@
         },
         {
             "id": 6674,
-            "text": "Check your printer and try again."
+            "text": "检查您的打印机，然后重试。"
         },
         {
             "id": 6675,
@@ -10850,11 +10870,11 @@
         },
         {
             "id": 6685,
-            "text": "Sign in to Microsoft Edge to see your devices"
+            "text": "登录Microsoft Edge以查看您的设备"
         },
         {
             "id": 6686,
-            "text": "Sign in to Microsoft Edge to register new devices"
+            "text": "登录Microsoft Edge以注册新设备"
         },
         {
             "id": 6688,
@@ -10882,7 +10902,7 @@
         },
         {
             "id": 6695,
-            "text": "Documents are <a is=\"action-link\" href=\"https://to-be-replaced.invalid\" target=\"_blank\">sent to Google</a> to prepare them for printing. View, edit and manage your printers and printer history on the <a is=\"action-link\" href=\"https://to-be-replaced.invalid\" target=\"_blank\">Google Cloud Print dashboard</a>."
+            "text": "文件已<a a=\"action-link\" href=\"https://to-be-replaced.invalid\" target=\"_blank\">发送给Google </a>，以便为其做好准备打印。在<a is=\"action-link\" href=\"https://to-be-replaced.invalid\" target=\"_blank\">上查看，编辑和管理您的打印机和打印机历史记录Google云打印信息中心</a>。"
         },
         {
             "id": 6696,
@@ -10978,15 +10998,15 @@
         },
         {
             "id": 6730,
-            "text": "This site was updated in the background."
+            "text": "这个网站在后台更新。"
         },
         {
             "id": 6732,
-            "text": "Device log"
+            "text": "设备日志"
         },
         {
             "id": 6733,
-            "text": "Add a query param in URL to auto-refresh the page: edge://device-log/?refresh=<sec>"
+            "text": "在URL中添加查询参数以自动刷新页面：edge://device-log/?refresh=<sec>"
         },
         {
             "id": 6735,
@@ -10994,7 +11014,7 @@
         },
         {
             "id": 6737,
-            "text": "User"
+            "text": "用户"
         },
         {
             "id": 6738,
@@ -11006,7 +11026,7 @@
         },
         {
             "id": 6740,
-            "text": "Sign-in"
+            "text": "登入"
         },
         {
             "id": 6742,
@@ -11030,11 +11050,11 @@
         },
         {
             "id": 6748,
-            "text": "File info"
+            "text": "文件信息"
         },
         {
             "id": 6749,
-            "text": "Detailed timestamps"
+            "text": "详细时间戳"
         },
         {
             "id": 6750,
@@ -11062,7 +11082,7 @@
         },
         {
             "id": 6767,
-            "text": "No compatible devices found"
+            "text": "找不到兼容设备"
         },
         {
             "id": 6768,
@@ -11078,11 +11098,11 @@
         },
         {
             "id": 6771,
-            "text": "Rescan"
+            "text": "重新扫描"
         },
         {
             "id": 6772,
-            "text": "Rescan Bluetooth devices"
+            "text": "重新扫描蓝牙设备"
         },
         {
             "id": 6773,
@@ -11194,19 +11214,19 @@
         },
         {
             "id": 6809,
-            "text": "The web browser by Microsoft"
+            "text": "微软的网络浏览器"
         },
         {
             "id": 6810,
-            "text": "Sign in to Microsoft Edge with your Microsoft account to get your favorites, history, passwords, and other stuff on all your devices."
+            "text": "使用您的Microsoft帐户登录Microsoft Edge，以获取您所有设备上的收藏夹，历史记录，密码和其他内容。"
         },
         {
             "id": 6823,
-            "text": "Open Windows settings"
+            "text": "打开Windows设置"
         },
         {
             "id": 6824,
-            "text": "Under Web browser, click <strong>Microsoft Edge</strong>"
+            "text": "在Web浏览器下，单击<strong> Microsoft Edge </strong>"
         },
         {
             "id": 6825,
@@ -11222,11 +11242,11 @@
         },
         {
             "id": 6828,
-            "text": "Pin to taskbar"
+            "text": "固定到任务栏"
         },
         {
             "id": 6834,
-            "text": "Microsoft Edge is being controlled by automated test software."
+            "text": "Microsoft Edge正在由自动化测试软件控制。"
         },
         {
             "id": 6835,
@@ -11242,11 +11262,11 @@
         },
         {
             "id": 6845,
-            "text": "{0, plural,\n        =1 {Upload a file to this site?}\n        other {Upload # files to this site?}\n      }"
+            "text": "{0, plural,\n        =1 {将文件上传到此网站？}\n        other {上传#个文件到此网站？}\n      }"
         },
         {
             "id": 6846,
-            "text": "This will upload all files from \"$1\". Do this only if you trust the site."
+            "text": "这将从 \"$1\" 上传所有文件。只有在您信任该网站时才这样做。"
         },
         {
             "id": 6847,
@@ -11254,11 +11274,11 @@
         },
         {
             "id": 6848,
-            "text": "Refresh now"
+            "text": "立即刷新"
         },
         {
             "id": 6849,
-            "text": "Got it"
+            "text": "得到它了"
         },
         {
             "id": 6850,
@@ -11278,7 +11298,7 @@
         },
         {
             "id": 6855,
-            "text": "Choose an option"
+            "text": "选择一个选项"
         },
         {
             "id": 6856,
@@ -11314,7 +11334,7 @@
         },
         {
             "id": 6864,
-            "text": "Try a different key"
+            "text": "尝试不同的钥匙"
         },
         {
             "id": 6865,
@@ -11358,7 +11378,7 @@
         },
         {
             "id": 6879,
-            "text": "Pair your key to this device so you can use it to sign in to your account"
+            "text": "将您的密钥与此设备配对，以便您可以使用它登录您的帐户"
         },
         {
             "id": 6880,
@@ -11374,7 +11394,7 @@
         },
         {
             "id": 6883,
-            "text": "Select a security key"
+            "text": "选择安全密钥"
         },
         {
             "id": 6884,
@@ -11394,15 +11414,15 @@
         },
         {
             "id": 6888,
-            "text": "Enter the 6-digit PIN from the back of your key"
+            "text": "从密钥后面输入6位数密码"
         },
         {
             "id": 6893,
-            "text": "Verifying your security key"
+            "text": "验证您的安全密钥"
         },
         {
             "id": 6894,
-            "text": "To use most keys, just press the button"
+            "text": "要使用大多数按键，只需按下按钮"
         },
         {
             "id": 6895,
@@ -11498,7 +11518,7 @@
         },
         {
             "id": 6920,
-            "text": "Account"
+            "text": "帐户"
         },
         {
             "id": 6922,
@@ -11510,7 +11530,7 @@
         },
         {
             "id": 6924,
-            "text": "This will leave a record of your visit to $1 on your security key."
+            "text": "这将在您的安全密钥上留下$1的访问记录。"
         },
         {
             "id": 6925,
@@ -11598,11 +11618,11 @@
         },
         {
             "id": 15045,
-            "text": "Crash reporting is not available in Microsoft Edge."
+            "text": "Microsoft Edge中没有崩溃报告。"
         },
         {
             "id": 15046,
-            "text": "该浏览器的诞生离不开 <a target=\"_blank\" href=\"$1\">Chromium</a> 开源项目以及其他<a target=\"_blank\" href=\"$2\">开源软件</a>。"
+            "text": "该浏览器的诞生离不开 <a target=\"_blank\" href=\"$1\">Chromium</a> 开源项目以及其他<a target=\"_blank\" href=\"$2\">开源软件</a>。由 <a target=\"_blank\" href=\"https://github.com/shuax/EdgeChinese\">shuax</a> 汉化。"
         },
         {
             "id": 15047,
@@ -11610,7 +11630,7 @@
         },
         {
             "id": 15048,
-            "text": "Microsoft Edge verified that $1 issued this website's certificate."
+            "text": "Microsoft Edge证实$1发行了这个网站的证书。"
         },
         {
             "id": 15049,
@@ -11646,7 +11666,7 @@
         },
         {
             "id": 15104,
-            "text": "Don't let this page create more messages"
+            "text": "不要让这个页面创建更多的消息"
         },
         {
             "id": 15105,
@@ -11662,15 +11682,15 @@
         },
         {
             "id": 15108,
-            "text": "Any changes you made may not be saved."
+            "text": "您所做的任何更改都可能无法保存。"
         },
         {
             "id": 15109,
-            "text": "Refresh site?"
+            "text": "刷新网站？"
         },
         {
             "id": 15110,
-            "text": "Refresh app?"
+            "text": "刷新应用程序？"
         },
         {
             "id": 15121,
@@ -11718,15 +11738,15 @@
         },
         {
             "id": 15146,
-            "text": "Microsoft Edge will save and fill in this card's info next time."
+            "text": "Microsoft Edge将在下次保存并填写此卡的信息。"
         },
         {
             "id": 15147,
-            "text": "Cardholder name"
+            "text": "持卡人姓名"
         },
         {
             "id": 15148,
-            "text": "This name is from your Microsoft Account"
+            "text": "此名称来自您的Microsoft帐户"
         },
         {
             "id": 15151,
@@ -11754,11 +11774,11 @@
         },
         {
             "id": 15182,
-            "text": "After you confirm, your card details will be shared with this site."
+            "text": "确认后，您的信用卡详细信息将与本网站共享。"
         },
         {
             "id": 15183,
-            "text": "The CVC is on the back of your card."
+            "text": "CVC就在你的卡背面。"
         },
         {
             "id": 15196,
@@ -11774,19 +11794,19 @@
         },
         {
             "id": 15202,
-            "text": "We're not filling credit card info automatically because this form doesn't use a secure connection."
+            "text": "我们不会自动填写信用卡信息，因为此表单不使用安全连接。"
         },
         {
             "id": 15204,
-            "text": "Remove this suggestion from Microsoft Edge?"
+            "text": "从Microsoft Edge中删除此建议？"
         },
         {
             "id": 15205,
-            "text": "Remove credit card from Microsoft Edge?"
+            "text": "从Microsoft Edge删除信用卡？"
         },
         {
             "id": 15206,
-            "text": "Remove address from Microsoft Edge?"
+            "text": "从Microsoft Edge删除地址？"
         },
         {
             "id": 15207,
@@ -11838,7 +11858,7 @@
         },
         {
             "id": 15219,
-            "text": "Expired"
+            "text": "过期"
         },
         {
             "id": 15220,
@@ -11878,7 +11898,7 @@
         },
         {
             "id": 15229,
-            "text": "Prefecture"
+            "text": "州"
         },
         {
             "id": 15230,
@@ -11894,11 +11914,11 @@
         },
         {
             "id": 15234,
-            "text": "Manage addresses"
+            "text": "管理地址"
         },
         {
             "id": 15235,
-            "text": "Manage payment info"
+            "text": "管理付款信息"
         },
         {
             "id": 15237,
@@ -11966,11 +11986,11 @@
         },
         {
             "id": 15263,
-            "text": "Reading list"
+            "text": "阅读清单"
         },
         {
             "id": 15264,
-            "text": "$1 favorites"
+            "text": "$1的最爱"
         },
         {
             "id": 15271,
@@ -11986,11 +12006,11 @@
         },
         {
             "id": 15275,
-            "text": "{COUNT, plural,\n     =0 {None}\n     =1 {1 item. Includes autocompletions in the address bar.}\n     other {# items. Includes autocompletions in the address bar.}}"
+            "text": "{COUNT, plural,\n     =0 {None}\n     =1 {1 项. 包括地址栏中的自动填充功能。}\n     other {# 项. 包括地址栏中的自动填充功能。}}"
         },
         {
             "id": 15276,
-            "text": "{COUNT, plural,\n     =0 {None}\n     =1 {1 item. Browsing data is only stored on this device.}\n     other {# items. Browsing data is only stored on this device.}}"
+            "text": "{COUNT, plural,\n     =0 {None}\n     =1 {1 项. 浏览数据仅存储在此设备上。}\n     other {# 项. 浏览数据仅存储在此设备上。}}"
         },
         {
             "id": 15277,
@@ -12074,15 +12094,15 @@
         },
         {
             "id": 15300,
-            "text": "{COUNT, plural,\n      =0 {None}\n      =1 {From 1 site. Signs you out of most sites.}\n      other {From # sites. Signs you out of most sites.}}"
+            "text": "{COUNT, plural,\n      =0 {None}\n      =1 {来自 1 网站. 让你离开大多数网站。}\n      other {来自 # 网站. 让你离开大多数网站。}}"
         },
         {
             "id": 15301,
-            "text": "Doing this will sign you out of most websites."
+            "text": "这样做会让你退出大多数网站。"
         },
         {
             "id": 15302,
-            "text": "{COUNT, plural,\n    =0 {None}\n    =1 {From 1 site}\n    other {From # sites}}"
+            "text": "{COUNT, plural,\n    =0 {None}\n    =1 {来自 1 网站}\n    other {来自 # 网站}}"
         },
         {
             "id": 15304,
@@ -12094,15 +12114,15 @@
         },
         {
             "id": 15306,
-            "text": "{COUNT, plural,\n     =0 {None}\n     =1 {1 app: $1.}\n     other {# apps: $1.}}"
+            "text": "{COUNT, plural,\n     =0 {None}\n     =1 {1 应用: $1.}\n     other {# 应用: $1.}}"
         },
         {
             "id": 15310,
-            "text": "Show advanced settings"
+            "text": "显示高级设置"
         },
         {
             "id": 15313,
-            "text": "Crashes"
+            "text": "崩溃"
         },
         {
             "id": 15314,
@@ -12134,15 +12154,15 @@
         },
         {
             "id": 15321,
-            "text": "Crash report captured on $1 wasn't uploaded"
+            "text": "未上传$1的崩溃报告"
         },
         {
             "id": 15322,
-            "text": "Provide more details"
+            "text": "提供更多细节"
         },
         {
             "id": 15323,
-            "text": "You have no recently reported crashes.  Crashes that occurred when crash reporting was disabled won't appear here."
+            "text": "你最近没有报告崩溃。禁用崩溃报告时发生的崩溃不会出现在这里。"
         },
         {
             "id": 15324,
@@ -12158,11 +12178,11 @@
         },
         {
             "id": 15328,
-            "text": "Resubmit the form?"
+            "text": "重新提交表格？"
         },
         {
             "id": 15329,
-            "text": "The page you're looking for used information that you entered. Returning to that page might trigger a repetition of any action you took there. Do you want to continue?"
+            "text": "您正在寻找的页面使用了您输入的信息。返回该页面可能会触发您在那里重复的任何操作。您要继续吗？"
         },
         {
             "id": 15332,
@@ -12174,11 +12194,11 @@
         },
         {
             "id": 15335,
-            "text": "No data found"
+            "text": "没有找到数据"
         },
         {
             "id": 15351,
-            "text": "Show saved entry"
+            "text": "显示保存的条目"
         },
         {
             "id": 15362,
@@ -12194,7 +12214,7 @@
         },
         {
             "id": 15365,
-            "text": "Refresh to resubmit the data needed to load this page."
+            "text": "刷新以重新提交加载此页面所需的数据。"
         },
         {
             "id": 15366,
@@ -12230,7 +12250,7 @@
         },
         {
             "id": 15376,
-            "text": "Visit <strong>edge://policy</strong> to see the list of blocked URLs and other policies enforced by your system administrator."
+            "text": "访问<strong> edge:// policy </strong>，查看系统管理员强制执行的已阻止网址和其他政策列表。"
         },
         {
             "id": 15377,
@@ -12254,7 +12274,7 @@
         },
         {
             "id": 15382,
-            "text": "You're not connected"
+            "text": "你没有连接"
         },
         {
             "id": 15383,
@@ -12274,7 +12294,7 @@
         },
         {
             "id": 15387,
-            "text": "File not found"
+            "text": "文件未找到"
         },
         {
             "id": 15388,
@@ -12314,7 +12334,7 @@
         },
         {
             "id": 15397,
-            "text": "This company, organization, or school intranet site has the same URL as an external website.\n    <br /><br />\n    Try contacting your system administrator."
+            "text": "此公司，组织或学校内部网站点与外部网站具有相同的URL。\n    <br /><br />\n    尝试联系您的系统管理员。"
         },
         {
             "id": 15398,
@@ -12398,7 +12418,7 @@
         },
         {
             "id": 15418,
-            "text": "<strong jscontent=\"hostName\"></strong> doesn't adhere to our security standards."
+            "text": "<strong jscontent=\"hostName\"></strong>不符合我们的安全标准。"
         },
         {
             "id": 15419,
@@ -12418,15 +12438,15 @@
         },
         {
             "id": 15423,
-            "text": "Microsoft Edge detected unusual code on this page and blocked it to protect your personal information, like passwords, phone numbers, and credit cards."
+            "text": "Microsoft Edge在此页面上检测到异常代码并阻止它以保护您的个人信息，如密码，电话号码和信用卡。"
         },
         {
             "id": 15424,
-            "text": "The person who set up this computer has blocked this site."
+            "text": "设置此计算机的人已阻止此网站。"
         },
         {
             "id": 15425,
-            "text": "To display this webpage correctly, resubmit the data you entered earlier. By doing this, you will repeat any action this page previously performed."
+            "text": "要正确显示此网页，请重新提交您之前输入的数据。通过执行此操作，您将重复此页面之前执行的任何操作。"
         },
         {
             "id": 15427,
@@ -12450,19 +12470,19 @@
         },
         {
             "id": 15432,
-            "text": "Contacting the system administrator"
+            "text": "联系系统管理员"
         },
         {
             "id": 15433,
-            "text": "Try contacting your system administrator."
+            "text": "尝试联系您的系统管理员。"
         },
         {
             "id": 15440,
-            "text": "Checking your network cables, modem, and routers"
+            "text": "检查网络电缆，调制解调器和路由器"
         },
         {
             "id": 15441,
-            "text": "Reconnecting to your wireless network"
+            "text": "重新连接到您的无线网络"
         },
         {
             "id": 15442,
@@ -12470,7 +12490,7 @@
         },
         {
             "id": 15443,
-            "text": "Sign out and complete the setup"
+            "text": "退出并完成设置"
         },
         {
             "id": 15444,
@@ -12478,7 +12498,7 @@
         },
         {
             "id": 15445,
-            "text": "Search the web for <a jsvalues=\"href:searchUrl;.jstdata:$this\" onclick=\"linkClicked(this.jstdata)\" jscontent=\"searchTerms\" id=\"search-link\"></a>"
+            "text": "在网上搜索<a jsvalues=\"href:searchUrl;.jstdata:$this\" onclick=\"linkClicked(this.jstdata)\" jscontent=\"searchTerms\" id=\"search-link\"></a>"
         },
         {
             "id": 15446,
@@ -12506,7 +12526,7 @@
         },
         {
             "id": 15459,
-            "text": "Are you sure you want to delete these pages from history?"
+            "text": "你确定要从历史记录中删除这些页面吗？"
         },
         {
             "id": 15465,
@@ -12514,7 +12534,7 @@
         },
         {
             "id": 15468,
-            "text": "More from the same site"
+            "text": "更多来自同一网站"
         },
         {
             "id": 15469,
@@ -12522,7 +12542,7 @@
         },
         {
             "id": 15478,
-            "text": "Delete these pages?"
+            "text": "删除这些页面？"
         },
         {
             "id": 15482,
@@ -12546,7 +12566,7 @@
         },
         {
             "id": 15487,
-            "text": "Delete favorite"
+            "text": "删除书签"
         },
         {
             "id": 15490,
@@ -12570,15 +12590,15 @@
         },
         {
             "id": 15501,
-            "text": "You could also:"
+            "text": "你也可以："
         },
         {
             "id": 15502,
-            "text": "Refresh this page"
+            "text": "刷新此页面"
         },
         {
             "id": 15503,
-            "text": "Open a new tab"
+            "text": "打开一个新标签"
         },
         {
             "id": 15509,
@@ -12622,7 +12642,7 @@
         },
         {
             "id": 15542,
-            "text": "Your copied link"
+            "text": "你复制的链接"
         },
         {
             "id": 15543,
@@ -12666,7 +12686,7 @@
         },
         {
             "id": 15564,
-            "text": "Clear Data"
+            "text": "清除数据"
         },
         {
             "id": 15566,
@@ -12682,7 +12702,7 @@
         },
         {
             "id": 15570,
-            "text": "Manage Passwords"
+            "text": "管理密码"
         },
         {
             "id": 15572,
@@ -12698,7 +12718,7 @@
         },
         {
             "id": 15576,
-            "text": "Update Credit Card"
+            "text": "更新信用卡"
         },
         {
             "id": 15578,
@@ -12986,11 +13006,11 @@
         },
         {
             "id": 15692,
-            "text": "USB device"
+            "text": "USB设备"
         },
         {
             "id": 15693,
-            "text": "USB device allowed by your organization"
+            "text": "您所在组织允许的USB设备"
         },
         {
             "id": 15694,
@@ -12998,7 +13018,7 @@
         },
         {
             "id": 15695,
-            "text": "Serial port"
+            "text": "串行端口"
         },
         {
             "id": 15698,
@@ -13006,15 +13026,15 @@
         },
         {
             "id": 15699,
-            "text": "Allowed by your organization"
+            "text": "你的组织允许"
         },
         {
             "id": 15700,
-            "text": "Blocked by your organization"
+            "text": "被你的组织阻止"
         },
         {
             "id": 15701,
-            "text": "Setting controlled by your organization"
+            "text": "由您的组织控制的设置"
         },
         {
             "id": 15702,
@@ -13038,27 +13058,27 @@
         },
         {
             "id": 15710,
-            "text": "You could lose access to your Microsoft account or experience identity theft. Microsoft Edge recommends changing your password now."
+            "text": "您可能会失去对Microsoft帐户的访问权限或遭遇身份盗用.Microsoft Edge建议您立即更改密码。"
         },
         {
             "id": 15711,
-            "text": "Microsoft Edge can help you protect your Microsoft Account and change your password."
+            "text": "Microsoft Edge可以帮助您保护您的Microsoft帐户并更改密码。"
         },
         {
             "id": 15712,
-            "text": "Microsoft can help you protect your Microsoft Account and change your password. This will notify Microsoft about this site."
+            "text": "Microsoft可以帮助您保护您的Microsoft帐户并更改密码。这将通知Microsoft有关此站点的信息。"
         },
         {
             "id": 15713,
-            "text": "You could lose access to your organization's account or experience identity theft. Microsoft Edge recommends changing your password now."
+            "text": "您可能无法访问您组织的帐户或遭遇身份盗用。Microsoft Edge建议您立即更改密码。"
         },
         {
             "id": 15714,
-            "text": "You could lose access to your $1 account or experience identity theft. Microsoft Edge recommends changing your password now."
+            "text": "您可能无法访问您的$1帐户或遭遇身份盗用。Microsoft Edge建议您立即更改密码。"
         },
         {
             "id": 15715,
-            "text": "Change password"
+            "text": "更改密码"
         },
         {
             "id": 15716,
@@ -13086,7 +13106,7 @@
         },
         {
             "id": 15723,
-            "text": "Enter username"
+            "text": "输入用户名"
         },
         {
             "id": 15725,
@@ -13118,7 +13138,7 @@
         },
         {
             "id": 15739,
-            "text": "Add cardholder name"
+            "text": "添加持卡人姓名"
         },
         {
             "id": 15740,
@@ -13182,7 +13202,7 @@
         },
         {
             "id": 15761,
-            "text": "Pay"
+            "text": "工资"
         },
         {
             "id": 15766,
@@ -13222,7 +13242,7 @@
         },
         {
             "id": 15780,
-            "text": "Processing…"
+            "text": "处理中..."
         },
         {
             "id": 15783,
@@ -13338,7 +13358,7 @@
         },
         {
             "id": 15831,
-            "text": "Required"
+            "text": "需要"
         },
         {
             "id": 15832,
@@ -13354,7 +13374,7 @@
         },
         {
             "id": 15836,
-            "text": "To see shipping options, select an address"
+            "text": "要查看送货方式，请选择地址"
         },
         {
             "id": 15837,
@@ -13362,7 +13382,7 @@
         },
         {
             "id": 15839,
-            "text": "To see delivery options, select an address"
+            "text": "要查看送货方式，请选择地址"
         },
         {
             "id": 15840,
@@ -13370,7 +13390,7 @@
         },
         {
             "id": 15842,
-            "text": "To see pickup options, select an address"
+            "text": "要查看提货选项，请选择地址"
         },
         {
             "id": 15843,
@@ -13398,31 +13418,31 @@
         },
         {
             "id": 15859,
-            "text": "Order Summary, $1"
+            "text": "订单摘要，$1"
         },
         {
             "id": 15860,
-            "text": "This file is password protected."
+            "text": "这个文件是加密的。"
         },
         {
             "id": 15861,
-            "text": "Enter a password"
+            "text": "输入密码"
         },
         {
             "id": 15863,
-            "text": "Check your password"
+            "text": "检查你的密码"
         },
         {
             "id": 15868,
-            "text": "We can't open this file"
+            "text": "我们无法打开此文件"
         },
         {
             "id": 15869,
-            "text": "Something went wrong."
+            "text": "有些不对劲。"
         },
         {
             "id": 15871,
-            "text": "Table of contents"
+            "text": "目录"
         },
         {
             "id": 15872,
@@ -13430,7 +13450,7 @@
         },
         {
             "id": 15873,
-            "text": "Download"
+            "text": "下载"
         },
         {
             "id": 15876,
@@ -13446,7 +13466,7 @@
         },
         {
             "id": 15879,
-            "text": "Page number"
+            "text": "页码"
         },
         {
             "id": 15880,
@@ -13454,15 +13474,15 @@
         },
         {
             "id": 15932,
-            "text": "of"
+            "text": "的"
         },
         {
             "id": 15933,
-            "text": "Number of pages"
+            "text": "页数"
         },
         {
             "id": 15938,
-            "text": "Rotate"
+            "text": "旋转"
         },
         {
             "id": 15941,
@@ -13486,7 +13506,7 @@
         },
         {
             "id": 15946,
-            "text": "Can't decode response from server"
+            "text": "无法解码来自服务器的响应"
         },
         {
             "id": 15947,
@@ -13554,7 +13574,7 @@
         },
         {
             "id": 15963,
-            "text": "Error code in policy triggered validation failure"
+            "text": "策略触发验证失败时出现错误代码"
         },
         {
             "id": 15964,
@@ -13618,7 +13638,7 @@
         },
         {
             "id": 15979,
-            "text": "Parse error loading policy"
+            "text": "解析错误加载策略"
         },
         {
             "id": 15980,
@@ -13658,7 +13678,7 @@
         },
         {
             "id": 15991,
-            "text": "Value must be specified."
+            "text": "必须指明价值。"
         },
         {
             "id": 15992,
@@ -13678,19 +13698,19 @@
         },
         {
             "id": 15996,
-            "text": "Use a valid search URL."
+            "text": "使用有效的搜索网址。"
         },
         {
             "id": 15997,
-            "text": "Use a valid proxy mode."
+            "text": "使用有效的代理模式。"
         },
         {
             "id": 15998,
-            "text": "Check the update URL for extension with ID \"$1\"."
+            "text": "检查ID为\"$1\"的扩展程序的更新URL。"
         },
         {
             "id": 15999,
-            "text": "This computer is not detected as enterprise managed so policy can only automatically install extensions hosted by the Microsoft Store. The Microsoft Store update URL is \"$1\"."
+            "text": "此计算机未被检测为企业管理，因此策略只能自动安装Microsoft Store托管的扩展.Microsoft商店更新URL为\"$1\"。"
         },
         {
             "id": 16000,
@@ -13698,31 +13718,31 @@
         },
         {
             "id": 16001,
-            "text": "Proxy use is disabled but an explicit proxy configuration is specified."
+            "text": "禁用代理使用，但指定了显式代理配置。"
         },
         {
             "id": 16002,
-            "text": "Proxy setting specifies auto-configuration."
+            "text": "代理设置指定自动配置。"
         },
         {
             "id": 16003,
-            "text": "Proxy setting specifies a .pac script URL, not fixed proxy servers."
+            "text": "代理设置指定.pac脚本URL，而不是固定代理服务器。"
         },
         {
             "id": 16004,
-            "text": "Proxy setting specifies fixed proxy servers, not a .pac script URL."
+            "text": "代理设置指定固定代理服务器，而不是.pac脚本URL。"
         },
         {
             "id": 16005,
-            "text": "You have both system proxy settings and an explicit proxy setting configured. Use one or the other."
+            "text": "您同时配置了系统代理设置和显式代理设置。请使用其中一个。"
         },
         {
             "id": 16006,
-            "text": "Specify your fixed proxy servers or a .pac script URL, not both."
+            "text": "指定固定代理服务器或.pac脚本URL，而不是两者。"
         },
         {
             "id": 16007,
-            "text": "Specify your fixed proxy servers or a .pac script URL."
+            "text": "指定固定代理服务器或.pac脚本URL。"
         },
         {
             "id": 16008,
@@ -13738,7 +13758,7 @@
         },
         {
             "id": 16015,
-            "text": "Can't use this policy level."
+            "text": "不能使用这个政策级别。"
         },
         {
             "id": 16017,
@@ -13758,7 +13778,7 @@
         },
         {
             "id": 16021,
-            "text": "Reload Policies"
+            "text": "重新加载政策"
         },
         {
             "id": 16022,
@@ -13774,7 +13794,7 @@
         },
         {
             "id": 16026,
-            "text": "Machine policies"
+            "text": "机器政策"
         },
         {
             "id": 16027,
@@ -13862,7 +13882,7 @@
         },
         {
             "id": 16053,
-            "text": "Applies To"
+            "text": "适用于"
         },
         {
             "id": 16054,
@@ -13870,11 +13890,11 @@
         },
         {
             "id": 16055,
-            "text": "Policy Name"
+            "text": "政策名称"
         },
         {
             "id": 16056,
-            "text": "Policy Value"
+            "text": "政策价值"
         },
         {
             "id": 16060,
@@ -13978,7 +13998,7 @@
         },
         {
             "id": 16218,
-            "text": "To protect your account, use a new password on apps or sites that your organization doesn't manage."
+            "text": "要保护您的帐户，请在您的组织未管理的应用或网站上使用新密码。"
         },
         {
             "id": 16219,
@@ -13986,15 +14006,15 @@
         },
         {
             "id": 16220,
-            "text": "Reset password"
+            "text": "重设密码"
         },
         {
             "id": 16221,
-            "text": "Microsoft Edge recommends changing your password if you've used it on other sites."
+            "text": "如果您在其他网站上使用密码，Microsoft Edge建议您更改密码。"
         },
         {
             "id": 16222,
-            "text": "Microsoft Edge recommends changing your <strong>$1</strong> password if you've used it on other sites."
+            "text": "如果您在其他网站上使用过密码，Microsoft Edge建议您更改<strong>$1</strong>密码。"
         },
         {
             "id": 16225,
@@ -14002,19 +14022,19 @@
         },
         {
             "id": 16227,
-            "text": "Connect to a network"
+            "text": "连接到网络"
         },
         {
             "id": 16228,
-            "text": "Connect to a Wi-Fi hotspot"
+            "text": "连接到Wi-Fi热点"
         },
         {
             "id": 16229,
-            "text": "The network you're using may require you to go to <strong>$1</strong>."
+            "text": "您正在使用的网络可能需要您转到<strong>$1</strong>。"
         },
         {
             "id": 16230,
-            "text": "The Wi-Fi hotspot you're using may require you to go to <strong>$1</strong>."
+            "text": "您使用的Wi-Fi热点可能需要您使用<strong>$1</strong>。"
         },
         {
             "id": 16231,
@@ -14022,19 +14042,19 @@
         },
         {
             "id": 16232,
-            "text": "The network you're using may require you to go to its sign-in page."
+            "text": "您正在使用的网络可能要求您转到其登录页面。"
         },
         {
             "id": 16233,
-            "text": "The Wi-Fi hotspot you're using may require you to go to its sign-in page."
+            "text": "您正在使用的Wi-Fi热点可能需要您登录其登录页面。"
         },
         {
             "id": 16234,
-            "text": "The Wi-Fi hotspot you're using ($1) may require you to visit its sign-in page."
+            "text": "您正在使用的Wi-Fi热点（$1）可能需要您访问其登录页面。"
         },
         {
             "id": 16236,
-            "text": "An application is preventing Microsoft Edge from safely connecting to this site"
+            "text": "应用程序阻止Microsoft Edge安全地连接到此站点"
         },
         {
             "id": 16237,
@@ -14046,7 +14066,7 @@
         },
         {
             "id": 16239,
-            "text": "A required root certificate for \"$1\" is missing. To fix this problem, ask your IT administrator to review the configuration instructions for \"$1\". $2"
+            "text": "缺少\"$1\"所需的根证书。要解决此问题，请要求IT管理员查看\"$1\"。$2”的配置说明"
         },
         {
             "id": 16240,
@@ -14122,35 +14142,35 @@
         },
         {
             "id": 16261,
-            "text": "You can't visit $1 right now because the website uses HSTS. Network errors and attacks are usually temporary, so this page will probably work later."
+            "text": "你现在不能访问$1，因为该网站使用的是HSTS。网络错误和攻击通常是暂时的，所以这个页面可能会在以后工作。"
         },
         {
             "id": 16262,
-            "text": "You can't visit $1 right now because its certificate has been revoked. Network errors and attacks are usually temporary, so this page will probably work later."
+            "text": "你现在不能访问$1，因为它的证书已被撤销。网络错误和攻击通常是暂时的，所以这个页面可能会在以后工作。"
         },
         {
             "id": 16263,
-            "text": "$1 uses encryption to protect your information. When Microsoft Edge tried to connect to $1 this time, the website sent back unusual and incorrect credentials. This may happen when an attacker is trying to pretend to be $1, or a Wi-Fi sign-in screen has interrupted the connection. Your information is still secure because Microsoft Edge stopped the connection before any data was exchanged."
+            "text": "$1使用加密来保护您的信息。当Microsoft Edge这次尝试连接到$1时，该网站发回了异常和不正确的凭据。这可能发生在攻击者试图假装为$1或Wi-Fi标志时 - 在屏幕中断了连接。您的信息仍然是安全的，因为Microsoft Edge在交换任何数据之前停止了连接。"
         },
         {
             "id": 16264,
-            "text": "You can't visit $1 right now because the website sent scrambled credentials that Microsoft Edge can't process. Network errors and attacks are usually temporary, so this page will probably work later."
+            "text": "你现在无法访问$1，因为该网站发送了Microsoft Edge无法处理的混乱凭据。网络错误和攻击通常是暂时的，因此此页面可能会在以后工作。"
         },
         {
             "id": 16265,
-            "text": "Reported Unsafe Website: Navigation Blocked"
+            "text": "报告的不安全网站：导航被阻止"
         },
         {
             "id": 16266,
-            "text": "This website has been reported as unsafe"
+            "text": "据报道，该网站不安全"
         },
         {
             "id": 16267,
-            "text": "Microsoft recommends you don't continue to this site. It has been reported to Microsoft for containing phishing threats which may try to steal personal or financial information."
+            "text": "Microsoft建议您不要继续访问此站点。已向Microsoft报告包含可能试图窃取个人或财务信息的网络钓鱼威胁。"
         },
         {
             "id": 16268,
-            "text": "Microsoft recommends you don't continue to this site. It has been reported to Microsoft for containing harmful programs that may try to steal personal or financial information."
+            "text": "Microsoft建议您不要继续访问此站点。已向Microsoft报告其中包含可能试图窃取个人或财务信息的有害程序。"
         },
         {
             "id": 16269,
@@ -14158,7 +14178,7 @@
         },
         {
             "id": 16270,
-            "text": "More information"
+            "text": "更多信息"
         },
         {
             "id": 16271,
@@ -14182,7 +14202,7 @@
         },
         {
             "id": 16277,
-            "text": "This web content has been reported as unsafe."
+            "text": "据报道此网页内容不安全。"
         },
         {
             "id": 16278,
@@ -14214,7 +14234,7 @@
         },
         {
             "id": 16288,
-            "text": "Not used in code: task# 21061940"
+            "text": "代码中未使用：任务# 21061940"
         },
         {
             "id": 16289,
@@ -14250,7 +14270,7 @@
         },
         {
             "id": 16307,
-            "text": "Connection help"
+            "text": "连接帮助"
         },
         {
             "id": 16308,
@@ -14266,11 +14286,11 @@
         },
         {
             "id": 16311,
-            "text": "\"Your connection isn't private\" or \"<span class=\"error-code\">NET::ERR_CERT_AUTHORITY_INVALID</span>\" or \"<span class=\"error-code\">ERR_CERT_COMMON_NAME_INVALID</span>\" or \"<span class=\"error-code\">NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM</span>\" or \"<span class=\"error-code\">ERR_CERT_SYMANTEC_LEGACY</span>\" or \"SSL certificate error\""
+            "text": "\"您的连接不是私有\"或\"<span class=\"error-code \"> NET :: ERR_CERT_AUTHORITY_INVALID </ span>\"或\"<span class =\"error-code \" > ERR_CERT_COMMON_NAME_INVALID </ span>\"或\"<span class =\"error-code \"> NET :: ERR_CERT_WEAK_SIGNATURE_ALGORITHM </ span>\"或\"<span class =\"error-code \"> ERR_CERT_SYMANTEC_LEGACY </span>\"或\"SSL证书错误\""
         },
         {
             "id": 16312,
-            "text": "\"Connect to a network\""
+            "text": "\"连接到网络\""
         },
         {
             "id": 16313,
@@ -14278,23 +14298,23 @@
         },
         {
             "id": 16314,
-            "text": "<h4>Step 1: Sign in to the portal</h4>\n    <p>Wi-Fi networks at places like cafes or airports need you to sign in. To see the sign-in page, visit a page that uses <code>http://</code>.</p>\n    <ol>\n    <li>Go to any website starting with <code>http://</code>, like <a href=\"http://example.com\" target=\"_blank\">http://example.com</a>.</li>\n    <li>On the sign-in page that opens, sign in to use the internet.</li>\n    </ol>\n    <h4>Step 2: Open the page in InPrivate mode (computer only)</h4>\n    <p>If the page opens, an extension isn't working right. To fix the error, turn off the extension.</p>\n    <h4>Step 3: Update your operating system</h4>\n    <p>Make sure your device is up-to-date.</p>\n    <h4>Step 4: Temporarily turn off your antivirus</h4>\n    <p>You'll see this error if you have antivirus software that provides \"HTTPS protection\" or \"HTTPS scanning.\" The antivirus is preventing Microsoft Edge from providing security.</p>\n    <p>To fix the problem, turn off your antivirus software. If the page works after turning off the software, turn off this software when you use secure sites.</p>\n    <p>Remember to turn your antivirus program back on when you're done.</p>\n    <h4>Step 5: Get extra help</h4>\n    <p>If you still see the error, contact the website owner.</p>"
+            "text": "<h4>步骤1：登录门户网站</ h4>\n <p>在咖啡馆或机场等地方的Wi-Fi网络需要您登录。要查看登录页面，请访问使用的页面<code>http://</ code>。</p>\n <ol>\n <li>转到以<code>http://</ code>开头的任何网站，例如<a href=\"http://example.com \"target =\"_blank\"“> http://example.com </a>。</ li>\n <li>在打开的登录页面上，登录使用互联网。</ li>\n </ol>\n <h4>步骤2：以InPrivate模式打开页面（仅限计算机）</ h4>\n <p>如果页面打开，则扩展名为要正常工作。要修正错误，请关闭扩展程序。</p>\n <h4>步骤3：更新操作系统</ h4>\n <p>确保您的设备是最新的。</p>\n <h4>步骤4：暂时关闭防病毒软件</ h4>\n <p>如果您的防病毒软件提供了“HTTPS保护”或“HTTPS”，您将看到此错误扫描。\"防病毒软件阻止Microsoft Edge提供安全保护。</p>\n <p>要解决此问题，请关闭 防毒软件。如果在关闭软件后页面正常工作，请在使用安全站点时关闭此软件。</p>\n <p>请记住在完成后重新打开防病毒程序。</p>\n < h4>第5步：获得额外帮助</ h4>\n <p>如果您仍然看到错误，请与网站所有者联系。</p>"
         },
         {
             "id": 16315,
-            "text": "<p>You'll see this error if you're using a Wi-Fi portal where you have to sign in before you can get online.</p>\n    <p>To fix the error, click <strong>Connect</strong> on the page you're trying to visit.</p>"
+            "text": "<p>如果您使用的Wi-Fi门户网站必须先登录才能上线，您会看到此错误。</p>\n <p>要修复错误，请点击<strong>在您尝试访问的页面上连接</strong>。</p>"
         },
         {
             "id": 16316,
-            "text": "<p>You'll see this error if the date and time on your computer or mobile device are incorrect.</p>\n    <p>To fix the error, open your device's clock. Make sure the time and date are correct.</p>"
+            "text": "<p>如果您的计算机或移动设备上的日期和时间不正确，您将看到此错误。</p>\n <p>要解决此错误，请打开设备的时钟。确保时间和日期为正确的。</p>"
         },
         {
             "id": 16317,
-            "text": "\"Software on your computer is preventing Microsoft Edge from safely connecting to the web\" (Windows computers only)"
+            "text": "\"您计算机上的软件阻止Microsoft Edge安全地连接到网络“（仅限Windows计算机）”"
         },
         {
             "id": 16318,
-            "text": "<p>You'll see this error if you have Superfish software on your Windows computer.</p>\n      <p>Follow these steps to temporarily turn off the software so you can get on the web. You'll need administrator permissions.</p>\n      <ol>\n      <li>Select <strong>Start</strong>, and then search for and select <strong>\"View local services\"</strong>\n      <li>Select <strong>VisualDiscovery</strong>\n      <li>Under <strong>Startup type</strong>, select <strong>Disabled</strong>\n      <li>Under <strong>Service status</strong>, click <strong>Stop</strong>\n      <li>Select <strong>Apply</strong>, and then click <strong>OK</strong>\n      <li>See <a href=\"https://support.microsoft.com/en-us/help/4028054/windows-10-repair-or-remove-programs\">How to repair or remove programs in Windows 10</a> to learn how to permanently remove the software from your computer\n      </ol>"
+            "text": "<p>如果您的Windows计算机上有Superfish软件，您将看到此错误。</p>\n <p>请按照以下步骤临时关闭软件，以便您可以上网。您需要管理员权限。</p>\n <ol>\n <li>选择<strong>开始</strong>，然后搜索并选择<strong>\"查看本地服务\"</strong>\n < li>选择<strong> VisualDiscovery </strong>\n <li>在<strong>启动类型</strong>下，选择<strong>已禁用</strong>\n <li>在<strong>服务状态</ strong下>，单击<strong>停止</strong>\n <li>选择<strong>应用</strong>，然后单击<strong>确定</strong>\n <li>请参阅<a href=\"https://support.microsoft.com/en-us/help/4028054/windows-10-repair-or-remove-programs\">如何修复或删除Windows 10中的程序</a>以了解如何永久删除您计算机上的软件\n </ol>"
         },
         {
             "id": 16319,
@@ -14302,7 +14322,7 @@
         },
         {
             "id": 16322,
-            "text": "Proceed"
+            "text": "继续"
         },
         {
             "id": 16323,
@@ -14310,7 +14330,7 @@
         },
         {
             "id": 16324,
-            "text": "Blocked according to $2's security policy"
+            "text": "根据$2的安全政策被阻止"
         },
         {
             "id": 16325,
@@ -14346,19 +14366,19 @@
         },
         {
             "id": 16337,
-            "text": "Data entered on an insecure page"
+            "text": "在不安全的页面上输入数据"
         },
         {
             "id": 16338,
-            "text": "You entered data on an insecure page. A warning has been added to the address bar."
+            "text": "您在不安全的页面上输入了数据。地址栏中添加了警告。"
         },
         {
             "id": 16339,
-            "text": "This page is dangerous"
+            "text": "这页很危险"
         },
         {
             "id": 16342,
-            "text": "Flagged by Microsoft Defender SmartScreen"
+            "text": "由Microsoft Defender SmartScreen标记"
         },
         {
             "id": 16343,
@@ -14650,7 +14670,7 @@
         },
         {
             "id": 16418,
-            "text": "在使用此应用前，请先启动并登录 Chrome。"
+            "text": "Please start and sign in to Chrome before using this app."
         },
         {
             "id": 16419,
@@ -14726,11 +14746,11 @@
         },
         {
             "id": 16440,
-            "text": "请启动并登录 Chrome，以便 Chrome 能够检查您是否可以访问此网站。"
+            "text": "Please start and sign in to Chrome so that Chrome can check whether you are allowed to access this site."
         },
         {
             "id": 16452,
-            "text": "You already have data that is encrypted using a different version of your Microsoft Account password. Please enter it below."
+            "text": "您已经拥有使用不同版本的Microsoft帐户密码加密的数据。请在下面输入。"
         },
         {
             "id": 16457,
@@ -14878,7 +14898,7 @@
         },
         {
             "id": 16531,
-            "text": "这个浏览器由$1所管理。管理员可以远程更改浏览器设置。在此设备上的活动，也可以边微软以外的管理。<a target=\"_blank\" href=\"$2\">了解更多< / A>"
+            "text": "这个浏览器由$1所管理。管理员可以远程更改浏览器设置。在此设备上的活动，也可以边微软以外的管理。<a target=\"_blank\" href=\"$2\">了解更多</A>"
         },
         {
             "id": 16543,
@@ -16628,7 +16648,7 @@
         },
         {
             "id": 3319,
-            "index": 796
+            "index": 798
         },
         {
             "id": 3342,
@@ -16684,15 +16704,15 @@
         },
         {
             "id": 3484,
-            "index": 821
+            "index": 823
         },
         {
             "id": 3486,
-            "index": 911
+            "index": 913
         },
         {
             "id": 3487,
-            "index": 912
+            "index": 914
         },
         {
             "id": 3489,
@@ -16708,11 +16728,11 @@
         },
         {
             "id": 3501,
-            "index": 922
+            "index": 924
         },
         {
             "id": 3502,
-            "index": 923
+            "index": 925
         },
         {
             "id": 3505,
@@ -16720,7 +16740,7 @@
         },
         {
             "id": 3514,
-            "index": 930
+            "index": 932
         },
         {
             "id": 3518,
@@ -16744,15 +16764,15 @@
         },
         {
             "id": 3567,
-            "index": 959
+            "index": 961
         },
         {
             "id": 3569,
-            "index": 963
+            "index": 965
         },
         {
             "id": 3570,
-            "index": 964
+            "index": 966
         },
         {
             "id": 3573,
@@ -16788,7 +16808,7 @@
         },
         {
             "id": 3704,
-            "index": 1030
+            "index": 1032
         },
         {
             "id": 3724,
@@ -16800,15 +16820,15 @@
         },
         {
             "id": 3727,
-            "index": 807
+            "index": 809
         },
         {
             "id": 3730,
-            "index": 843
+            "index": 845
         },
         {
             "id": 3737,
-            "index": 1048
+            "index": 1050
         },
         {
             "id": 3752,
@@ -16844,11 +16864,11 @@
         },
         {
             "id": 3768,
-            "index": 819
+            "index": 821
         },
         {
             "id": 3769,
-            "index": 988
+            "index": 990
         },
         {
             "id": 3778,
@@ -16864,11 +16884,11 @@
         },
         {
             "id": 3808,
-            "index": 1094
+            "index": 1096
         },
         {
             "id": 3810,
-            "index": 1049
+            "index": 1051
         },
         {
             "id": 4069,
@@ -16876,7 +16896,7 @@
         },
         {
             "id": 4074,
-            "index": 911
+            "index": 913
         },
         {
             "id": 4081,
@@ -16888,7 +16908,7 @@
         },
         {
             "id": 4094,
-            "index": 1134
+            "index": 1136
         },
         {
             "id": 4103,
@@ -16896,7 +16916,7 @@
         },
         {
             "id": 4107,
-            "index": 1025
+            "index": 1027
         },
         {
             "id": 4115,
@@ -16936,11 +16956,11 @@
         },
         {
             "id": 4171,
-            "index": 1203
+            "index": 1205
         },
         {
             "id": 4172,
-            "index": 1023
+            "index": 1025
         },
         {
             "id": 4181,
@@ -16948,15 +16968,15 @@
         },
         {
             "id": 4182,
-            "index": 955
-        },
-        {
-            "id": 4184,
             "index": 957
         },
         {
+            "id": 4184,
+            "index": 959
+        },
+        {
             "id": 4185,
-            "index": 1023
+            "index": 1025
         },
         {
             "id": 4186,
@@ -16964,11 +16984,11 @@
         },
         {
             "id": 4191,
-            "index": 1203
+            "index": 1205
         },
         {
             "id": 4192,
-            "index": 1071
+            "index": 1073
         },
         {
             "id": 4215,
@@ -17020,11 +17040,11 @@
         },
         {
             "id": 4241,
-            "index": 1234
+            "index": 1236
         },
         {
             "id": 4242,
-            "index": 943
+            "index": 945
         },
         {
             "id": 4243,
@@ -17040,7 +17060,7 @@
         },
         {
             "id": 4257,
-            "index": 1249
+            "index": 1251
         },
         {
             "id": 4264,
@@ -17048,7 +17068,7 @@
         },
         {
             "id": 4277,
-            "index": 1262
+            "index": 1264
         },
         {
             "id": 4280,
@@ -17072,11 +17092,11 @@
         },
         {
             "id": 4329,
-            "index": 819
+            "index": 821
         },
         {
             "id": 4337,
-            "index": 1323
+            "index": 1325
         },
         {
             "id": 4342,
@@ -17088,7 +17108,7 @@
         },
         {
             "id": 4368,
-            "index": 1327
+            "index": 1329
         },
         {
             "id": 4395,
@@ -17096,7 +17116,7 @@
         },
         {
             "id": 4396,
-            "index": 1245
+            "index": 1247
         },
         {
             "id": 4398,
@@ -17108,23 +17128,23 @@
         },
         {
             "id": 4406,
-            "index": 1372
+            "index": 1374
         },
         {
             "id": 4415,
-            "index": 1375
+            "index": 1377
         },
         {
             "id": 4423,
-            "index": 911
+            "index": 913
         },
         {
             "id": 4424,
-            "index": 912
+            "index": 914
         },
         {
             "id": 4445,
-            "index": 1000
+            "index": 1002
         },
         {
             "id": 4450,
@@ -17144,11 +17164,11 @@
         },
         {
             "id": 4464,
-            "index": 1406
+            "index": 1408
         },
         {
             "id": 4465,
-            "index": 1408
+            "index": 1410
         },
         {
             "id": 4470,
@@ -17160,7 +17180,7 @@
         },
         {
             "id": 4482,
-            "index": 1049
+            "index": 1051
         },
         {
             "id": 4496,
@@ -17168,7 +17188,7 @@
         },
         {
             "id": 4498,
-            "index": 1258
+            "index": 1260
         },
         {
             "id": 4504,
@@ -17180,7 +17200,7 @@
         },
         {
             "id": 4509,
-            "index": 1408
+            "index": 1410
         },
         {
             "id": 4515,
@@ -17196,11 +17216,11 @@
         },
         {
             "id": 4560,
-            "index": 1469
+            "index": 1471
         },
         {
             "id": 4563,
-            "index": 1469
+            "index": 1471
         },
         {
             "id": 4569,
@@ -17232,7 +17252,7 @@
         },
         {
             "id": 4604,
-            "index": 1489
+            "index": 1491
         },
         {
             "id": 4605,
@@ -17240,7 +17260,7 @@
         },
         {
             "id": 4606,
-            "index": 1490
+            "index": 1492
         },
         {
             "id": 4607,
@@ -17256,11 +17276,11 @@
         },
         {
             "id": 4627,
-            "index": 1090
+            "index": 1092
         },
         {
             "id": 4669,
-            "index": 817
+            "index": 819
         },
         {
             "id": 4670,
@@ -17268,23 +17288,23 @@
         },
         {
             "id": 4676,
-            "index": 882
+            "index": 884
         },
         {
             "id": 4691,
-            "index": 909
+            "index": 911
         },
         {
             "id": 4693,
-            "index": 1558
+            "index": 1561
         },
         {
             "id": 4721,
-            "index": 1559
+            "index": 1562
         },
         {
             "id": 4723,
-            "index": 1589
+            "index": 1592
         },
         {
             "id": 4735,
@@ -17300,11 +17320,11 @@
         },
         {
             "id": 4760,
-            "index": 1619
+            "index": 1622
         },
         {
             "id": 4766,
-            "index": 1245
+            "index": 1247
         },
         {
             "id": 4767,
@@ -17316,7 +17336,7 @@
         },
         {
             "id": 4778,
-            "index": 1442
+            "index": 1444
         },
         {
             "id": 4785,
@@ -17328,7 +17348,7 @@
         },
         {
             "id": 4787,
-            "index": 1607
+            "index": 1610
         },
         {
             "id": 4789,
@@ -17340,19 +17360,19 @@
         },
         {
             "id": 4794,
-            "index": 1140
+            "index": 1142
         },
         {
             "id": 4797,
-            "index": 1022
+            "index": 1024
         },
         {
             "id": 4800,
-            "index": 845
+            "index": 847
         },
         {
             "id": 4810,
-            "index": 1650
+            "index": 1653
         },
         {
             "id": 4812,
@@ -17360,7 +17380,7 @@
         },
         {
             "id": 4813,
-            "index": 1638
+            "index": 1641
         },
         {
             "id": 4814,
@@ -17380,11 +17400,11 @@
         },
         {
             "id": 4876,
-            "index": 1685
+            "index": 1688
         },
         {
             "id": 4887,
-            "index": 1686
+            "index": 1689
         },
         {
             "id": 4893,
@@ -17396,27 +17416,27 @@
         },
         {
             "id": 4911,
-            "index": 1688
+            "index": 1691
         },
         {
             "id": 4919,
-            "index": 819
+            "index": 821
         },
         {
             "id": 5162,
-            "index": 911
+            "index": 913
         },
         {
             "id": 5177,
-            "index": 1058
+            "index": 1060
         },
         {
             "id": 5193,
-            "index": 1527
+            "index": 1530
         },
         {
             "id": 5194,
-            "index": 1138
+            "index": 1140
         },
         {
             "id": 5235,
@@ -17428,7 +17448,7 @@
         },
         {
             "id": 5263,
-            "index": 1186
+            "index": 1188
         },
         {
             "id": 5274,
@@ -17436,27 +17456,27 @@
         },
         {
             "id": 5278,
-            "index": 1869
+            "index": 1872
         },
         {
             "id": 5286,
-            "index": 1709
+            "index": 1712
         },
         {
             "id": 5416,
-            "index": 1226
+            "index": 1228
         },
         {
             "id": 5417,
-            "index": 1226
+            "index": 1228
         },
         {
             "id": 5418,
-            "index": 1227
+            "index": 1229
         },
         {
             "id": 5419,
-            "index": 911
+            "index": 913
         },
         {
             "id": 5420,
@@ -17464,19 +17484,19 @@
         },
         {
             "id": 5434,
-            "index": 1147
+            "index": 1149
         },
         {
             "id": 5436,
-            "index": 1184
+            "index": 1186
         },
         {
             "id": 5442,
-            "index": 1689
+            "index": 1692
         },
         {
             "id": 5459,
-            "index": 1070
+            "index": 1072
         },
         {
             "id": 5463,
@@ -17484,23 +17504,23 @@
         },
         {
             "id": 5466,
-            "index": 1846
+            "index": 1849
         },
         {
             "id": 5470,
-            "index": 911
+            "index": 913
         },
         {
             "id": 5472,
-            "index": 1775
+            "index": 1778
         },
         {
             "id": 5477,
-            "index": 1690
+            "index": 1693
         },
         {
             "id": 5480,
-            "index": 1193
+            "index": 1195
         },
         {
             "id": 5482,
@@ -17512,7 +17532,7 @@
         },
         {
             "id": 5500,
-            "index": 1023
+            "index": 1025
         },
         {
             "id": 5501,
@@ -17520,27 +17540,27 @@
         },
         {
             "id": 5523,
-            "index": 1700
+            "index": 1703
         },
         {
             "id": 5531,
-            "index": 1071
+            "index": 1073
         },
         {
             "id": 5533,
-            "index": 1601
+            "index": 1604
         },
         {
             "id": 5536,
-            "index": 1224
+            "index": 1226
         },
         {
             "id": 5540,
-            "index": 1138
+            "index": 1140
         },
         {
             "id": 5547,
-            "index": 2096
+            "index": 2099
         },
         {
             "id": 5554,
@@ -17560,15 +17580,15 @@
         },
         {
             "id": 5624,
-            "index": 911
+            "index": 913
         },
         {
             "id": 5625,
-            "index": 1775
+            "index": 1778
         },
         {
             "id": 5638,
-            "index": 1070
+            "index": 1072
         },
         {
             "id": 5641,
@@ -17576,15 +17596,15 @@
         },
         {
             "id": 5643,
-            "index": 1163
+            "index": 1165
         },
         {
             "id": 5644,
-            "index": 1164
+            "index": 1166
         },
         {
             "id": 5648,
-            "index": 2175
+            "index": 2178
         },
         {
             "id": 5649,
@@ -17592,47 +17612,51 @@
         },
         {
             "id": 5651,
-            "index": 1163
+            "index": 1165
         },
         {
             "id": 5652,
-            "index": 1164
+            "index": 1166
         },
         {
             "id": 5653,
-            "index": 2177
+            "index": 2180
         },
         {
             "id": 5654,
-            "index": 2178
+            "index": 2181
         },
         {
             "id": 5677,
-            "index": 1634
+            "index": 1637
         },
         {
             "id": 5680,
-            "index": 1634
+            "index": 1637
         },
         {
             "id": 5702,
-            "index": 1023
+            "index": 1025
         },
         {
             "id": 5710,
-            "index": 937
+            "index": 939
         },
         {
             "id": 5718,
-            "index": 1292
+            "index": 1294
         },
         {
             "id": 5720,
             "index": 713
         },
         {
+            "id": 5724,
+            "index": 2208
+        },
+        {
             "id": 5725,
-            "index": 2213
+            "index": 2217
         },
         {
             "id": 5726,
@@ -17640,7 +17664,7 @@
         },
         {
             "id": 5730,
-            "index": 1023
+            "index": 1025
         },
         {
             "id": 5731,
@@ -17656,23 +17680,23 @@
         },
         {
             "id": 5773,
-            "index": 1263
+            "index": 1265
         },
         {
             "id": 5774,
-            "index": 1264
+            "index": 1266
         },
         {
             "id": 5775,
-            "index": 1264
+            "index": 1266
         },
         {
             "id": 5776,
-            "index": 1253
+            "index": 1255
         },
         {
             "id": 5777,
-            "index": 1071
+            "index": 1073
         },
         {
             "id": 5778,
@@ -17680,7 +17704,7 @@
         },
         {
             "id": 5781,
-            "index": 1053
+            "index": 1055
         },
         {
             "id": 5784,
@@ -17700,7 +17724,7 @@
         },
         {
             "id": 5805,
-            "index": 2204
+            "index": 2207
         },
         {
             "id": 5806,
@@ -17716,11 +17740,11 @@
         },
         {
             "id": 5818,
-            "index": 2276
+            "index": 2280
         },
         {
             "id": 5834,
-            "index": 1049
+            "index": 1051
         },
         {
             "id": 5837,
@@ -17740,23 +17764,31 @@
         },
         {
             "id": 5842,
-            "index": 2271
+            "index": 2275
         },
         {
             "id": 5849,
-            "index": 2274
+            "index": 2278
         },
         {
             "id": 5860,
-            "index": 2276
+            "index": 2280
         },
         {
             "id": 5862,
-            "index": 1049
+            "index": 1051
+        },
+        {
+            "id": 5864,
+            "index": 2208
+        },
+        {
+            "id": 5866,
+            "index": 1871
         },
         {
             "id": 5871,
-            "index": 1868
+            "index": 1871
         },
         {
             "id": 5897,
@@ -17796,23 +17828,23 @@
         },
         {
             "id": 5945,
-            "index": 2340
+            "index": 2345
         },
         {
             "id": 5947,
-            "index": 1455
+            "index": 1457
         },
         {
             "id": 5964,
-            "index": 1455
+            "index": 1457
         },
         {
             "id": 5999,
-            "index": 2204
+            "index": 2207
         },
         {
             "id": 6007,
-            "index": 1023
+            "index": 1025
         },
         {
             "id": 6008,
@@ -17820,11 +17852,11 @@
         },
         {
             "id": 6035,
-            "index": 1263
+            "index": 1265
         },
         {
             "id": 6036,
-            "index": 1264
+            "index": 1266
         },
         {
             "id": 6037,
@@ -17832,31 +17864,31 @@
         },
         {
             "id": 6039,
-            "index": 1023
+            "index": 1025
         },
         {
             "id": 6053,
-            "index": 911
+            "index": 913
         },
         {
             "id": 6055,
-            "index": 912
+            "index": 914
         },
         {
             "id": 6062,
-            "index": 907
+            "index": 909
         },
         {
             "id": 6063,
-            "index": 909
+            "index": 911
         },
         {
             "id": 6064,
-            "index": 907
+            "index": 909
         },
         {
             "id": 6065,
-            "index": 909
+            "index": 911
         },
         {
             "id": 6068,
@@ -17892,59 +17924,59 @@
         },
         {
             "id": 6087,
-            "index": 958
-        },
-        {
-            "id": 6088,
-            "index": 959
-        },
-        {
-            "id": 6089,
             "index": 960
         },
         {
-            "id": 6090,
+            "id": 6088,
             "index": 961
         },
         {
-            "id": 6091,
+            "id": 6089,
+            "index": 962
+        },
+        {
+            "id": 6090,
             "index": 963
         },
         {
+            "id": 6091,
+            "index": 965
+        },
+        {
             "id": 6092,
-            "index": 964
+            "index": 966
         },
         {
             "id": 6098,
-            "index": 1263
+            "index": 1265
         },
         {
             "id": 6108,
-            "index": 843
+            "index": 845
         },
         {
             "id": 6114,
-            "index": 973
+            "index": 975
         },
         {
             "id": 6121,
-            "index": 1299
+            "index": 1301
         },
         {
             "id": 6128,
-            "index": 982
+            "index": 984
         },
         {
             "id": 6131,
-            "index": 1022
+            "index": 1024
         },
         {
             "id": 6132,
-            "index": 1022
+            "index": 1024
         },
         {
             "id": 6144,
-            "index": 1292
+            "index": 1294
         },
         {
             "id": 6174,
@@ -17952,11 +17984,11 @@
         },
         {
             "id": 6175,
-            "index": 1001
+            "index": 1003
         },
         {
             "id": 6179,
-            "index": 1000
+            "index": 1002
         },
         {
             "id": 6181,
@@ -17964,23 +17996,23 @@
         },
         {
             "id": 6183,
-            "index": 1001
+            "index": 1003
         },
         {
             "id": 6184,
-            "index": 1008
+            "index": 1010
         },
         {
             "id": 6186,
-            "index": 1868
+            "index": 1871
         },
         {
             "id": 6187,
-            "index": 1008
+            "index": 1010
         },
         {
             "id": 6192,
-            "index": 1868
+            "index": 1871
         },
         {
             "id": 6194,
@@ -17996,11 +18028,11 @@
         },
         {
             "id": 6201,
-            "index": 1245
+            "index": 1247
         },
         {
             "id": 6207,
-            "index": 1126
+            "index": 1128
         },
         {
             "id": 6212,
@@ -18012,23 +18044,23 @@
         },
         {
             "id": 6243,
-            "index": 943
+            "index": 945
         },
         {
             "id": 6250,
-            "index": 2497
+            "index": 2502
         },
         {
             "id": 6257,
-            "index": 990
+            "index": 992
         },
         {
             "id": 6262,
-            "index": 2540
+            "index": 2545
         },
         {
             "id": 6263,
-            "index": 2540
+            "index": 2545
         },
         {
             "id": 6265,
@@ -18036,31 +18068,31 @@
         },
         {
             "id": 6267,
-            "index": 1868
+            "index": 1871
         },
         {
             "id": 6268,
-            "index": 2540
+            "index": 2545
         },
         {
             "id": 6279,
-            "index": 2550
+            "index": 2555
         },
         {
             "id": 6281,
-            "index": 2542
+            "index": 2547
         },
         {
             "id": 6284,
-            "index": 2540
+            "index": 2545
         },
         {
             "id": 6288,
-            "index": 1331
+            "index": 1333
         },
         {
             "id": 6291,
-            "index": 1868
+            "index": 1871
         },
         {
             "id": 6292,
@@ -18068,7 +18100,7 @@
         },
         {
             "id": 6304,
-            "index": 1292
+            "index": 1294
         },
         {
             "id": 6311,
@@ -18076,7 +18108,7 @@
         },
         {
             "id": 6319,
-            "index": 2122
+            "index": 2125
         },
         {
             "id": 6320,
@@ -18084,15 +18116,15 @@
         },
         {
             "id": 6323,
-            "index": 1292
+            "index": 1294
         },
         {
             "id": 6328,
-            "index": 1138
+            "index": 1140
         },
         {
             "id": 6488,
-            "index": 2583
+            "index": 2588
         },
         {
             "id": 6525,
@@ -18116,23 +18148,23 @@
         },
         {
             "id": 6536,
-            "index": 989
+            "index": 991
         },
         {
             "id": 6570,
-            "index": 911
+            "index": 913
         },
         {
             "id": 6571,
-            "index": 1775
+            "index": 1778
         },
         {
             "id": 6577,
-            "index": 1882
+            "index": 1885
         },
         {
             "id": 6578,
-            "index": 1883
+            "index": 1886
         },
         {
             "id": 6605,
@@ -18144,11 +18176,11 @@
         },
         {
             "id": 6614,
-            "index": 1330
+            "index": 1332
         },
         {
             "id": 6652,
-            "index": 1186
+            "index": 1188
         },
         {
             "id": 6653,
@@ -18156,7 +18188,7 @@
         },
         {
             "id": 6662,
-            "index": 819
+            "index": 821
         },
         {
             "id": 6684,
@@ -18164,11 +18196,11 @@
         },
         {
             "id": 6687,
-            "index": 2561
+            "index": 2566
         },
         {
             "id": 6731,
-            "index": 1337
+            "index": 1339
         },
         {
             "id": 6734,
@@ -18180,11 +18212,11 @@
         },
         {
             "id": 6741,
-            "index": 1783
+            "index": 1786
         },
         {
             "id": 6746,
-            "index": 1260
+            "index": 1262
         },
         {
             "id": 6763,
@@ -18196,19 +18228,19 @@
         },
         {
             "id": 6784,
-            "index": 2765
+            "index": 2770
         },
         {
             "id": 6795,
-            "index": 2777
+            "index": 2782
         },
         {
             "id": 6796,
-            "index": 1873
+            "index": 1876
         },
         {
             "id": 6797,
-            "index": 2778
+            "index": 2783
         },
         {
             "id": 6811,
@@ -18220,19 +18252,19 @@
         },
         {
             "id": 6829,
-            "index": 1245
+            "index": 1247
         },
         {
             "id": 6853,
-            "index": 1245
+            "index": 1247
         },
         {
             "id": 6868,
-            "index": 2827
+            "index": 2832
         },
         {
             "id": 6870,
-            "index": 2832
+            "index": 2837
         },
         {
             "id": 6874,
@@ -18244,7 +18276,7 @@
         },
         {
             "id": 6889,
-            "index": 1689
+            "index": 1692
         },
         {
             "id": 6890,
@@ -18256,7 +18288,7 @@
         },
         {
             "id": 6914,
-            "index": 2865
+            "index": 2870
         },
         {
             "id": 6921,
@@ -18264,7 +18296,7 @@
         },
         {
             "id": 6930,
-            "index": 911
+            "index": 913
         },
         {
             "id": 15111,
@@ -18276,15 +18308,15 @@
         },
         {
             "id": 15129,
-            "index": 1253
+            "index": 1255
         },
         {
             "id": 15130,
-            "index": 1264
+            "index": 1266
         },
         {
             "id": 15136,
-            "index": 2922
+            "index": 2927
         },
         {
             "id": 15197,
@@ -18292,19 +18324,19 @@
         },
         {
             "id": 15233,
-            "index": 819
+            "index": 821
         },
         {
             "id": 15243,
-            "index": 1602
+            "index": 1605
         },
         {
             "id": 15247,
-            "index": 1049
+            "index": 1051
         },
         {
             "id": 15249,
-            "index": 1337
+            "index": 1339
         },
         {
             "id": 15251,
@@ -18336,15 +18368,15 @@
         },
         {
             "id": 15272,
-            "index": 1703
+            "index": 1706
         },
         {
             "id": 15285,
-            "index": 1299
+            "index": 1301
         },
         {
             "id": 15288,
-            "index": 1299
+            "index": 1301
         },
         {
             "id": 15295,
@@ -18352,7 +18384,7 @@
         },
         {
             "id": 15303,
-            "index": 2994
+            "index": 2999
         },
         {
             "id": 15307,
@@ -18364,11 +18396,11 @@
         },
         {
             "id": 15326,
-            "index": 2277
+            "index": 2281
         },
         {
             "id": 15330,
-            "index": 1245
+            "index": 1247
         },
         {
             "id": 15348,
@@ -18376,7 +18408,7 @@
         },
         {
             "id": 15349,
-            "index": 2048
+            "index": 2051
         },
         {
             "id": 15350,
@@ -18384,11 +18416,11 @@
         },
         {
             "id": 15426,
-            "index": 2658
+            "index": 2663
         },
         {
             "id": 15449,
-            "index": 1602
+            "index": 1605
         },
         {
             "id": 15453,
@@ -18416,11 +18448,11 @@
         },
         {
             "id": 15471,
-            "index": 787
+            "index": 789
         },
         {
             "id": 15489,
-            "index": 1025
+            "index": 1027
         },
         {
             "id": 15491,
@@ -18444,7 +18476,7 @@
         },
         {
             "id": 15510,
-            "index": 2157
+            "index": 2160
         },
         {
             "id": 15518,
@@ -18456,11 +18488,11 @@
         },
         {
             "id": 15525,
-            "index": 2883
+            "index": 2888
         },
         {
             "id": 15557,
-            "index": 1196
+            "index": 1198
         },
         {
             "id": 15565,
@@ -18472,7 +18504,7 @@
         },
         {
             "id": 15571,
-            "index": 819
+            "index": 821
         },
         {
             "id": 15574,
@@ -18480,23 +18512,23 @@
         },
         {
             "id": 15577,
-            "index": 1071
+            "index": 1073
         },
         {
             "id": 15580,
-            "index": 1657
+            "index": 1660
         },
         {
             "id": 15583,
-            "index": 2568
+            "index": 2573
         },
         {
             "id": 15587,
-            "index": 3181
+            "index": 3186
         },
         {
             "id": 15628,
-            "index": 1282
+            "index": 1284
         },
         {
             "id": 15640,
@@ -18504,19 +18536,19 @@
         },
         {
             "id": 15654,
-            "index": 836
+            "index": 838
         },
         {
             "id": 15656,
-            "index": 845
+            "index": 847
         },
         {
             "id": 15657,
-            "index": 846
+            "index": 848
         },
         {
             "id": 15658,
-            "index": 847
+            "index": 849
         },
         {
             "id": 15659,
@@ -18536,35 +18568,35 @@
         },
         {
             "id": 15663,
-            "index": 865
-        },
-        {
-            "id": 15664,
-            "index": 839
-        },
-        {
-            "id": 15665,
-            "index": 838
-        },
-        {
-            "id": 15666,
-            "index": 854
-        },
-        {
-            "id": 15668,
-            "index": 866
-        },
-        {
-            "id": 15670,
             "index": 867
         },
         {
+            "id": 15664,
+            "index": 841
+        },
+        {
+            "id": 15665,
+            "index": 840
+        },
+        {
+            "id": 15666,
+            "index": 856
+        },
+        {
+            "id": 15668,
+            "index": 868
+        },
+        {
+            "id": 15670,
+            "index": 869
+        },
+        {
             "id": 15671,
-            "index": 911
+            "index": 913
         },
         {
             "id": 15672,
-            "index": 912
+            "index": 914
         },
         {
             "id": 15673,
@@ -18572,31 +18604,31 @@
         },
         {
             "id": 15674,
-            "index": 914
+            "index": 916
         },
         {
             "id": 15676,
-            "index": 823
-        },
-        {
-            "id": 15677,
-            "index": 824
-        },
-        {
-            "id": 15678,
             "index": 825
         },
         {
-            "id": 15679,
+            "id": 15677,
             "index": 826
         },
         {
+            "id": 15678,
+            "index": 827
+        },
+        {
+            "id": 15679,
+            "index": 828
+        },
+        {
             "id": 15680,
-            "index": 822
+            "index": 824
         },
         {
             "id": 15696,
-            "index": 3248
+            "index": 3253
         },
         {
             "id": 15697,
@@ -18604,7 +18636,7 @@
         },
         {
             "id": 15706,
-            "index": 918
+            "index": 920
         },
         {
             "id": 15708,
@@ -18612,19 +18644,19 @@
         },
         {
             "id": 15709,
-            "index": 1110
+            "index": 1112
         },
         {
             "id": 15717,
-            "index": 2641
+            "index": 2646
         },
         {
             "id": 15724,
-            "index": 2116
+            "index": 2119
         },
         {
             "id": 15733,
-            "index": 2987
+            "index": 2992
         },
         {
             "id": 15742,
@@ -18632,7 +18664,7 @@
         },
         {
             "id": 15762,
-            "index": 3276
+            "index": 3281
         },
         {
             "id": 15763,
@@ -18656,7 +18688,7 @@
         },
         {
             "id": 15833,
-            "index": 1282
+            "index": 1284
         },
         {
             "id": 15853,
@@ -18668,19 +18700,19 @@
         },
         {
             "id": 15855,
-            "index": 1282
+            "index": 1284
         },
         {
             "id": 15857,
-            "index": 3335
+            "index": 3340
         },
         {
             "id": 15858,
-            "index": 1282
+            "index": 1284
         },
         {
             "id": 15862,
-            "index": 1868
+            "index": 1871
         },
         {
             "id": 15864,
@@ -18696,7 +18728,7 @@
         },
         {
             "id": 15867,
-            "index": 1049
+            "index": 1051
         },
         {
             "id": 15870,
@@ -18704,59 +18736,59 @@
         },
         {
             "id": 15874,
-            "index": 1249
+            "index": 1251
         },
         {
             "id": 15875,
-            "index": 1294
+            "index": 1296
         },
         {
             "id": 15934,
-            "index": 3359
+            "index": 3364
         },
         {
             "id": 15935,
-            "index": 3360
+            "index": 3365
         },
         {
             "id": 15936,
-            "index": 1249
+            "index": 1251
         },
         {
             "id": 15937,
-            "index": 1253
+            "index": 1255
         },
         {
             "id": 15939,
-            "index": 1294
+            "index": 1296
         },
         {
             "id": 15940,
-            "index": 3358
+            "index": 3363
         },
         {
             "id": 15983,
-            "index": 3381
+            "index": 3386
         },
         {
             "id": 15986,
-            "index": 3379
+            "index": 3384
         },
         {
             "id": 16016,
-            "index": 1868
+            "index": 1871
         },
         {
             "id": 16023,
-            "index": 2087
+            "index": 2090
         },
         {
             "id": 16029,
-            "index": 3444
+            "index": 3449
         },
         {
             "id": 16033,
-            "index": 2697
+            "index": 2702
         },
         {
             "id": 16042,
@@ -18772,15 +18804,15 @@
         },
         {
             "id": 16057,
-            "index": 2087
+            "index": 2090
         },
         {
             "id": 16058,
-            "index": 1189
+            "index": 1191
         },
         {
             "id": 16059,
-            "index": 1125
+            "index": 1127
         },
         {
             "id": 16061,
@@ -18796,15 +18828,15 @@
         },
         {
             "id": 16235,
-            "index": 2778
+            "index": 2783
         },
         {
             "id": 16244,
-            "index": 2641
+            "index": 2646
         },
         {
             "id": 16245,
-            "index": 1245
+            "index": 1247
         },
         {
             "id": 16259,
@@ -18820,15 +18852,15 @@
         },
         {
             "id": 16280,
-            "index": 2048
+            "index": 2051
         },
         {
             "id": 16281,
-            "index": 3527
+            "index": 3532
         },
         {
             "id": 16305,
-            "index": 3469
+            "index": 3474
         },
         {
             "id": 16306,
@@ -18836,11 +18868,11 @@
         },
         {
             "id": 16320,
-            "index": 3268
+            "index": 3273
         },
         {
             "id": 16321,
-            "index": 3538
+            "index": 3543
         },
         {
             "id": 16326,
@@ -18848,7 +18880,7 @@
         },
         {
             "id": 16327,
-            "index": 3527
+            "index": 3532
         },
         {
             "id": 16328,
@@ -18856,23 +18888,23 @@
         },
         {
             "id": 16333,
-            "index": 3499
+            "index": 3504
         },
         {
             "id": 16344,
-            "index": 3215
+            "index": 3220
         },
         {
             "id": 16361,
-            "index": 3606
+            "index": 3611
         },
         {
             "id": 16393,
-            "index": 3636
+            "index": 3641
         },
         {
             "id": 16421,
-            "index": 3538
+            "index": 3543
         },
         {
             "id": 16430,
@@ -18880,15 +18912,15 @@
         },
         {
             "id": 16431,
-            "index": 2048
+            "index": 2051
         },
         {
             "id": 16491,
-            "index": 1487
+            "index": 1489
         },
         {
             "id": 16492,
-            "index": 1488
+            "index": 1490
         },
         {
             "id": 16524,
@@ -18896,7 +18928,7 @@
         },
         {
             "id": 16557,
-            "index": 1023
+            "index": 1025
         },
         {
             "id": 16560,
@@ -18908,7 +18940,7 @@
         },
         {
             "id": 16562,
-            "index": 1806
+            "index": 1809
         },
         {
             "id": 16573,
@@ -18924,15 +18956,15 @@
         },
         {
             "id": 16576,
-            "index": 1868
+            "index": 1871
         },
         {
             "id": 16577,
-            "index": 1070
+            "index": 1072
         },
         {
             "id": 16578,
-            "index": 1253
+            "index": 1255
         },
         {
             "id": 16581,
@@ -18944,15 +18976,15 @@
         },
         {
             "id": 16584,
-            "index": 1450
+            "index": 1452
         },
         {
             "id": 16591,
-            "index": 1657
+            "index": 1660
         },
         {
             "id": 16592,
-            "index": 3125
+            "index": 3130
         },
         {
             "id": 16593,
@@ -18972,31 +19004,31 @@
         },
         {
             "id": 20102,
-            "index": 1430
+            "index": 1432
         },
         {
             "id": 20103,
-            "index": 1042
+            "index": 1044
         },
         {
             "id": 20104,
-            "index": 1042
+            "index": 1044
         },
         {
             "id": 20105,
-            "index": 937
+            "index": 939
         },
         {
             "id": 20111,
-            "index": 3745
+            "index": 3750
         },
         {
             "id": 20112,
-            "index": 3745
+            "index": 3750
         },
         {
             "id": 20113,
-            "index": 3745
+            "index": 3750
         },
         {
             "id": 20117,
@@ -19004,31 +19036,31 @@
         },
         {
             "id": 20255,
-            "index": 1652
+            "index": 1655
         },
         {
             "id": 20275,
-            "index": 1652
+            "index": 1655
         },
         {
             "id": 20276,
-            "index": 3773
+            "index": 3778
         },
         {
             "id": 20285,
-            "index": 2419
+            "index": 2424
         },
         {
             "id": 20287,
-            "index": 3751
+            "index": 3756
         },
         {
             "id": 20288,
-            "index": 2420
+            "index": 2425
         },
         {
             "id": 20320,
-            "index": 1292
+            "index": 1294
         },
         {
             "id": 20321,
@@ -19052,11 +19084,11 @@
         },
         {
             "id": 20328,
-            "index": 3357
+            "index": 3362
         },
         {
             "id": 20329,
-            "index": 2330
+            "index": 2335
         },
         {
             "id": 20339,
@@ -19064,63 +19096,63 @@
         },
         {
             "id": 24763,
-            "index": 2782
+            "index": 2787
         },
         {
             "id": 24765,
-            "index": 2781
+            "index": 2786
         },
         {
             "id": 24771,
-            "index": 3902
+            "index": 3907
         },
         {
             "id": 25919,
-            "index": 2972
+            "index": 2977
         },
         {
             "id": 25920,
-            "index": 2971
+            "index": 2976
         },
         {
             "id": 25921,
-            "index": 2962
-        },
-        {
-            "id": 25922,
-            "index": 2963
-        },
-        {
-            "id": 25923,
-            "index": 2964
-        },
-        {
-            "id": 25924,
-            "index": 2965
-        },
-        {
-            "id": 25926,
-            "index": 2966
-        },
-        {
-            "id": 25927,
             "index": 2967
         },
         {
-            "id": 25929,
+            "id": 25922,
             "index": 2968
         },
         {
-            "id": 25930,
+            "id": 25923,
             "index": 2969
         },
         {
-            "id": 25931,
+            "id": 25924,
             "index": 2970
         },
         {
+            "id": 25926,
+            "index": 2971
+        },
+        {
+            "id": 25927,
+            "index": 2972
+        },
+        {
+            "id": 25929,
+            "index": 2973
+        },
+        {
+            "id": 25930,
+            "index": 2974
+        },
+        {
+            "id": 25931,
+            "index": 2975
+        },
+        {
             "id": 25932,
-            "index": 2961
+            "index": 2966
         },
         {
             "id": 25933,
@@ -19132,39 +19164,39 @@
         },
         {
             "id": 27352,
-            "index": 3955
+            "index": 3960
         },
         {
             "id": 27356,
-            "index": 3957
+            "index": 3962
         },
         {
             "id": 27359,
-            "index": 3959
+            "index": 3964
         },
         {
             "id": 27380,
-            "index": 1430
+            "index": 1432
         },
         {
             "id": 27381,
-            "index": 1431
+            "index": 1433
         },
         {
             "id": 27384,
-            "index": 1626
+            "index": 1629
         },
         {
             "id": 27403,
-            "index": 2812
+            "index": 2817
         },
         {
             "id": 27406,
-            "index": 3990
+            "index": 3995
         },
         {
             "id": 27412,
-            "index": 3990
+            "index": 3995
         },
         {
             "id": 27417,
@@ -19172,19 +19204,19 @@
         },
         {
             "id": 27431,
-            "index": 1487
-        },
-        {
-            "id": 27432,
-            "index": 1488
-        },
-        {
-            "id": 27433,
             "index": 1489
         },
         {
-            "id": 27434,
+            "id": 27432,
             "index": 1490
+        },
+        {
+            "id": 27433,
+            "index": 1491
+        },
+        {
+            "id": 27434,
+            "index": 1492
         },
         {
             "id": 27435,
@@ -19192,7 +19224,7 @@
         },
         {
             "id": 27437,
-            "index": 1868
+            "index": 1871
         },
         {
             "id": 27438,
@@ -19204,7 +19236,7 @@
         },
         {
             "id": 27441,
-            "index": 2200
+            "index": 2203
         },
         {
             "id": 27443,
@@ -19212,11 +19244,11 @@
         },
         {
             "id": 27444,
-            "index": 3999
+            "index": 4004
         },
         {
             "id": 27445,
-            "index": 4000
+            "index": 4005
         },
         {
             "id": 27454,
@@ -19224,31 +19256,31 @@
         },
         {
             "id": 27455,
-            "index": 3270
+            "index": 3275
         },
         {
             "id": 27471,
-            "index": 3845
+            "index": 3850
         },
         {
             "id": 27472,
-            "index": 3846
+            "index": 3851
         },
         {
             "id": 27473,
-            "index": 3847
+            "index": 3852
         },
         {
             "id": 27474,
-            "index": 3848
+            "index": 3853
         },
         {
             "id": 27475,
-            "index": 3849
+            "index": 3854
         },
         {
             "id": 27493,
-            "index": 2579
+            "index": 2584
         },
         {
             "id": 27507,

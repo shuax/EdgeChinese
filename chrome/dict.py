@@ -7,12 +7,18 @@ with open('zh-CN.json', 'rb') as f:
     cn = json.loads(f.read())
 
 en_dict = {}
-cn_dict = {}
-en_cn_dict = {}
 for x in en['entry']:
+    if 'chrome' in x['text'].lower():
+        continue
     en_dict[x['id']] = x['text']
+
+cn_dict = {}
 for x in cn['entry']:
+    if 'chrome' in x['text'].lower():
+        continue
     cn_dict[x['id']] = x['text']
+
+en_cn_dict = {}
 for i, value in en_dict.items():
     if value.isdigit():
         continue
