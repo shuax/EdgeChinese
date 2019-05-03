@@ -33,6 +33,8 @@ for entry in en['entry']:
         continue
     if entry['text'].isupper():
         continue
+    if entry['text'].startswith('https://'):
+        continue
     if text in en_cn_dict:
         entry['text'] = en_cn_dict[text]
     else:
