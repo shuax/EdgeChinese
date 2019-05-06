@@ -13,6 +13,20 @@ with open('chrome/en_cn_dict.json', 'rb') as f:
 with open('manual.json', 'rb') as f:
     manual = json.loads(f.read())
     for k, v in manual.items():
+        if not is_chinese(v):
+            print(v)
+            continue
+        if k ==v:
+            print(v)
+            continue
+        # if 'InPrivate' in v:
+        #     print(v)
+        # if ',' in v and 'plural' not in v:
+        #     print(v)
+        # if ')' in v and 'plural' not in v and '<' not in v:
+        #     print(v)
+        # if '.' in v and 'plural' not in v and '<' not in v and '...' not in v:
+        #     print(v)
         en_cn_dict[k] = v
 
 # with open('zh-CN2.json', 'rb') as f:

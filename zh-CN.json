@@ -206,7 +206,7 @@
         },
         {
             "id": 193,
-            "text": "点击返回($1)，按住查看历史记录"
+            "text": "点击返回（$1），按住查看历史记录"
         },
         {
             "id": 194,
@@ -214,7 +214,7 @@
         },
         {
             "id": 196,
-            "text": "点击前进($1)，按住查看历史记录"
+            "text": "点击前进（$1），按住查看历史记录"
         },
         {
             "id": 197,
@@ -418,7 +418,7 @@
         },
         {
             "id": 290,
-            "text": "system-ui，sans-serif"
+            "text": "system-ui, sans-serif"
         },
         {
             "id": 292,
@@ -602,11 +602,11 @@
         },
         {
             "id": 447,
-            "text": "$1 - Microsoft Edge 测试版"
+            "text": "$1 - Microsoft Edge Beta"
         },
         {
             "id": 448,
-            "text": "$1 - Microsoft Edge 开发者版"
+            "text": "$1 - Microsoft Edge Dev"
         },
         {
             "id": 449,
@@ -810,7 +810,7 @@
         },
         {
             "id": 528,
-            "text": "设置和更多（Alt + F）。有更新。"
+            "text": "设置和更多（Alt+F）。有更新。"
         },
         {
             "id": 529,
@@ -834,7 +834,7 @@
         },
         {
             "id": 544,
-            "text": "您已登录 Microsoft Edge."
+            "text": "您已登录 Microsoft Edge"
         },
         {
             "id": 545,
@@ -854,11 +854,11 @@
         },
         {
             "id": 551,
-            "text": "Are you sure you want to give an administrator permanent control over your Microsoft Edge profile? By signing in with a managed account, your Microsoft Edge data—including apps, favorites, history, passwords, and other settings—will be linked to $1. You'll be able to delete the data, but won't be able to link it to another account. $2"
+            "text": "您确定要让管理员永久控制您的Microsoft Edge配置文件吗？ 通过使用托管帐户登录，您的Microsoft Edge数据（包括应用程序，收藏夹，历史记录，密码和其他设置）将链接到$1。 您将能够删除数据，但无法将其链接到其他帐户。$2"
         },
         {
             "id": 552,
-            "text": "Are you sure you want to give an administrator control over your Microsoft Edge profile? By signing in with a managed account, your Microsoft Edge data—including apps, favorites, history, passwords, and other settings—will be tied to $1. You'll be able to delete the data, but won't be able to tie it to another account. To keep your Microsoft Edge data separate, you can create a new profile. $2"
+            "text": "您确定要让管理员控制您的Microsoft Edge配置文件吗？ 通过使用托管帐户登录，您的Microsoft Edge数据（包括应用程序，收藏夹，历史记录，密码和其他设置）将与$1相关联。 您将能够删除数据，但无法将其与其他帐户绑定。 要将Microsoft Edge数据分开，可以创建新的配置文件。$2"
         },
         {
             "id": 553,
@@ -970,19 +970,19 @@
         },
         {
             "id": 596,
-            "text": "Microsoft Edge(mDNS-In)"
+            "text": "Microsoft Edge (mDNS-In)"
         },
         {
             "id": 597,
-            "text": "Microsoft Edge 测试版 (mDNS-In)"
+            "text": "Microsoft Edge Beta (mDNS-In)"
         },
         {
             "id": 598,
-            "text": "Microsoft Edge Canary(mDNS-In)"
+            "text": "Microsoft Edge Canary (mDNS-In)"
         },
         {
             "id": 599,
-            "text": "Microsoft Edge 开发者版 (mDNS-In)"
+            "text": "Microsoft Edge Dev (mDNS-In)"
         },
         {
             "id": 600,
@@ -990,15 +990,15 @@
         },
         {
             "id": 601,
-            "text": "Microsoft Edge 测试版的入站规则，允许 mDNS 流量。"
+            "text": "Microsoft Edge Beta的入站规则，允许mDNS流量。"
         },
         {
             "id": 602,
-            "text": "Microsoft Edge Canary版的入站规则，允许mDNS流量。"
+            "text": "Microsoft Edge Canary的入站规则，允许mDNS流量。"
         },
         {
             "id": 603,
-            "text": "Microsoft Edge 开发者版的入站规则，允许 mDNS 流量。"
+            "text": "Microsoft Edge Dev的入站规则，允许mDNS流量。"
         },
         {
             "id": 604,
@@ -1318,7 +1318,7 @@
         },
         {
             "id": 840,
-            "text": "在您的所有设备上同步收藏夹，$1."
+            "text": "在您的所有设备上同步收藏夹，$1。"
         },
         {
             "id": 841,
@@ -1350,7 +1350,7 @@
         },
         {
             "id": 857,
-            "text": "添加所有标签到书签"
+            "text": "添加所有标签到收藏夹"
         },
         {
             "id": 858,
@@ -1374,7 +1374,7 @@
         },
         {
             "id": 867,
-            "text": "favorites_$1.HTML"
+            "text": "收藏_$1.HTML"
         },
         {
             "id": 868,
@@ -2718,7 +2718,7 @@
         },
         {
             "id": 2852,
-            "text": "Choose what to clear"
+            "text": "选择要清除的内容"
         },
         {
             "id": 2854,
@@ -2942,7 +2942,7 @@
         },
         {
             "id": 3255,
-            "text": "$1, $2或1个其他"
+            "text": "$1，$2或1个其他"
         },
         {
             "id": 3256,
@@ -2994,7 +2994,7 @@
         },
         {
             "id": 3270,
-            "text": "发生请求"
+            "text": "发送请求"
         },
         {
             "id": 3271,
@@ -3146,11 +3146,11 @@
         },
         {
             "id": 3314,
-            "text": "这将仅清除Microsoft Edge中的浏览数据。要清除Application Guard中的浏览数据，请转到 设置 > 隐私和服务。"
+            "text": "这将仅清除Microsoft Edge中的浏览数据。要清除应用防护中的浏览数据，请转到 设置 > 隐私和服务。"
         },
         {
             "id": 3315,
-            "text": "这将仅清除 Application Guard 中的浏览数据。要清除 Microsoft Edge 中的浏览数据，请转至 设置>隐私和服务 。"
+            "text": "这将仅清除应用防护中的浏览数据。要清除 Microsoft Edge 中的浏览数据，请转至 设置>隐私和服务 。"
         },
         {
             "id": 3316,
@@ -3190,7 +3190,7 @@
         },
         {
             "id": 3326,
-            "text": "通过在诊断数据设置中选择 \"完整\",帮助改进 Microsoft 产品和服务"
+            "text": "通过在诊断数据设置中选择 \"完整\"，帮助改进 Microsoft 产品和服务"
         },
         {
             "id": 3327,
@@ -4006,7 +4006,7 @@
         },
         {
             "id": 3669,
-            "text": "上面列出的更多功能将在未来几个月内同步。"
+            "text": "上面列出的更多同步功能将在未来几个月内推出。"
         },
         {
             "id": 3670,
@@ -4114,7 +4114,7 @@
         },
         {
             "id": 3706,
-            "text": "打开标签页"
+            "text": "打开的标签页"
         },
         {
             "id": 3707,
@@ -4878,7 +4878,7 @@
         },
         {
             "id": 4192,
-            "text": "Microsoft Edge Apps"
+            "text": "Microsoft Edge 应用"
         },
         {
             "id": 4195,
@@ -5166,7 +5166,7 @@
         },
         {
             "id": 4311,
-            "text": "输入您想要打印的份数(从1至999)。"
+            "text": "输入您想要打印的份数（从1至999）。"
         },
         {
             "id": 4312,
@@ -5574,7 +5574,7 @@
         },
         {
             "id": 4442,
-            "text": "$1. 谢谢!"
+            "text": "$1。谢谢!"
         },
         {
             "id": 4443,
@@ -5770,15 +5770,15 @@
         },
         {
             "id": 4519,
-            "text": "Enterprise Mode Site List"
+            "text": "企业模式站点列表"
         },
         {
             "id": 4520,
-            "text": "User Agent Overrides"
+            "text": "用户代理覆盖"
         },
         {
             "id": 4522,
-            "text": "Edge Compatibility Lists"
+            "text": "Edge兼容性列表"
         },
         {
             "id": 4525,
@@ -5802,11 +5802,11 @@
         },
         {
             "id": 4532,
-            "text": "搜索结果 -  $1/$2"
+            "text": "搜索结果 - $1/$2"
         },
         {
             "id": 4533,
-            "text": "搜索结果 -  $1/$2至$3/$4"
+            "text": "搜索结果 - $1/$2至$3/$4"
         },
         {
             "id": 4534,
@@ -5974,7 +5974,7 @@
         },
         {
             "id": 4577,
-            "text": "Add h&ighlight"
+            "text": "添加高亮"
         },
         {
             "id": 4578,
@@ -6102,7 +6102,7 @@
         },
         {
             "id": 4619,
-            "text": "新的Application Guard窗口"
+            "text": "新的应用防护窗口"
         },
         {
             "id": 4620,
@@ -6290,11 +6290,11 @@
         },
         {
             "id": 4694,
-            "text": "$1 （推荐, 默认）"
+            "text": "$1（推荐，默认）"
         },
         {
             "id": 4695,
-            "text": "$1 (推荐)"
+            "text": "$1（推荐）"
         },
         {
             "id": 4696,
@@ -6718,7 +6718,7 @@
         },
         {
             "id": 4845,
-            "text": "We’re still working to support searching for such file names"
+            "text": "我们仍在努力支持搜索此类文件名"
         },
         {
             "id": 4850,
@@ -6738,11 +6738,11 @@
         },
         {
             "id": 4854,
-            "text": "下载取消： $1."
+            "text": "下载取消：$1。"
         },
         {
             "id": 4855,
-            "text": "下载完成： $1. Press Shift+F6 to cycle to the downloads bar area."
+            "text": "下载完成：$1。按下 Shift+F6 回收下载条。"
         },
         {
             "id": 4858,
@@ -7166,7 +7166,7 @@
         },
         {
             "id": 5183,
-            "text": "DevTools要求完全访问$1.请确保您不会泄露任何敏感信息。"
+            "text": "DevTools要求完全访问$1。请确保您不会泄露任何敏感信息。"
         },
         {
             "id": 5185,
@@ -7378,7 +7378,7 @@
         },
         {
             "id": 5240,
-            "text": "InPrivate Subframe：$1"
+            "text": "隐身子框架：$1"
         },
         {
             "id": 5248,
@@ -7526,7 +7526,7 @@
         },
         {
             "id": 5291,
-            "text": "Open in Web Store"
+            "text": "在网上商店中打开"
         },
         {
             "id": 5292,
@@ -8146,7 +8146,7 @@
         },
         {
             "id": 5468,
-            "text": "你没有允许修改应用和扩展。你的管理员($1)可以做出这些改变。"
+            "text": "你没有允许修改应用和扩展。你的管理员（$1）可以做出这些改变。"
         },
         {
             "id": 5469,
@@ -8406,7 +8406,7 @@
         },
         {
             "id": 5545,
-            "text": "Customize and control (Alt+F) $1"
+            "text": "自定义和控制（Alt+F）$1"
         },
         {
             "id": 5546,
@@ -8490,7 +8490,7 @@
         },
         {
             "id": 5572,
-            "text": "Component downloading…"
+            "text": "组件下载中…"
         },
         {
             "id": 5573,
@@ -8894,7 +8894,7 @@
         },
         {
             "id": 5721,
-            "text": "Click to go back (Alt+Left arrow)"
+            "text": "点击返回（Alt+左箭头）"
         },
         {
             "id": 5722,
@@ -8902,11 +8902,11 @@
         },
         {
             "id": 5723,
-            "text": "Application Guard"
+            "text": "应用防护"
         },
         {
             "id": 5724,
-            "text": "Refresh ($1)"
+            "text": "刷新（$1）"
         },
         {
             "id": 5725,
@@ -8914,7 +8914,7 @@
         },
         {
             "id": 5726,
-            "text": "Stop ($1)"
+            "text": "停止（$1）"
         },
         {
             "id": 5729,
@@ -9042,7 +9042,7 @@
         },
         {
             "id": 5776,
-            "text": "使用InPrivate窗口私下浏览。"
+            "text": "使用隐身窗口私下浏览。"
         },
         {
             "id": 5777,
@@ -9054,7 +9054,7 @@
         },
         {
             "id": 5779,
-            "text": "要私下浏览，请选择设置>新建隐身窗口或按住Ctrl + Shift + N."
+            "text": "要隐身浏览，请选择 设置 > 新建隐身窗口 或按住Ctrl+Shift+N"
         },
         {
             "id": 5780,
@@ -9142,7 +9142,7 @@
         },
         {
             "id": 5821,
-            "text": "Favorites or bookmarks HTML file"
+            "text": "收藏夹或书签HTML文件"
         },
         {
             "id": 5822,
@@ -9318,7 +9318,7 @@
         },
         {
             "id": 5890,
-            "text": "You're browsing in Application Guard for Microsoft Edge. This helps keep your computer safer by creating a separate browsing environment."
+            "text": "您正在使用 Microsoft Edge 应用防护浏览。这有助于通过创建单独的浏览环境来保持计算机的安全性。"
         },
         {
             "id": 5893,
@@ -9346,11 +9346,11 @@
         },
         {
             "id": 5903,
-            "text": "(Microsoft Edge错误页面)"
+            "text": "（Microsoft Edge错误页面）"
         },
         {
             "id": 5917,
-            "text": "我们无法更新(错误$1)"
+            "text": "我们无法更新（错误$1）"
         },
         {
             "id": 5919,
@@ -9546,7 +9546,7 @@
         },
         {
             "id": 5985,
-            "text": "添加所有标签到书签"
+            "text": "添加所有标签到收藏夹"
         },
         {
             "id": 5986,
@@ -9798,7 +9798,7 @@
         },
         {
             "id": 6079,
-            "text": "以下cookie被阻止(第三方cookie被无异常阻止)"
+            "text": "以下cookie被阻止（第三方cookie被无异常阻止）"
         },
         {
             "id": 6081,
@@ -9962,7 +9962,7 @@
         },
         {
             "id": 6172,
-            "text": "View in Web Store"
+            "text": "在网上商店中查看"
         },
         {
             "id": 6173,
@@ -10310,7 +10310,7 @@
         },
         {
             "id": 6317,
-            "text": "您现在已登录到$1.您的收藏夹，历史记录和其他设置正在与您的Microsoft帐户同步。"
+            "text": "您现在已登录到$1。您的收藏夹，历史记录和其他设置正在与您的Microsoft帐户同步。"
         },
         {
             "id": 6322,
@@ -10350,7 +10350,7 @@
         },
         {
             "id": 6333,
-            "text": "Sorry! Couldn’t translate page"
+            "text": "抱歉! 无法翻译页面"
         },
         {
             "id": 6335,
@@ -11674,7 +11674,7 @@
         },
         {
             "id": 15042,
-            "text": "Microsoft Edge hasn’t completed its initial setup."
+            "text": "Microsoft Edge 尚未完成其初始设置。"
         },
         {
             "id": 15043,
@@ -11698,7 +11698,7 @@
         },
         {
             "id": 15048,
-            "text": "Microsoft Edge证实$1发行了这个网站的证书。"
+            "text": "Microsoft Edge核实$1发行了这个网站的证书。"
         },
         {
             "id": 15049,
@@ -12330,7 +12330,7 @@
         },
         {
             "id": 15375,
-            "text": "嗯...无法连接到这个网页"
+            "text": "嗯... 无法连接到这个网页"
         },
         {
             "id": 15376,
@@ -12630,7 +12630,7 @@
         },
         {
             "id": 15482,
-            "text": "删除书签"
+            "text": "删除收藏"
         },
         {
             "id": 15485,
@@ -12682,7 +12682,7 @@
         },
         {
             "id": 15509,
-            "text": "在新的隐身窗口打开页面 (Ctrl-Shift-N)"
+            "text": "在新的隐身窗口打开页面(Ctrl-Shift-N)"
         },
         {
             "id": 15514,
@@ -13126,7 +13126,7 @@
         },
         {
             "id": 15706,
-            "text": "您可能会失去对Microsoft帐户的访问权限或遭遇身份盗用.Microsoft Edge建议您立即更改密码。"
+            "text": "您可能会失去对Microsoft帐户的访问权限或遭遇身份盗用。Microsoft Edge建议您立即更改密码。"
         },
         {
             "id": 15707,
@@ -13778,7 +13778,7 @@
         },
         {
             "id": 15995,
-            "text": "此计算机未被检测为企业管理，因此策略只能自动安装Microsoft Store托管的扩展.Microsoft商店更新URL为\"$1\"。"
+            "text": "此计算机未被检测为企业管理，因此策略只能自动安装Microsoft Store托管的扩展。Microsoft商店更新URL为\"$1\"。"
         },
         {
             "id": 15996,
@@ -14126,11 +14126,11 @@
         },
         {
             "id": 16233,
-            "text": "\"$1\" wasn’t installed properly on your computer or network. Ask your IT administrator to fix this issue."
+            "text": "\"$1\" 未在您的计算机或网络上正确安装。请您的IT管理员解决此问题。"
         },
         {
             "id": 16234,
-            "text": "\"$1\" wasn’t installed properly on your computer or the network:\n    <ul>\n    <li>Try uninstalling or turning off \"$1\"</li>\n    <li>Try connecting to another network</li>\n    </ul>"
+            "text": "\"$1\" 未在您的计算机或网络上正确安装：\n    <ul>\n    <li>尝试卸载或关闭 \"$1\"</li>\n    <li>尝试连接到另一个网络</li>\n    </ul>"
         },
         {
             "id": 16235,
@@ -14250,19 +14250,19 @@
         },
         {
             "id": 16267,
-            "text": "Phishing sites can impersonate trusted sites to trick you into revealing personal or financial information. Even if it looks and feels trustworthy, the site you are trying to visit could be a phishing site in disguise. By continuing to this site, you might be putting your sensitive information—like passwords, credit card numbers, contact info, or software activation keys—at risk.<br><br>\n    These attacks often use spam emails, advertisements, or redirections from other sites that try to trick you into revealing sensitive information. If in doubt, <a href=\"#\" class=\"whiteFont\" id=\"gobackLink\">go back</a>."
+            "text": "网络钓鱼网站可以冒充受信任的网站诱骗您泄露个人或财务信息。即使它看起来和感觉值得信赖，您尝试访问的网站可能是伪装的网络钓鱼网站。继续访问此网站，您可能会放置 您的敏感信息（如密码，信用卡号，联系信息或软件激活密钥）存在风险。<br> <br> \n这些攻击通常使用来自其他网站的垃圾邮件，广告或重定向，试图诱骗您进入 泄露敏感信息。如有疑问，请<a href=\"#\" class=\"whiteFont\" id=\"gobackLink\">返回</a>。"
         },
         {
             "id": 16268,
-            "text": "Malicious sites, that contain links to malware, can damage your device and disrupt your ability to use it. If you visit a malicious site, malware could infect your device automatically. You might also be putting your sensitive information—like passwords, credit card numbers, contact info, or software activation keys—at risk.<br><br>\n    Malicious sites often use spam emails, advertisements, or redirections from other sites to trick you into downloading malicious software. Sometimes, a trusted site may be hacked by bad actors and used to link to malicious content. If in doubt, <a href=\"#\" class=\"whiteFont\" id=\"gobackLink\">go back</a>."
+            "text": "包含恶意软件链接的恶意网站可能会损坏您的设备并破坏您使用它的能力。如果您访问恶意网站，恶意软件可能会自动感染您的设备。您可能还会提供类似敏感信息的密码，信用卡 数字，联系信息或软件激活密钥 - 存在风险。<br> <br> \n恶意网站经常使用来自其他网站的垃圾邮件，广告或重定向来诱骗您下载恶意软件。有时，可信站点可能是 被不良演员攻击并用于链接恶意内容。如有疑问，请<a href=\"#\" class=\"whiteFont\" id=\"gobackLink\">返回</a>。"
         },
         {
             "id": 16269,
-            "text": "Report that this site doesn’t contain phishing threats"
+            "text": "报告此网站不包含网络钓鱼威胁"
         },
         {
             "id": 16270,
-            "text": "Report that this site doesn’t contain malware threats"
+            "text": "报告此网站不包含恶意软件威胁"
         },
         {
             "id": 16271,
@@ -14346,7 +14346,7 @@
         },
         {
             "id": 16305,
-            "text": "<p>If you try to go to a website and it doesn’t open, follow these troubleshooting steps:</p>\n    <ol>\n    <li>Check the web address for typos.</li>\n    <li>Make sure your internet connection is working properly.</li>\n    <li>Contact the website owner.</li>\n    </ol>"
+            "text": "<p>如果您尝试访问某个网站但未打开，请按照以下问题排查步骤进行操作：</p> \n <ol> \n <li>检查网址是否存在拼写错误。</li> \n <li>确保您的互联网连接正常。</li> \n <li>联系网站所有者。</li> \n </ol>"
         },
         {
             "id": 16306,
@@ -14354,7 +14354,7 @@
         },
         {
             "id": 16307,
-            "text": "\"您的连接不是私有\"或\"<span class=\"error-code \"> NET :: ERR_CERT_AUTHORITY_INVALID </ span>\"或\"<span class =\"error-code \" > ERR_CERT_COMMON_NAME_INVALID </ span>\"或\"<span class =\"error-code \"> NET :: ERR_CERT_WEAK_SIGNATURE_ALGORITHM </ span>\"或\"<span class =\"error-code \"> ERR_CERT_SYMANTEC_LEGACY </span>\"或\"SSL证书错误\""
+            "text": "\"您的连接不是私有\"或\"<span class=\"error-code \"> NET :: ERR_CERT_AUTHORITY_INVALID </span>\"或\"<span class =\"error-code \" > ERR_CERT_COMMON_NAME_INVALID </span>\"或\"<span class =\"error-code \"> NET :: ERR_CERT_WEAK_SIGNATURE_ALGORITHM </span>\"或\"<span class =\"error-code \"> ERR_CERT_SYMANTEC_LEGACY </span>\"或\"SSL证书错误\""
         },
         {
             "id": 16308,
@@ -14366,7 +14366,7 @@
         },
         {
             "id": 16310,
-            "text": "<h4>步骤1：登录门户网站</ h4>\n <p>在咖啡馆或机场等地方的Wi-Fi网络需要您登录。要查看登录页面，请访问使用的页面<code>http://</ code>。</p>\n <ol>\n <li>转到以<code>http://</ code>开头的任何网站，例如<a href=\"http://example.com \"target =\"_blank\"“> http://example.com </a>。</ li>\n <li>在打开的登录页面上，登录使用互联网。</ li>\n </ol>\n <h4>步骤2：以InPrivate模式打开页面（仅限计算机）</ h4>\n <p>如果页面打开，则扩展名为要正常工作。要修正错误，请关闭扩展程序。</p>\n <h4>步骤3：更新操作系统</ h4>\n <p>确保您的设备是最新的。</p>\n <h4>步骤4：暂时关闭防病毒软件</ h4>\n <p>如果您的防病毒软件提供了“HTTPS保护”或“HTTPS”，您将看到此错误扫描。\"防病毒软件阻止Microsoft Edge提供安全保护。</p>\n <p>要解决此问题，请关闭 防毒软件。如果在关闭软件后页面正常工作，请在使用安全站点时关闭此软件。</p>\n <p>请记住在完成后重新打开防病毒程序。</p>\n < h4>第5步：获得额外帮助</ h4>\n <p>如果您仍然看到错误，请与网站所有者联系。</p>"
+            "text": "<h4>步骤1：登录门户网站</h4>\n <p>在咖啡馆或机场等地方的Wi-Fi网络需要您登录。要查看登录页面，请访问使用的页面<code>http://</code>。</p>\n <ol>\n <li>转到以<code>http://</code>开头的任何网站，例如<a href=\"http://example.com\" target=\"_blank\">http://example.com </a>。</li>\n <li>在打开的登录页面上，登录使用互联网。</li>\n </ol>\n <h4>步骤2：以隐身模式打开页面（仅限计算机）</h4>\n <p>如果页面打开，则扩展名为要正常工作。要修正错误，请关闭扩展程序。</p>\n <h4>步骤3：更新操作系统</h4>\n <p>确保您的设备是最新的。</p>\n <h4>步骤4：暂时关闭防病毒软件</h4>\n <p>如果您的防病毒软件提供了“HTTPS保护”或“HTTPS”，您将看到此错误扫描。\"防病毒软件阻止Microsoft Edge提供安全保护。</p>\n <p>要解决此问题，请关闭 防毒软件。如果在关闭软件后页面正常工作，请在使用安全站点时关闭此软件。</p>\n <p>请记住在完成后重新打开防病毒程序。</p>\n < h4>第5步：获得额外帮助</h4>\n <p>如果您仍然看到错误，请与网站所有者联系。</p>"
         },
         {
             "id": 16311,
@@ -14382,7 +14382,7 @@
         },
         {
             "id": 16314,
-            "text": "<p>如果您的Windows计算机上有Superfish软件，您将看到此错误。</p>\n <p>请按照以下步骤临时关闭软件，以便您可以上网。您需要管理员权限。</p>\n <ol>\n <li>选择<strong>开始</strong>，然后搜索并选择<strong>\"查看本地服务\"</strong>\n < li>选择<strong> VisualDiscovery </strong>\n <li>在<strong>启动类型</strong>下，选择<strong>已禁用</strong>\n <li>在<strong>服务状态</ strong下>，单击<strong>停止</strong>\n <li>选择<strong>应用</strong>，然后单击<strong>确定</strong>\n <li>请参阅<a href=\"https://support.microsoft.com/en-us/help/4028054/windows-10-repair-or-remove-programs\">如何修复或删除Windows 10中的程序</a>以了解如何永久删除您计算机上的软件\n </ol>"
+            "text": "<p>如果您的Windows计算机上有Superfish软件，您将看到此错误。</p>\n <p>请按照以下步骤临时关闭软件，以便您可以上网。您需要管理员权限。</p>\n <ol>\n <li>选择<strong>开始</strong>，然后搜索并选择<strong>\"查看本地服务\"</strong>\n < li>选择<strong> VisualDiscovery </strong>\n <li>在<strong>启动类型</strong>下，选择<strong>已禁用</strong>\n <li>在<strong>服务状态</strong下>，单击<strong>停止</strong>\n <li>选择<strong>应用</strong>，然后单击<strong>确定</strong>\n <li>请参阅<a href=\"https://support.microsoft.com/en-us/help/4028054/windows-10-repair-or-remove-programs\">如何修复或删除Windows 10中的程序</a>以了解如何永久删除您计算机上的软件\n </ol>"
         },
         {
             "id": 16315,
@@ -15082,7 +15082,7 @@
         },
         {
             "id": 20115,
-            "text": "mm"
+            "text": "分"
         },
         {
             "id": 20116,
@@ -15770,7 +15770,7 @@
         },
         {
             "id": 24781,
-            "text": "嗯......无法安装软件包，因为实用程序进程崩溃了。请尝试重新启动Microsoft Edge并重试。"
+            "text": "嗯...无法安装软件包，因为实用程序进程崩溃了。请尝试重新启动Microsoft Edge并重试。"
         },
         {
             "id": 24782,
@@ -15858,7 +15858,7 @@
         },
         {
             "id": 25940,
-            "text": "您必须提供邮编(例如：$1)。"
+            "text": "您必须提供邮编（例如：$1）。"
         },
         {
             "id": 25941,
@@ -16134,11 +16134,11 @@
         },
         {
             "id": 27443,
-            "text": "Home key"
+            "text": "Home 键"
         },
         {
             "id": 27445,
-            "text": "End key"
+            "text": "End 键"
         },
         {
             "id": 27448,
