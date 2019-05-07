@@ -13,12 +13,11 @@ with open('chrome/en_cn_dict.json', 'rb') as f:
 with open('manual.json', 'rb') as f:
     manual = json.loads(f.read())
     for k, v in manual.items():
+        if k == v:
+            continue
         if not is_chinese(v):
             print(v)
-            continue
-        if k ==v:
-            print(v)
-            continue
+            # continue
         # if 'InPrivate' in v:
         #     print(v)
         # if ',' in v and 'plural' not in v:

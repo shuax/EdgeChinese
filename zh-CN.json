@@ -126,7 +126,7 @@
         },
         {
             "id": 167,
-            "text": "其它收藏"
+            "text": "其他收藏"
         },
         {
             "id": 168,
@@ -562,7 +562,7 @@
         },
         {
             "id": 430,
-            "text": "关闭时继续运行后台应用程序"
+            "text": "关闭后继续运行后台应用程序"
         },
         {
             "id": 431,
@@ -1322,7 +1322,7 @@
         },
         {
             "id": 839,
-            "text": "选择其它目录"
+            "text": "选择其他目录"
         },
         {
             "id": 840,
@@ -2518,7 +2518,7 @@
         },
         {
             "id": 2692,
-            "text": "删除"
+            "text": "Delete"
         },
         {
             "id": 2694,
@@ -2982,7 +2982,7 @@
         },
         {
             "id": 3264,
-            "text": "基本拼写检查"
+            "text": "Basic spell check"
         },
         {
             "id": 3265,
@@ -2990,7 +2990,7 @@
         },
         {
             "id": 3266,
-            "text": "使用 Google 搜索所用的拼写检查工具。您在浏览器中输入的文字会被发送给 Google。"
+            "text": "Uses the same spell checker that’s used in Google search. Text you type in the browser is sent to Google."
         },
         {
             "id": 3268,
@@ -2998,7 +2998,7 @@
         },
         {
             "id": 3269,
-            "text": "已下载 $1，还需 $2"
+            "text": "$1、$2"
         },
         {
             "id": 3270,
@@ -3010,7 +3010,7 @@
         },
         {
             "id": 3272,
-            "text": "支持拼写检查的语言"
+            "text": "Use spell check for"
         },
         {
             "id": 3274,
@@ -3062,7 +3062,7 @@
         },
         {
             "id": 3286,
-            "text": "您可以控制自己的隐私。 我们使用收集的数据来改进Microsoft产品和功能。 在此更改这些设置或在 <a href=\"https://account.microsoft.com/account/privacy\"> Microsoft隐私设置</a> 中管理您的数据。"
+            "text": "您可以控制自己的隐私。我们使用收集的数据来改进 Microsoft 产品和功能。在此更改这些设置或在 <a href=\"https://account.microsoft.com/account/privacy\"> Microsoft隐私设置</a> 中管理您的数据。"
         },
         {
             "id": 3287,
@@ -3162,7 +3162,7 @@
         },
         {
             "id": 3315,
-            "text": "随浏览流量一起发送 \"不跟踪\" 请求"
+            "text": "随浏览流量一起发送“不跟踪”请求"
         },
         {
             "id": 3316,
@@ -3402,7 +3402,7 @@
         },
         {
             "id": 3415,
-            "text": "-"
+            "text": "—"
         },
         {
             "id": 3416,
@@ -3434,7 +3434,7 @@
         },
         {
             "id": 3425,
-            "text": "Cookie"
+            "text": "Cookies"
         },
         {
             "id": 3426,
@@ -4590,7 +4590,7 @@
         },
         {
             "id": 4105,
-            "text": "允许加载其它商店扩展"
+            "text": "允许加载其他商店扩展"
         },
         {
             "id": 4106,
@@ -4618,7 +4618,7 @@
         },
         {
             "id": 4113,
-            "text": "清除活动"
+            "text": "Clear activities"
         },
         {
             "id": 4114,
@@ -4706,19 +4706,19 @@
         },
         {
             "id": 4139,
-            "text": "API 函数参数"
+            "text": "API function arguments"
         },
         {
             "id": 4140,
-            "text": "网络请求信息"
+            "text": "Web request info"
         },
         {
             "id": 4142,
-            "text": "全部展开"
+            "text": "Expand all"
         },
         {
             "id": 4143,
-            "text": "全部收起"
+            "text": "Collapse all"
         },
         {
             "id": 4144,
@@ -4862,7 +4862,7 @@
         },
         {
             "id": 4187,
-            "text": "想要增强浏览器体验？尝试从<a target=\"_blank\" href=\"https://microsoftedge.microsoft.com/insider-addons\"> Microsoft Store </a>添加扩展程序。"
+            "text": "想要增强浏览器体验？尝试从 <a target=\"_blank\" href=\"https://microsoftedge.microsoft.com/insider-addons\">Microsoft Store</a> 添加扩展程序。"
         },
         {
             "id": 4188,
@@ -4926,7 +4926,7 @@
         },
         {
             "id": 4205,
-            "text": "其它来源"
+            "text": "其他来源"
         },
         {
             "id": 4206,
@@ -4966,7 +4966,7 @@
         },
         {
             "id": 4223,
-            "text": "允许加载其它商店扩展"
+            "text": "允许加载其他商店扩展"
         },
         {
             "id": 4224,
@@ -4974,7 +4974,7 @@
         },
         {
             "id": 4225,
-            "text": "禁止其它商店扩展"
+            "text": "禁止其他商店扩展"
         },
         {
             "id": 4226,
@@ -5110,7 +5110,7 @@
         },
         {
             "id": 4294,
-            "text": "双面打印"
+            "text": "Print on both sides"
         },
         {
             "id": 4295,
@@ -5146,11 +5146,11 @@
         },
         {
             "id": 4304,
-            "text": "长边翻转"
+            "text": "Flip on long edge"
         },
         {
             "id": 4305,
-            "text": "短边翻转"
+            "text": "Flip on short edge"
         },
         {
             "id": 4307,
@@ -5530,11 +5530,11 @@
         },
         {
             "id": 4418,
-            "text": "在您的计算机上允许或禁止。"
+            "text": "Allow or block on your computer."
         },
         {
             "id": 4419,
-            "text": "此网站需要更多权限。"
+            "text": "This site needs more permissions."
         },
         {
             "id": 4420,
@@ -5622,7 +5622,7 @@
         },
         {
             "id": 4455,
-            "text": "非常高兴您加入了我们，"
+            "text": "非常高兴您加入了我们"
         },
         {
             "id": 4456,
@@ -5638,7 +5638,7 @@
         },
         {
             "id": 4459,
-            "text": "让我们在您尝试其它浏览器之前设置一下。"
+            "text": "让我们在您尝试其他浏览器之前设置一下。"
         },
         {
             "id": 4460,
@@ -5846,15 +5846,15 @@
         },
         {
             "id": 4546,
-            "text": "搜索结果 - $1/$2"
+            "text": "搜索结果 - $1月$2日"
         },
         {
             "id": 4547,
-            "text": "搜索结果 - $1/$2至$3/$4"
+            "text": "搜索结果 - $1月$2日 到 $3月$4日"
         },
         {
             "id": 4548,
-            "text": "搜索结果 - 超过$1/$2"
+            "text": "搜索结果 - $1月$2日以前"
         },
         {
             "id": 4549,
@@ -6074,7 +6074,7 @@
         },
         {
             "id": 4610,
-            "text": "开启增强的“拼写检查”功能"
+            "text": "Turn on enhanced spell check"
         },
         {
             "id": 4613,
@@ -6570,11 +6570,11 @@
         },
         {
             "id": 4786,
-            "text": "您确定要删除所有下载历史记录吗？"
+            "text": "您确定要清除所有下载历史记录吗？"
         },
         {
             "id": 4789,
-            "text": "$1 属于不常下载的内容，可能含有危险因素。您已注册“高级保护”计划，因此受其保护。"
+            "text": "$1 is not commonly downloaded and may be dangerous. You're defended by Advanced Protection."
         },
         {
             "id": 4790,
@@ -6614,11 +6614,11 @@
         },
         {
             "id": 4804,
-            "text": "所有文件"
+            "text": "全部"
         },
         {
             "id": 4805,
-            "text": "压缩文件"
+            "text": "压缩"
         },
         {
             "id": 4806,
@@ -6646,7 +6646,7 @@
         },
         {
             "id": 4813,
-            "text": "使用 $1 搜索"
+            "text": "搜索 $1"
         },
         {
             "id": 4815,
@@ -6710,7 +6710,7 @@
         },
         {
             "id": 4839,
-            "text": "PDF文件"
+            "text": "PDF"
         },
         {
             "id": 4840,
@@ -7386,7 +7386,7 @@
         },
         {
             "id": 5246,
-            "text": "Service Worker：$1"
+            "text": "Service Worker: $1"
         },
         {
             "id": 5247,
@@ -7506,7 +7506,7 @@
         },
         {
             "id": 5289,
-            "text": "“$1”请求获得更多权限。"
+            "text": "\"$1\" has requested additional permissions."
         },
         {
             "id": 5290,
@@ -8110,11 +8110,11 @@
         },
         {
             "id": 5457,
-            "text": "若想在您的所有计算机上使用您的扩展程序，请登录帐号并开启同步功能"
+            "text": "To get your extensions on all your computers, sign in and turn on sync"
         },
         {
             "id": 5458,
-            "text": "若想在您的所有计算机上使用您的扩展程序，请开启同步功能"
+            "text": "To get your extensions on all your computers, turn on sync"
         },
         {
             "id": 5459,
@@ -8174,7 +8174,7 @@
         },
         {
             "id": 5479,
-            "text": "取消固定"
+            "text": "Unpin"
         },
         {
             "id": 5480,
@@ -8846,7 +8846,7 @@
         },
         {
             "id": 5696,
-            "text": "正在$1中打开"
+            "text": "Opening in $1 now"
         },
         {
             "id": 5697,
@@ -8854,7 +8854,7 @@
         },
         {
             "id": 5698,
-            "text": "无法打开$1"
+            "text": "$1 could not be opened"
         },
         {
             "id": 5699,
@@ -8862,7 +8862,7 @@
         },
         {
             "id": 5700,
-            "text": "将于 $1 秒后在$2中打开"
+            "text": "Opening in $2 in $1 seconds"
         },
         {
             "id": 5701,
@@ -8870,7 +8870,7 @@
         },
         {
             "id": 5702,
-            "text": "无法在$2中打开 $1。请与您的系统管理员联系。"
+            "text": "$1 could not be open in $2. Please contact your system administrator."
         },
         {
             "id": 5703,
@@ -8986,19 +8986,19 @@
         },
         {
             "id": 5752,
-            "text": "要打开此链接，请选择一个应用"
+            "text": "To open this link, choose an app"
         },
         {
             "id": 5753,
-            "text": "打开方式"
+            "text": "Open with"
         },
         {
             "id": 5754,
-            "text": "记住我的选择"
+            "text": "Remember my choice"
         },
         {
             "id": 5755,
-            "text": "使用应用"
+            "text": "Use app"
         },
         {
             "id": 5756,
@@ -9814,11 +9814,11 @@
         },
         {
             "id": 6088,
-            "text": "发送到您的设备"
+            "text": "Send to your devices"
         },
         {
             "id": 6089,
-            "text": "将链接发送到您的设备"
+            "text": "Send link to your devices"
         },
         {
             "id": 6090,
@@ -10006,7 +10006,7 @@
         },
         {
             "id": 6188,
-            "text": "在此设备上安装"
+            "text": "Install on this device"
         },
         {
             "id": 6189,
@@ -10162,7 +10162,7 @@
         },
         {
             "id": 6250,
-            "text": "自 2020 年 12 月开始，Flash Player 将不再受支持。"
+            "text": "Flash Player will no longer be supported after December 2020."
         },
         {
             "id": 6251,
@@ -11034,7 +11034,7 @@
         },
         {
             "id": 6744,
-            "text": "此标签页已连接到一个串行端口。"
+            "text": "This tab is connected to a serial port."
         },
         {
             "id": 6745,
@@ -11086,7 +11086,7 @@
         },
         {
             "id": 6757,
-            "text": "$1 - 已连接到串行端口"
+            "text": "$1 - Serial port connected"
         },
         {
             "id": 6758,
@@ -11438,7 +11438,7 @@
         },
         {
             "id": 6906,
-            "text": "请插入您的安全密钥并轻触它"
+            "text": "Insert your security key and touch it"
         },
         {
             "id": 6907,
@@ -11598,43 +11598,43 @@
         },
         {
             "id": 6955,
-            "text": "PIN 码必须包含至少 4 个字符"
+            "text": "PIN must be at least 4 characters"
         },
         {
             "id": 6956,
-            "text": "{NUM_ATTEMPTS,plural, =1{PIN 码不正确。您还剩 1 次尝试机会。}other{PIN 码不正确。您还剩 # 次尝试机会。}}"
+            "text": "{NUM_ATTEMPTS, plural,\n          =1 {Incorrect PIN. You have one attempt remaining.}\n          other {Incorrect PIN. You have # attempts remaining.}}"
         },
         {
             "id": 6957,
-            "text": "PIN 不正确"
+            "text": "Incorrect PIN"
         },
         {
             "id": 6959,
-            "text": "请再次轻触您的安全密钥以完成请求。"
+            "text": "Touch your security key again to complete the request."
         },
         {
             "id": 6960,
-            "text": "您输入的 PIN 码不一致"
+            "text": "The PINs you entered don’t match"
         },
         {
             "id": 6961,
-            "text": "此安全密钥已被锁定，因为您输错 PIN 码的次数过多。要解锁此密钥，请先将其拔出，然后再重新插入。"
+            "text": "The security key is locked because the wrong PIN was entered too many times. To unlock it, remove and reinsert it."
         },
         {
             "id": 6962,
-            "text": "此安全密钥已被锁定，因为您输错 PIN 码的次数过多。您需要重置此安全密钥。"
+            "text": "The security key is locked because the wrong PIN was entered too many times. You’ll need to reset the security key."
         },
         {
             "id": 6963,
-            "text": "请重新插入您的安全密钥，然后再试一次"
+            "text": "Reinsert your security key and try again"
         },
         {
             "id": 6966,
-            "text": "选择帐号"
+            "text": "Select account"
         },
         {
             "id": 6967,
-            "text": "请选择一个帐号以进行登录："
+            "text": "Select an account to sign in:"
         },
         {
             "id": 6968,
@@ -11646,23 +11646,23 @@
         },
         {
             "id": 6970,
-            "text": "您的安全密钥无法用于此网站"
+            "text": "Your security key can't be used with this site"
         },
         {
             "id": 6971,
-            "text": "该安全密钥不支持在内部存储凭据，但网站所请求的功能正是这项。"
+            "text": "That security key does not support internal storage of credentials, but that feature was requested."
         },
         {
             "id": 6972,
-            "text": "$1 可能需要一个较新的或其他类型的安全密钥"
+            "text": "$1 may require a newer or different kind of security key"
         },
         {
             "id": 6973,
-            "text": "允许此网站查看您的安全密钥？"
+            "text": "Allow this site to see your security key?"
         },
         {
             "id": 6974,
-            "text": "$1 想查看您的安全密钥的品牌和型号"
+            "text": "$1 wants to see the make and model of your security key"
         },
         {
             "id": 6982,
@@ -13050,7 +13050,7 @@
         },
         {
             "id": 15634,
-            "text": "$3$2$1"
+            "text": "$1, $2 $3"
         },
         {
             "id": 15636,
@@ -13078,7 +13078,7 @@
         },
         {
             "id": 15646,
-            "text": "$1Cookie"
+            "text": "Cookies $1"
         },
         {
             "id": 15647,
@@ -13102,7 +13102,7 @@
         },
         {
             "id": 15666,
-            "text": "串行端口"
+            "text": "Serial ports"
         },
         {
             "id": 15671,
@@ -13194,7 +13194,7 @@
         },
         {
             "id": 15712,
-            "text": "保护帐号"
+            "text": "Protect account"
         },
         {
             "id": 15714,
@@ -13210,7 +13210,7 @@
         },
         {
             "id": 15717,
-            "text": "VR 会话正在进行中"
+            "text": "VR session in progress"
         },
         {
             "id": 15718,
@@ -14034,7 +14034,7 @@
         },
         {
             "id": 16065,
-            "text": "平台和云端"
+            "text": "Platform and Cloud"
         },
         {
             "id": 16066,
@@ -14058,7 +14058,7 @@
         },
         {
             "id": 16078,
-            "text": "警告：系统未按照 PolicyListMultipleSourceMergeList 政策中指定的方式合并此政策，因为此政策不是一个列表。"
+            "text": "Warning: This policy was not merged as specified in PolicyListMultipleSourceMergeList policy because it is not a list."
         },
         {
             "id": 16079,
@@ -14070,11 +14070,11 @@
         },
         {
             "id": 16081,
-            "text": "此政策已被弃用。您应改用 $1 政策。"
+            "text": "This policy is deprecated. You should use the $1 policy instead."
         },
         {
             "id": 16082,
-            "text": "此政策的值是系统从已弃用的 $1 政策中自动复制而来的。您应改用此政策。"
+            "text": "This policy was automatically copied from the deprecated $1 policy. You should use this policy instead."
         },
         {
             "id": 16083,
@@ -14082,11 +14082,11 @@
         },
         {
             "id": 16085,
-            "text": "列表条目“$1”：语言未知或不受支持。"
+            "text": "List entry \"$1\": Unknown or unsupported language."
         },
         {
             "id": 16086,
-            "text": "列表条目“$1”：该条目因同时存在于 SpellcheckLanguage 政策中而被忽略。"
+            "text": "List entry \"$1\": Entry ignored because it is also included in the SpellcheckLanguage policy."
         },
         {
             "id": 16210,
@@ -14186,15 +14186,15 @@
         },
         {
             "id": 16238,
-            "text": "继续访问 $1？"
+            "text": "Continue to $1?"
         },
         {
             "id": 16239,
-            "text": "继续访问 <a href=\"#\" id=\"dont-proceed-link\">$1</a>？"
+            "text": "Continue to <a href=\"#\" id=\"dont-proceed-link\">$1</a>?"
         },
         {
             "id": 16242,
-            "text": "您打开的链接将转到您不常访问的网站。该链接可能在试图迷惑您。"
+            "text": "The link you opened goes to a site you don't usually visit. It might be trying to confuse you."
         },
         {
             "id": 16243,
@@ -14874,7 +14874,7 @@
         },
         {
             "id": 16458,
-            "text": "您的数据已使用您的同步密码加密。输入该密码即可开始同步。"
+            "text": "Your data is encrypted with your sync passphrase. Enter it to start sync."
         },
         {
             "id": 16489,
@@ -14982,7 +14982,7 @@
         },
         {
             "id": 16519,
-            "text": "设置 - 管理"
+            "text": "Settings - Management"
         },
         {
             "id": 16522,
@@ -15010,19 +15010,19 @@
         },
         {
             "id": 16539,
-            "text": "管理此帐号的公司、学校或组织："
+            "text": "The company, school, or organization that manages this account:"
         },
         {
             "id": 16540,
-            "text": "作为您帐号的管理器，$1："
+            "text": "As the manager of your account, $1:"
         },
         {
             "id": 16541,
-            "text": "可以远程更改您的帐号设置。"
+            "text": "Can remotely change your account setup."
         },
         {
             "id": 16542,
-            "text": "控制帐号数据的处理方式。Google 仅会遵照帐号管理器的指示处理帐号数据，并且仅会将这些数据用于帐号管理器指定的用途。"
+            "text": "Controls how your account data is handled. Google processes your account data exclusively under the direction of your account manager and solely for the purposes specified by your account manager."
         },
         {
             "id": 16554,
@@ -15094,7 +15094,7 @@
         },
         {
             "id": 17190,
-            "text": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0002�՗]o\u0013G\u0014��J���������X���Fv\u0010\u0017Q���mb5Y�\u001b�j���\u000b(���\n\u0010R@\"�#\u0011m\u001cTAE�4������=�\u000bvK��\u000b��;���\u001d�9�ΙY���Ԝ\u000b\u0016\u001aJAY\ff\u001a�~�\u001d6��Β\u001f-���B�P���\"��Z�P)���4:�\r�m[��#���,\b[_\u0005~s�\u00115�\u001d�����L��ᾍhE)L)�pK�\u000b��r��2�e�K�K��ϗ���w��ma�yt�1x�2x�[�\u0003��]��mpU�W���\u001bW��v�vG�P(~�~\u0005���-���=�'=�ׄ��������5�-�\u0000�]�\u0000W\u0012\"���=p���\txs_\bo�[����M�߻�\u001c��\u000b���{{���\u000b�\u0005F��Ĭ�uD\u0012�D��&F�\u001f|\u0003�$�L㧛`\u0017~���*~�\u0003�A��\u0001\"�\u000f��x�:�\u0010��w�����q�����\u000f�!�����p\u000f|�3x�ȏ\u000f��w�����M��߂�����}���Ƽ�O�^}^�iJ2�\u0013f��\u001268�\nJq����3���z�+�c����[3���Q{y1�\u001e\u0005�/����?e\u000f\u0001�l+��g\u000f�h\u0019�J�\u000eW\u0016�wJ'�?:���J\u00069lY�M�԰e\u001ad��9����%\u001a\u001c(�|�8�I�\u0005�VR[jRkZR�s\u0013���\u001eչ\u0004gXd�ޅʗ�ֲ\r�m�l\u001e�����̾��Y/�\"=�!IP�J��^���y=��~�+W�R�\u0014�G[�\u0011U2�d��g��<j\u001eH�w3�m�,̗�Q=�d�X�\u001f�˳�:I\u001bF�g�8IӰ�g]�e!Ϲ���jm�����V\u0011-=�SU{+�a\u000f�����9�s���ߟi�ճP��e��ϲL�ѳ-O\u000e\u001c�s���:��Ē_���*�~ѭ��r��Y.{ o2�2y�S\u001e�*�6i8�\u001c��|rk\u0018��p;�ل{��3��\u0015�e�2YM\u0015�N�\u001bE�I���O\u0017�\u001dҍԆ���D������,\u000e�|��ˢ�ei�a\u0000�e���>K���c��K�\r�<Ys��\u0004gg��}Z3R6*�|���\u000eEE5��t\u001b�����\u0007cwX&~�b���ԓ[�'¯\u000f\t\u001a��\u001c��}=^�c0\u0015�9A�\u000f\u001e�\u001fiG�y�����a���7]k6lG�/�+��.3\u0007\u001c�\t�)h|���\nnӵK\u0001n�D5�\f\u0000\u0000"
+            "text": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0002��V�o�0\u0010�W�<gR�\u000b(o\u0019 @jC\u0005T}@(r\u0013\u0013�\u0005;s�������s�*�n�����������ρ\u0017�������S���i�d�+S���F\u001c���\u001e�\u0013׵P�\u0019z��3�� ��{�ޕ�\u0018��K���ٞi�\u0019��̟>C�\\d\u0006��~v�\u001b��\t� \u001e�:�\\�,!\u000b03\u0006W��y�j�{&\u000b:�+U[C+�1+9�$���0��\u0010\u0015߱��\u0003^r���\u0002�zqY\b��0T\u0004׌\u0012�\u0014�\n��\u0012�{Q\u001b\u0005��e�CU�G�\u0002�$��B\n���YU��[ð�\u0004�\u0004$��/Y#�=\u0018\u0007&��5�����\u0003ެ0��8������Q��TZ<1\u0002��A=���'��\u0006��!��a2��\u0005S��Q\u0018r5�\u0011%��\u0000lT��h&��^�T��(4�\n�B�ԇ���\u001e���u-��\u0005�\u0017G2���\u0019�L�e�e�xX͓i:��1�&'f\u0015Z5�u��[#`��p\u0007\u00198\u0014\t��q\f�np�,�|>�����뭻\t`����۟��\u0004mĻ�^\bQ!�{�ǻ\u0002\u0011\r�f��n���\u0010J�'ȳ8�N�\u0015\u0000\u001f��I2�'�\u0016��A���w\u0000A},\u00163�Q����a\u0006/x5�3��q\u0012\u0003��x�zX,ǫ\u0016yp\t�A�<�!E\u00115�+t�ϣ�-n\u0011��4��\u0012���8ڰי�0F$�>��;x��t�����t\u0014/�-��\u0012\u0000if^gt��F�O/�s{Va���w��&�O��Γ�b��׋\u0016q�\"|ŏR�C�P\u0004�\u0013�\u00037B^�\u000e\u0010z����+�='\u0006\fκ�^���\u0006Hж�\u0011f�\u0001�Eag����$\"�\u001dvϖ�|[|�w����\u001f�5N ��W\tK�\u001fNQH�yJ�8ÿt��}�\u001aBK��L�옞\u0016�|�@@\u0002y\u0015!�ȕ\u001e\u0017�\u0005��ҟ9H\u0017�?\u0001LD�,'\n\u0000\u0000"
         },
         {
             "id": 20106,
@@ -15162,23 +15162,23 @@
         },
         {
             "id": 20127,
-            "text": "横幅"
+            "text": "banner"
         },
         {
             "id": 20128,
-            "text": "补充内容"
+            "text": "complementary"
         },
         {
             "id": 20132,
-            "text": "内容信息"
+            "text": "content info"
         },
         {
             "id": 20189,
-            "text": "突出显示的内容"
+            "text": "highlighted content"
         },
         {
             "id": 20192,
-            "text": "区域"
+            "text": "region"
         },
         {
             "id": 20244,
@@ -15198,7 +15198,7 @@
         },
         {
             "id": 20248,
-            "text": "尚无说明。"
+            "text": "No description available."
         },
         {
             "id": 20249,
@@ -16334,19 +16334,19 @@
         },
         {
             "id": 27498,
-            "text": "{MINUTES,plural, =1{1 分钟后}other{# 分钟后}}"
+            "text": "{MINUTES, plural, =1 {in 1m} other {in #m}}"
         },
         {
             "id": 27499,
-            "text": "{HOURS,plural, =1{1 小时后}other{# 小时后}}"
+            "text": "{HOURS, plural, =1 {in 1h} other {in #h}}"
         },
         {
             "id": 27500,
-            "text": "{DAYS,plural, =1{1 天后}other{# 天后}}"
+            "text": "{DAYS, plural, =1 {in 1d} other {in #d}}"
         },
         {
             "id": 27501,
-            "text": "{YEARS,plural, =1{1 年后}other{# 年后}}"
+            "text": "{YEARS, plural, =1 {in 1y} other {in #y}}"
         },
         {
             "id": 27502,
@@ -16374,19 +16374,19 @@
         },
         {
             "id": 27510,
-            "text": "共享自 $1"
+            "text": "Shared from $1"
         },
         {
             "id": 27511,
-            "text": "正在发送标签页…"
+            "text": "Sending tab…"
         },
         {
             "id": 27512,
-            "text": "发送失败"
+            "text": "Failed to send"
         },
         {
             "id": 27513,
-            "text": "请重试"
+            "text": "Please try again"
         },
         {
             "id": 27564,
