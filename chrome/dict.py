@@ -1,28 +1,30 @@
 import json
+import platform
 
-def is_chinese(s):
-    try:
-        s.encode('ascii')
-        return False
-    except Exception as e:
-        return True
+en_json = 'en-US.json'
+cn_json = 'zh-CN.json'
+dict_json = 'en_cn_dict.json'
+os = platform.uname()[0].lower()
 
-with open('en-US.json', 'rb') as f:
+if os == 'darwin':
+    en_json = 'en.lproj/locale.json'
+    cn_json = 'zh_CN.lproj/locale.json'
+
+with open(en_json, 'rb') as f:
     en = json.loads(f.read())
 
-with open('zh-CN.json', 'rb') as f:
+with open(cn_json, 'rb') as f:
     cn = json.loads(f.read())
 
 en_dict = {}
 for x in en['entry']:
+    if 'chrome' in x['text'].lower():
+        continue
     en_dict[x['id']] = x['text']
 
 cn_dict = {}
 for x in cn['entry']:
     if 'chrome' in x['text'].lower():
-        continue
-    if not is_chinese(x['text']):
-        print(x['text'])
         continue
     cn_dict[x['id']] = x['text']
 
@@ -34,5 +36,7 @@ for i, value in en_dict.items():
         en_cn_dict[value] = cn_dict[i]
 # print(en_cn_dict)
 
-with open('en_cn_dict.json', 'wb') as f:
+print('write ./'+dict_json)
+
+with open(dict_json, 'wb') as f:
     f.write(json.dumps(en_cn_dict, ensure_ascii=False, indent=4).encode())

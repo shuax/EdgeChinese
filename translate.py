@@ -1,4 +1,23 @@
 import json
+import platform
+import os
+import pathlib
+
+en_json = 'en-US.json'
+cn_json = 'zh-CN.json'
+en_path = 'en.lproj/'
+cn_path = 'zh_CN.lproj/'
+dict_json = 'chrome/en_cn_dict.json'
+manual_json = 'manual.json'
+not_translate_json = 'not_translate.json'
+os = platform.uname()[0].lower()
+if os == 'darwin':
+    en_json = en_path+'/locale.json'
+    cn_json = cn_path+'/locale.json'
+    path = pathlib.Path(cn_path)
+    if not path.exists():
+        path.mkdir()
+
 
 def is_chinese(s):
     try:
@@ -7,17 +26,19 @@ def is_chinese(s):
     except Exception as e:
         return True
 
-with open('chrome/en_cn_dict.json', 'rb') as f:
+
+with open(dict_json, 'rb') as f:
     en_cn_dict = json.loads(f.read())
 
-with open('manual.json', 'rb') as f:
+with open(manual_json, 'rb') as f:
     manual = json.loads(f.read())
     for k, v in manual.items():
-        if k == v:
-            continue
         if not is_chinese(v):
             print(v)
-            # continue
+            continue
+        if k == v:
+            print(v)
+            continue
         # if 'InPrivate' in v:
         #     print(v)
         # if ',' in v and 'plural' not in v:
@@ -35,7 +56,7 @@ with open('manual.json', 'rb') as f:
     # for k, v in manual.items():
     #     en_cn_dict[k] = v
 
-with open('en-US.json', 'rb') as f:
+with open(en_json, 'rb') as f:
     en = json.loads(f.read())
 
 not_translate = []
@@ -51,7 +72,7 @@ for entry in en['entry']:
     if text in en_cn_dict:
         entry['text'] = en_cn_dict[text]
     else:
-        text = text.replace('&','')
+        text = text.replace('&', '')
         if text in en_cn_dict:
             entry['text'] = en_cn_dict[text]
         else:
@@ -59,8 +80,8 @@ for entry in en['entry']:
             # if len(entry['text']) > 20:
             not_translate.append(entry['text'])
 
-with open('zh-CN.json', 'wb') as f:
+with open(cn_json, 'wb') as f:
     f.write(json.dumps(en, ensure_ascii=False, indent=4).encode())
 
-with open('not_translate.json', 'wb') as f:
+with open(not_translate_json, 'wb') as f:
     f.write(json.dumps(not_translate, ensure_ascii=False, indent=4).encode())
