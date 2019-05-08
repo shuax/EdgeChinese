@@ -33,12 +33,13 @@ with open(dict_json, 'rb') as f:
 with open(manual_json, 'rb') as f:
     manual = json.loads(f.read())
     for k, v in manual.items():
+        if k == v:
+            # print(v)
+            # continue
+            pass
         if not is_chinese(v):
             print(v)
-            continue
-        if k == v:
-            print(v)
-            continue
+            # continue
         # if 'InPrivate' in v:
         #     print(v)
         # if ',' in v and 'plural' not in v:
