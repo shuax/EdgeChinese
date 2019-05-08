@@ -29,9 +29,9 @@ for x in en['entry']:
 
 cn_dict = {}
 for x in cn['entry']:
-    if not is_chinese(x['text']):
-        print(x['text'])
-        continue
+    # if not is_chinese(x['text']):
+    #     print(x['text'])
+    #     continue
     cn_dict[x['id']] = x['text']
 
 en_cn_dict = {}
