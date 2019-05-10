@@ -38,7 +38,8 @@ with open(manual_json, 'rb') as f:
             # continue
             pass
         if not is_chinese(v):
-            print(v)
+            # print(v)
+            pass
             # continue
         # if 'InPrivate' in v:
         #     print(v)
@@ -64,22 +65,25 @@ not_translate = []
 
 for entry in en['entry']:
     text = entry['text']
-    if entry['text'].isdigit():
+    has_and = '&' in text
+    if text.isdigit():
         continue
-    if entry['text'].isupper():
+    if text.isupper():
         continue
-    if entry['text'].startswith('https://'):
+    if text.startswith('https://'):
         continue
     if text in en_cn_dict:
         entry['text'] = en_cn_dict[text]
     else:
-        text = text.replace('&', '')
-        if text in en_cn_dict:
-            entry['text'] = en_cn_dict[text]
+        text2 = text.replace('&', '')
+        if text2 in en_cn_dict:
+            entry['text'] = en_cn_dict[text2]
         else:
             # if not is_chinese(entry['text']):
             # if len(entry['text']) > 20:
             not_translate.append(entry['text'])
+    # if has_and and '&' not in entry['text']:
+    #     print(text)
 
 with open(cn_json, 'wb') as f:
     f.write(json.dumps(en, ensure_ascii=False, indent=4).encode())
