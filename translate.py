@@ -68,8 +68,8 @@ for entry in en['entry']:
     has_and = '&' in text
     if text.isdigit():
         continue
-    if text.isupper():
-        continue
+    # if text.isupper():
+    #     continue
     if text.startswith('https://'):
         continue
     if text in en_cn_dict:
