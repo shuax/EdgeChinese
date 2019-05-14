@@ -6,6 +6,8 @@
     "Your organization disabled updates.",
     "Automatic updates are enabled on this device. Your organization disabled manual updates.",
     "$1 tabs selected",
+    "Tab $1 of $2 needs attention.",
+    "Tab $1 of $2 needs attention. Press $3 to switch to it.",
     "IDS_SYNC_CONFIRMATION_UNITY_SYNC_INFO_TITLE",
     "IDS_SYNC_CONFIRMATION_UNITY_SYNC_INFO_DESC",
     "IDS_SYNC_CONFIRMATION_UNITY_SETTINGS_INFO",

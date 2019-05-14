@@ -10061,1719 +10061,1727 @@
 			"text": "$1 tabs selected"
 		},
 		{
-			"id": 4984,
-			"text": "You’re browsing as a guest"
+			"id": 4982,
+			"text": "Tab $1 of $2 needs attention."
 		},
 		{
-			"id": 4985,
-			"text": "Microsoft Edge <em>won't save</em>:\n          <ul>\n            <li>Your browsing history\n            <li>Your download history\n            <li>Cookies and site data\n          </ul>"
+			"id": 4983,
+			"text": "Tab $1 of $2 needs attention. Press $3 to switch to it."
 		},
 		{
 			"id": 4986,
-			"text": "Microsoft Edge <em>will save</em>:\n          <ul>\n            <li>Files you download\n          </ul>"
+			"text": "You’re browsing as a guest"
 		},
 		{
 			"id": 4987,
-			"text": "As a guest, your browsing data is kept separate from the profiles on this device. Here’s what happens when you close all windows you browsed as a guest:"
+			"text": "Microsoft Edge <em>won't save</em>:\n          <ul>\n            <li>Your browsing history\n            <li>Your download history\n            <li>Cookies and site data\n          </ul>"
 		},
 		{
 			"id": 4988,
-			"text": "Use left and right arrow keys to navigate."
+			"text": "Microsoft Edge <em>will save</em>:\n          <ul>\n            <li>Files you download\n          </ul>"
 		},
 		{
 			"id": 4989,
-			"text": "Add more apps"
+			"text": "As a guest, your browsing data is kept separate from the profiles on this device. Here’s what happens when you close all windows you browsed as a guest:"
 		},
 		{
 			"id": 4990,
-			"text": "Website apps work like other apps on your computer, though you manage them here. Some apps can also run offline and do other things that aren’t available on regular websites. To install an app, visit any site and go to Settings and more … > Apps > Install app. To get to the app faster, you can also pin it to your taskbar."
+			"text": "Use left and right arrow keys to navigate."
 		},
 		{
 			"id": 4991,
-			"text": "Thumbnail removed."
+			"text": "Add more apps"
 		},
 		{
 			"id": 4992,
-			"text": "Go to $1"
+			"text": "Website apps work like other apps on your computer, though you manage them here. Some apps can also run offline and do other things that aren’t available on regular websites. To install an app, visit any site and go to Settings and more … > Apps > Install app. To get to the app faster, you can also pin it to your taskbar."
 		},
 		{
 			"id": 4993,
+			"text": "Thumbnail removed."
+		},
+		{
+			"id": 4994,
+			"text": "Go to $1"
+		},
+		{
+			"id": 4995,
 			"text": "More $1"
 		},
 		{
-			"id": 4996,
+			"id": 4998,
 			"text": "View in Web Store"
 		},
 		{
-			"id": 4997,
+			"id": 4999,
 			"text": "Create shortcuts"
 		},
 		{
-			"id": 4998,
+			"id": 5000,
 			"text": "Install on this device"
 		},
 		{
-			"id": 4999,
+			"id": 5001,
 			"text": "App info"
 		},
 		{
-			"id": 5000,
+			"id": 5002,
 			"text": "Open as pinned tab"
 		},
 		{
-			"id": 5001,
+			"id": 5003,
 			"text": "Open as regular tab"
 		},
 		{
-			"id": 5002,
+			"id": 5004,
 			"text": "Open as window"
 		},
 		{
-			"id": 5003,
+			"id": 5005,
 			"text": "Open full screen"
 		},
 		{
-			"id": 5005,
+			"id": 5007,
 			"text": "Open in a tab"
 		},
 		{
-			"id": 5008,
+			"id": 5010,
 			"text": "You've signed in and are now syncing"
 		},
 		{
-			"id": 5009,
+			"id": 5011,
 			"text": "Start syncing?"
 		},
 		{
-			"id": 5010,
+			"id": 5012,
 			"text": "IDS_SYNC_CONFIRMATION_UNITY_SYNC_INFO_TITLE"
 		},
 		{
-			"id": 5011,
+			"id": 5013,
 			"text": "IDS_SYNC_CONFIRMATION_UNITY_SYNC_INFO_DESC"
 		},
 		{
-			"id": 5012,
+			"id": 5014,
 			"text": "IDS_SYNC_CONFIRMATION_UNITY_SETTINGS_INFO"
 		},
 		{
-			"id": 5013,
+			"id": 5015,
 			"text": "IDS_SYNC_CONFIRMATION_CHROME_SYNC_TITLE"
 		},
 		{
-			"id": 5014,
+			"id": 5016,
 			"text": "IDS_SYNC_CONFIRMATION_CHROME_SYNC_MESSAGE"
 		},
 		{
-			"id": 5015,
+			"id": 5017,
 			"text": "IDS_SYNC_CONFIRMATION_PERSONALIZE_SERVICES_TITLE"
 		},
 		{
-			"id": 5016,
+			"id": 5018,
 			"text": "IDS_SYNC_CONFIRMATION_PERSONALIZE_SERVICES_BODY"
 		},
 		{
-			"id": 5018,
+			"id": 5020,
 			"text": "IDS_SYNC_CONFIRMATION_SYNC_SETTINGS_LINK_BODY"
 		},
 		{
-			"id": 5019,
+			"id": 5021,
 			"text": "IDS_SYNC_CONFIRMATION_DICE_CONFIRM_BUTTON_LABEL"
 		},
 		{
-			"id": 5020,
+			"id": 5022,
 			"text": "IDS_SYNC_CONFIRMATION_DICE_SETTINGS_BUTTON_LABEL"
 		},
 		{
-			"id": 5021,
+			"id": 5023,
 			"text": "Your organization disabled syncing"
 		},
 		{
-			"id": 5022,
+			"id": 5024,
 			"text": "Your organization has disabled syncing of your favorites, history, passwords, and other settings."
 		},
 		{
-			"id": 5023,
+			"id": 5025,
 			"text": "Sign in anyway"
 		},
 		{
-			"id": 5024,
+			"id": 5026,
 			"text": "Cancel sign-in"
 		},
 		{
-			"id": 5027,
+			"id": 5029,
 			"text": "Sync your profile"
 		},
 		{
-			"id": 5028,
+			"id": 5030,
 			"text": "We've signed you in"
 		},
 		{
-			"id": 5029,
+			"id": 5031,
 			"text": "$1 has signed in on this device, so we've also signed you in to Microsoft Edge."
 		},
 		{
-			"id": 5031,
+			"id": 5033,
 			"text": "Would you like to sync your browsing data across all your signed-in devices that run Microsoft Edge Insider Builds?"
 		},
 		{
-			"id": 5033,
+			"id": 5035,
 			"text": "To sign out, go to Settings > Profiles"
 		},
 		{
-			"id": 5036,
+			"id": 5038,
 			"text": "No, thanks"
 		},
 		{
-			"id": 5047,
+			"id": 5049,
 			"text": "This wasn't me."
 		},
 		{
-			"id": 5048,
+			"id": 5050,
 			"text": "Create a new profile for $1"
 		},
 		{
-			"id": 5049,
+			"id": 5051,
 			"text": "This was me."
 		},
 		{
-			"id": 5050,
+			"id": 5052,
 			"text": "Add my favorites, history, passwords, and other settings to $1"
 		},
 		{
-			"id": 5053,
+			"id": 5055,
 			"text": "$1 was blocked because it is out of date"
 		},
 		{
-			"id": 5054,
+			"id": 5056,
 			"text": "$1 was blocked because it is deprecated"
 		},
 		{
-			"id": 5055,
+			"id": 5057,
 			"text": "Run this time"
 		},
 		{
-			"id": 5056,
+			"id": 5058,
 			"text": "$1 has crashed"
 		},
 		{
-			"id": 5057,
+			"id": 5059,
 			"text": "There was a problem with $1"
 		},
 		{
-			"id": 5059,
+			"id": 5061,
 			"text": "We couldn't load $1"
 		},
 		{
-			"id": 5060,
+			"id": 5062,
 			"text": "Flash Player will no longer be supported after December 2020."
 		},
 		{
-			"id": 5061,
+			"id": 5063,
 			"text": "Open $1?"
 		},
 		{
-			"id": 5062,
+			"id": 5064,
 			"text": "Open $1"
 		},
 		{
-			"id": 5064,
+			"id": 5066,
 			"text": "Always open these types of links in the associated app"
 		},
 		{
-			"id": 5065,
+			"id": 5067,
 			"text": "Index of LOCATION"
 		},
 		{
-			"id": 5066,
+			"id": 5068,
 			"text": "[parent directory]"
 		},
 		{
-			"id": 5068,
+			"id": 5070,
 			"text": "Size"
 		},
 		{
-			"id": 5069,
+			"id": 5071,
 			"text": "Date modified"
 		},
 		{
-			"id": 5070,
+			"id": 5072,
 			"text": "The server sent data $1 didn't understand. You can <a href=\"https://to-be-replaced.invalid\">report a bug</a>, and include the <a href=\"LOCATION\">raw listing</a>."
 		},
 		{
-			"id": 5071,
+			"id": 5073,
 			"text": "Webpage, HTML only"
 		},
 		{
-			"id": 5072,
+			"id": 5074,
 			"text": "Webpage, single file"
 		},
 		{
-			"id": 5073,
+			"id": 5075,
 			"text": "Webpage, complete"
 		},
 		{
-			"id": 5074,
+			"id": 5076,
 			"text": "Profile error"
 		},
 		{
-			"id": 5075,
+			"id": 5077,
 			"text": "Some features may not be available. Something went wrong."
 		},
 		{
-			"id": 5076,
+			"id": 5078,
 			"text": "Sign out, then sign back in. Something went wrong."
 		},
 		{
-			"id": 5077,
+			"id": 5079,
 			"text": "Send feedback to help us fix this issue."
 		},
 		{
-			"id": 5078,
+			"id": 5080,
 			"text": "What happened before you got this error message? We want to learn how to fix the problem."
 		},
 		{
-			"id": 5079,
+			"id": 5081,
 			"text": "We're not able to open your profile to start Microsoft Edge. Try restarting."
 		},
 		{
-			"id": 5082,
+			"id": 5084,
 			"text": "Warning: your $1 settings are stored on a network drive. This may result in slowdowns, crashes, or even loss of data."
 		},
 		{
-			"id": 5083,
+			"id": 5085,
 			"text": "We couldn't create the data directory"
 		},
 		{
-			"id": 5085,
+			"id": 5087,
 			"text": "Download multiple files"
 		},
 		{
-			"id": 5087,
+			"id": 5089,
 			"text": "{NUM_TABS, plural, =1 {1 tab} other {# tabs}}"
 		},
 		{
-			"id": 5089,
+			"id": 5091,
 			"text": "&History"
 		},
 		{
-			"id": 5090,
+			"id": 5092,
 			"text": "download"
 		},
 		{
-			"id": 5091,
+			"id": 5093,
 			"text": "&Manage apps"
 		},
 		{
-			"id": 5092,
+			"id": 5094,
 			"text": "All apps and pins"
 		},
 		{
-			"id": 5100,
+			"id": 5102,
 			"text": "Opening in existing browser session."
 		},
 		{
-			"id": 5103,
+			"id": 5105,
 			"text": "On - sync everything"
 		},
 		{
-			"id": 5104,
+			"id": 5106,
 			"text": "On - custom settings"
 		},
 		{
-			"id": 5106,
+			"id": 5108,
 			"text": "Sign-in error"
 		},
 		{
-			"id": 5109,
+			"id": 5111,
 			"text": "Enter current sign-in details"
 		},
 		{
-			"id": 5110,
+			"id": 5112,
 			"text": "Sign in again"
 		},
 		{
-			"id": 5111,
+			"id": 5113,
 			"text": "To start the sync, you need a passphrase"
 		},
 		{
-			"id": 5112,
+			"id": 5114,
 			"text": "Enter passphrase"
 		},
 		{
-			"id": 5115,
+			"id": 5117,
 			"text": "Sign out, then sign back in"
 		},
 		{
-			"id": 5117,
+			"id": 5119,
 			"text": "Open settings"
 		},
 		{
-			"id": 5120,
+			"id": 5122,
 			"text": "Sign in again…"
 		},
 		{
-			"id": 5122,
+			"id": 5124,
 			"text": "Sign in to $1"
 		},
 		{
-			"id": 5123,
+			"id": 5125,
 			"text": "Sync is disabled by your organization."
 		},
 		{
-			"id": 5124,
+			"id": 5126,
 			"text": "Sync has been stopped"
 		},
 		{
-			"id": 5125,
+			"id": 5127,
 			"text": "Confirm sync settings to start sync."
 		},
 		{
-			"id": 5129,
+			"id": 5131,
 			"text": "Sign in again. Sync isn't working."
 		},
 		{
-			"id": 5131,
+			"id": 5133,
 			"text": "Enter your passphrase to start sync"
 		},
 		{
-			"id": 5133,
+			"id": 5135,
 			"text": "Couldn't connect to the sync server. Retrying…"
 		},
 		{
-			"id": 5134,
+			"id": 5136,
 			"text": "To continue to sync, sign in again"
 		},
 		{
-			"id": 5140,
+			"id": 5142,
 			"text": "Setup in progress…"
 		},
 		{
-			"id": 5141,
+			"id": 5143,
 			"text": "You're now signed in to $1. Your favorites, history, and other settings are being synced with your Microsoft Account."
 		},
 		{
-			"id": 5146,
+			"id": 5148,
 			"text": "IDS_SYNC_FULL_ENCRYPTION_BODY_CUSTOM"
 		},
 		{
-			"id": 5147,
+			"id": 5149,
 			"text": "IDS_SYNC_FULL_ENCRYPTION_BODY_CUSTOM_WITH_DATE"
 		},
 		{
-			"id": 5148,
+			"id": 5150,
 			"text": "IDS_SYNC_FULL_ENCRYPTION_BODY_GOOGLE_WITH_DATE"
 		},
 		{
-			"id": 5149,
+			"id": 5151,
 			"text": "Not signed in to $1"
 		},
 		{
-			"id": 5150,
+			"id": 5152,
 			"text": "(You're missing out—$1)"
 		},
 		{
-			"id": 5151,
+			"id": 5153,
 			"text": "sign in"
 		},
 		{
-			"id": 5152,
+			"id": 5154,
 			"text": "Translate page from $1?"
 		},
 		{
-			"id": 5153,
+			"id": 5155,
 			"text": "Select Target Language for translation, $1 Selected"
 		},
 		{
-			"id": 5156,
+			"id": 5158,
 			"text": "Translated page"
 		},
 		{
-			"id": 5157,
+			"id": 5159,
 			"text": "Sorry! Couldn’t translate page"
 		},
 		{
-			"id": 5159,
+			"id": 5161,
 			"text": "Advanced options"
 		},
 		{
-			"id": 5160,
+			"id": 5162,
 			"text": "Change languages"
 		},
 		{
-			"id": 5161,
+			"id": 5163,
 			"text": "Translate"
 		},
 		{
-			"id": 5163,
+			"id": 5165,
 			"text": "Always translate pages from $1"
 		},
 		{
-			"id": 5164,
+			"id": 5166,
 			"text": "Translate to"
 		},
 		{
-			"id": 5165,
+			"id": 5167,
 			"text": "Never translate $1"
 		},
 		{
-			"id": 5166,
+			"id": 5168,
 			"text": "Never translate this site"
 		},
 		{
-			"id": 5167,
+			"id": 5169,
 			"text": "Translating…"
 		},
 		{
-			"id": 5168,
+			"id": 5170,
 			"text": "Translating"
 		},
 		{
-			"id": 5169,
+			"id": 5171,
 			"text": "Translated"
 		},
 		{
-			"id": 5171,
+			"id": 5173,
 			"text": "Translate again?"
 		},
 		{
-			"id": 5174,
+			"id": 5176,
 			"text": "Always translate"
 		},
 		{
-			"id": 5178,
+			"id": 5180,
 			"text": "Page language:"
 		},
 		{
-			"id": 5179,
+			"id": 5181,
 			"text": "Translation language:"
 		},
 		{
-			"id": 5184,
+			"id": 5186,
 			"text": "Show notifications"
 		},
 		{
-			"id": 5188,
+			"id": 5190,
 			"text": "Send message"
 		},
 		{
-			"id": 5329,
+			"id": 5331,
 			"text": "Know your location"
 		},
 		{
-			"id": 5330,
+			"id": 5332,
 			"text": "This page contains elements from the following sites that are tracking your location:"
 		},
 		{
-			"id": 5331,
+			"id": 5333,
 			"text": "The following sites have been blocked from tracking your location on this page:"
 		},
 		{
-			"id": 5332,
+			"id": 5334,
 			"text": "Settings will be cleared after next refresh."
 		},
 		{
-			"id": 5333,
+			"id": 5335,
 			"text": "Clear these settings for future browsing"
 		},
 		{
-			"id": 5335,
+			"id": 5337,
 			"text": "This page is tracking your location."
 		},
 		{
-			"id": 5336,
+			"id": 5338,
 			"text": "This page has been blocked from tracking your location."
 		},
 		{
-			"id": 5338,
+			"id": 5340,
 			"text": "Use your MIDI devices"
 		},
 		{
-			"id": 5339,
+			"id": 5341,
 			"text": "This page has full control of MIDI devices."
 		},
 		{
-			"id": 5340,
+			"id": 5342,
 			"text": "This page has been blocked from having full control of MIDI devices."
 		},
 		{
-			"id": 5341,
+			"id": 5343,
 			"text": "This site has full control of MIDI devices."
 		},
 		{
-			"id": 5342,
+			"id": 5344,
 			"text": "This site is only allowed limited control of MIDI devices."
 		},
 		{
-			"id": 5344,
+			"id": 5346,
 			"text": "Clear these settings for future visits"
 		},
 		{
-			"id": 5347,
+			"id": 5349,
 			"text": "This page is accessing your camera and microphone."
 		},
 		{
-			"id": 5348,
+			"id": 5350,
 			"text": "This page has been blocked from accessing your camera and microphone."
 		},
 		{
-			"id": 5349,
+			"id": 5351,
 			"text": "This page is accessing your microphone."
 		},
 		{
-			"id": 5350,
+			"id": 5352,
 			"text": "This page is using your camera."
 		},
 		{
-			"id": 5351,
+			"id": 5353,
 			"text": "This page has been blocked from accessing your microphone."
 		},
 		{
-			"id": 5352,
+			"id": 5354,
 			"text": "This page has been blocked from using your camera."
 		},
 		{
-			"id": 5353,
+			"id": 5355,
 			"text": "Camera and microphone allowed"
 		},
 		{
-			"id": 5354,
+			"id": 5356,
 			"text": "Camera and microphone blocked"
 		},
 		{
-			"id": 5355,
+			"id": 5357,
 			"text": "Microphone allowed"
 		},
 		{
-			"id": 5356,
+			"id": 5358,
 			"text": "Camera allowed"
 		},
 		{
-			"id": 5357,
+			"id": 5359,
 			"text": "Microphone blocked"
 		},
 		{
-			"id": 5358,
+			"id": 5360,
 			"text": "Camera blocked"
 		},
 		{
-			"id": 5359,
+			"id": 5361,
 			"text": "This page may need to be reloaded before the new settings take effect."
 		},
 		{
-			"id": 5372,
+			"id": 5374,
 			"text": "View and manage saved passwords in your $1"
 		},
 		{
-			"id": 5375,
+			"id": 5377,
 			"text": "Microsoft account"
 		},
 		{
-			"id": 5376,
+			"id": 5378,
 			"text": "Saved passwords for this site"
 		},
 		{
-			"id": 5377,
+			"id": 5379,
 			"text": "No passwords saved for this site"
 		},
 		{
-			"id": 5378,
+			"id": 5380,
 			"text": "Saved passwords for $1"
 		},
 		{
-			"id": 5379,
+			"id": 5381,
 			"text": "No passwords saved for $1"
 		},
 		{
-			"id": 5382,
+			"id": 5384,
 			"text": "Restore deleted password for $1"
 		},
 		{
-			"id": 5383,
+			"id": 5385,
 			"text": "Delete password for $1"
 		},
 		{
-			"id": 5386,
+			"id": 5388,
 			"text": "Signing in as"
 		},
 		{
-			"id": 5387,
+			"id": 5389,
 			"text": "Sign in easily across devices"
 		},
 		{
-			"id": 5388,
+			"id": 5390,
 			"text": "Sign in easily"
 		},
 		{
-			"id": 5389,
+			"id": 5391,
 			"text": "$1 automatically signs you in to some sites with passwords you saved."
 		},
 		{
-			"id": 5400,
+			"id": 5402,
 			"text": "Your organization turned off access to local files on this computer"
 		},
 		{
-			"id": 5403,
+			"id": 5405,
 			"text": "Image files"
 		},
 		{
-			"id": 5404,
+			"id": 5406,
 			"text": "Audio files"
 		},
 		{
-			"id": 5405,
+			"id": 5407,
 			"text": "Video files"
 		},
 		{
-			"id": 5406,
+			"id": 5408,
 			"text": "Custom files"
 		},
 		{
-			"id": 5407,
+			"id": 5409,
 			"text": "You have gone full screen."
 		},
 		{
-			"id": 5408,
+			"id": 5410,
 			"text": "\"$1\" triggered full screen."
 		},
 		{
-			"id": 5409,
+			"id": 5411,
 			"text": "An extension triggered full screen."
 		},
 		{
-			"id": 5410,
+			"id": 5412,
 			"text": "$1 is now full screen."
 		},
 		{
-			"id": 5411,
+			"id": 5413,
 			"text": "This page is now full screen."
 		},
 		{
-			"id": 5412,
+			"id": 5414,
 			"text": "$1 is now full screen and has disabled your mouse cursor."
 		},
 		{
-			"id": 5413,
+			"id": 5415,
 			"text": "This page is now full screen and has disabled your mouse cursor."
 		},
 		{
-			"id": 5414,
+			"id": 5416,
 			"text": "$1 has disabled your mouse cursor."
 		},
 		{
-			"id": 5415,
+			"id": 5417,
 			"text": "This page has disabled your mouse cursor."
 		},
 		{
-			"id": 5416,
+			"id": 5418,
 			"text": "Press |$1| to exit full screen"
 		},
 		{
-			"id": 5417,
+			"id": 5419,
 			"text": "Press |$1| to show your cursor"
 		},
 		{
-			"id": 5418,
+			"id": 5420,
 			"text": "Press and hold |$1| to exit full screen"
 		},
 		{
-			"id": 5419,
+			"id": 5421,
 			"text": "email"
 		},
 		{
-			"id": 5420,
+			"id": 5422,
 			"text": "web calendar"
 		},
 		{
-			"id": 5421,
+			"id": 5423,
 			"text": "Allow $1 to open all $2 links?"
 		},
 		{
-			"id": 5422,
+			"id": 5424,
 			"text": "Allow $1 to open all $2 links instead of $3?"
 		},
 		{
-			"id": 5423,
+			"id": 5425,
 			"text": "Open $1 links"
 		},
 		{
-			"id": 5424,
+			"id": 5426,
 			"text": "Open $1 links instead of $2"
 		},
 		{
-			"id": 5427,
+			"id": 5429,
 			"text": "Ignore"
 		},
 		{
-			"id": 5434,
+			"id": 5436,
 			"text": "This site is using motion or light sensors."
 		},
 		{
-			"id": 5435,
+			"id": 5437,
 			"text": "This site is using motion sensors."
 		},
 		{
-			"id": 5436,
+			"id": 5438,
 			"text": "This site has been blocked from using motion and light sensors."
 		},
 		{
-			"id": 5437,
+			"id": 5439,
 			"text": "This site has been blocked from using motion sensors."
 		},
 		{
-			"id": 5438,
+			"id": 5440,
 			"text": "Always allow $1 to access sensors"
 		},
 		{
-			"id": 5439,
+			"id": 5441,
 			"text": "Continue blocking sensor access"
 		},
 		{
-			"id": 5440,
+			"id": 5442,
 			"text": "Sensors allowed"
 		},
 		{
-			"id": 5441,
+			"id": 5443,
 			"text": "Sensors blocked"
 		},
 		{
-			"id": 5442,
+			"id": 5444,
 			"text": "This site is accessing your motion or light sensors."
 		},
 		{
-			"id": 5443,
+			"id": 5445,
 			"text": "This site is accessing your motion sensors."
 		},
 		{
-			"id": 5444,
+			"id": 5446,
 			"text": "This site is blocked from accessing your motion or light sensors."
 		},
 		{
-			"id": 5445,
+			"id": 5447,
 			"text": "This site has been blocked from accessing your motion sensors."
 		},
 		{
-			"id": 5446,
+			"id": 5448,
 			"text": "Continue allowing sensor access"
 		},
 		{
-			"id": 5447,
+			"id": 5449,
 			"text": "Always block $1 from accessing sensors"
 		},
 		{
-			"id": 5450,
+			"id": 5452,
 			"text": "Store files on this device"
 		},
 		{
-			"id": 5455,
+			"id": 5457,
 			"text": "Browse the web in high-contrast mode"
 		},
 		{
-			"id": 5456,
+			"id": 5458,
 			"text": "Try:"
 		},
 		{
-			"id": 5457,
+			"id": 5459,
 			"text": "High Contrast Extension"
 		},
 		{
-			"id": 5458,
+			"id": 5460,
 			"text": "Dark theme"
 		},
 		{
-			"id": 5459,
+			"id": 5461,
 			"text": "Click next to choose your default browser."
 		},
 		{
-			"id": 5461,
+			"id": 5463,
 			"text": "Media file permissions for \"$1\""
 		},
 		{
-			"id": 5462,
+			"id": 5464,
 			"text": "\"$1\" can read and write images, video, and sound files in the selected locations."
 		},
 		{
-			"id": 5463,
+			"id": 5465,
 			"text": "\"$1\" can read and delete images, video, and sound files in the selected locations."
 		},
 		{
-			"id": 5464,
+			"id": 5466,
 			"text": "\"$1\" can read images, video, and sound files in the selected locations."
 		},
 		{
-			"id": 5465,
+			"id": 5467,
 			"text": "Location suggestions"
 		},
 		{
-			"id": 5466,
+			"id": 5468,
 			"text": "last attached on $1"
 		},
 		{
-			"id": 5467,
+			"id": 5469,
 			"text": "Add location"
 		},
 		{
-			"id": 5470,
+			"id": 5472,
 			"text": "Add a media gallery by directory"
 		},
 		{
-			"id": 5471,
+			"id": 5473,
 			"text": "Attached"
 		},
 		{
-			"id": 5472,
+			"id": 5474,
 			"text": "Not attached"
 		},
 		{
-			"id": 5473,
+			"id": 5475,
 			"text": "Permanently remove access for all apps"
 		},
 		{
-			"id": 5491,
+			"id": 5493,
 			"text": "Identity API Token Cache"
 		},
 		{
-			"id": 5492,
+			"id": 5494,
 			"text": "Access Token"
 		},
 		{
-			"id": 5493,
+			"id": 5495,
 			"text": "Extension Name"
 		},
 		{
-			"id": 5494,
+			"id": 5496,
 			"text": "Extension Id"
 		},
 		{
-			"id": 5495,
+			"id": 5497,
 			"text": "Token Status"
 		},
 		{
-			"id": 5496,
+			"id": 5498,
 			"text": "Not Found"
 		},
 		{
-			"id": 5497,
+			"id": 5499,
 			"text": "Token Present"
 		},
 		{
-			"id": 5498,
+			"id": 5500,
 			"text": "Expiration Time"
 		},
 		{
-			"id": 5499,
+			"id": 5501,
 			"text": "Scopes"
 		},
 		{
-			"id": 5500,
+			"id": 5502,
 			"text": "Revoke"
 		},
 		{
-			"id": 5502,
+			"id": 5504,
 			"text": "Disk usage is high"
 		},
 		{
-			"id": 5503,
+			"id": 5505,
 			"text": "$1 is using $2 MB of disk space."
 		},
 		{
-			"id": 5504,
+			"id": 5506,
 			"text": "Don't warn again for this app"
 		},
 		{
-			"id": 5505,
+			"id": 5507,
 			"text": "Don't warn again for this extension"
 		},
 		{
-			"id": 5506,
+			"id": 5508,
 			"text": "Remove app"
 		},
 		{
-			"id": 5509,
+			"id": 5511,
 			"text": "$1 wants to share the contents of your screen. Choose what you'd like to share."
 		},
 		{
-			"id": 5510,
+			"id": 5512,
 			"text": "$1 wants to share the contents of your screen with $2. Choose what you'd like to share."
 		},
 		{
-			"id": 5511,
+			"id": 5513,
 			"text": "Share audio"
 		},
 		{
-			"id": 5512,
+			"id": 5514,
 			"text": "Your entire screen"
 		},
 		{
-			"id": 5513,
+			"id": 5515,
 			"text": "Application window"
 		},
 		{
-			"id": 5514,
+			"id": 5516,
 			"text": "Entire screen"
 		},
 		{
-			"id": 5515,
+			"id": 5517,
 			"text": "{SCREEN_INDEX, plural, =1{Screen #} other{Screen #}}"
 		},
 		{
-			"id": 5516,
+			"id": 5518,
 			"text": "Register"
 		},
 		{
-			"id": 5522,
+			"id": 5524,
 			"text": "Devices"
 		},
 		{
-			"id": 5523,
+			"id": 5525,
 			"text": "User:"
 		},
 		{
-			"id": 5524,
+			"id": 5526,
 			"text": "Confirm registration"
 		},
 		{
-			"id": 5525,
+			"id": 5527,
 			"text": "Adding printer…"
 		},
 		{
-			"id": 5526,
+			"id": 5528,
 			"text": "We couldn't complete registration"
 		},
 		{
-			"id": 5527,
+			"id": 5529,
 			"text": "You must confirm registration on your printer to finish this process - check it now."
 		},
 		{
-			"id": 5528,
+			"id": 5530,
 			"text": "Adding the printer to your account - this may take a moment…"
 		},
 		{
-			"id": 5529,
+			"id": 5531,
 			"text": "Check your printer and try again."
 		},
 		{
-			"id": 5530,
+			"id": 5532,
 			"text": "Printer on Google Cloud Print"
 		},
 		{
-			"id": 5532,
+			"id": 5534,
 			"text": "No other available devices."
 		},
 		{
-			"id": 5533,
+			"id": 5535,
 			"text": "One other available device."
 		},
 		{
-			"id": 5534,
+			"id": 5536,
 			"text": "$1 other available devices."
 		},
 		{
-			"id": 5535,
+			"id": 5537,
 			"text": "Loading"
 		},
 		{
-			"id": 5536,
+			"id": 5538,
 			"text": "Add Devices"
 		},
 		{
-			"id": 5537,
+			"id": 5539,
 			"text": "Looks like there are no devices available to register on the network. If your device is on and connected to the internet, try registering it using instructions in its instruction manual."
 		},
 		{
-			"id": 5538,
+			"id": 5540,
 			"text": "Could not load devices."
 		},
 		{
-			"id": 5540,
+			"id": 5542,
 			"text": "Sign in to Microsoft Edge to see your devices"
 		},
 		{
-			"id": 5541,
+			"id": 5543,
 			"text": "Sign in to Microsoft Edge to register new devices"
 		},
 		{
-			"id": 5543,
+			"id": 5545,
 			"text": "New devices"
 		},
 		{
-			"id": 5544,
+			"id": 5546,
 			"text": "My devices"
 		},
 		{
-			"id": 5545,
+			"id": 5547,
 			"text": "You can add classic printers connected to your computer to $1."
 		},
 		{
-			"id": 5546,
+			"id": 5548,
 			"text": "Classic printers"
 		},
 		{
-			"id": 5548,
+			"id": 5550,
 			"text": "Printer registration has been canceled."
 		},
 		{
-			"id": 5549,
+			"id": 5551,
 			"text": "Printer registration has timed out. In order to register a printer, you must confirm registration on the printer."
 		},
 		{
-			"id": 5550,
+			"id": 5552,
 			"text": "Documents are <a is=\"action-link\" href=\"https://to-be-replaced.invalid\" target=\"_blank\">sent to Google</a> to prepare them for printing. View, edit and manage your printers and printer history on the <a is=\"action-link\" href=\"https://to-be-replaced.invalid\" target=\"_blank\">Google Cloud Print dashboard</a>."
 		},
 		{
-			"id": 5551,
+			"id": 5553,
 			"text": "This tab is using your camera or microphone."
 		},
 		{
-			"id": 5552,
+			"id": 5554,
 			"text": "This tab's content is being shared."
 		},
 		{
-			"id": 5553,
+			"id": 5555,
 			"text": "This tab is playing audio."
 		},
 		{
-			"id": 5554,
+			"id": 5556,
 			"text": "This tab's audio is muted."
 		},
 		{
-			"id": 5555,
+			"id": 5557,
 			"text": "This tab is connected to a Bluetooth Device."
 		},
 		{
-			"id": 5556,
+			"id": 5558,
 			"text": "This tab is connected to a USB device."
 		},
 		{
-			"id": 5557,
+			"id": 5559,
 			"text": "This tab is connected to a serial port."
 		},
 		{
-			"id": 5558,
+			"id": 5560,
 			"text": "This tab is playing a video in picture-in-picture mode."
 		},
 		{
-			"id": 5559,
+			"id": 5561,
 			"text": "This tab is sharing your screen."
 		},
 		{
-			"id": 5560,
+			"id": 5562,
 			"text": "This tab is presenting VR content to a headset."
 		},
 		{
-			"id": 5561,
+			"id": 5563,
 			"text": "Crashed"
 		},
 		{
-			"id": 5562,
+			"id": 5564,
 			"text": "Network error"
 		},
 		{
-			"id": 5563,
+			"id": 5565,
 			"text": "$1 - Camera or microphone recording"
 		},
 		{
-			"id": 5564,
+			"id": 5566,
 			"text": "$1 - Tab content shared"
 		},
 		{
-			"id": 5565,
+			"id": 5567,
 			"text": "$1 - Video playing in picture-in-picture mode"
 		},
 		{
-			"id": 5566,
+			"id": 5568,
 			"text": "$1 - Audio playing"
 		},
 		{
-			"id": 5567,
+			"id": 5569,
 			"text": "$1 - Audio muted"
 		},
 		{
-			"id": 5568,
+			"id": 5570,
 			"text": "$1 - Bluetooth device connected"
 		},
 		{
-			"id": 5569,
+			"id": 5571,
 			"text": "$1 - USB device connected"
 		},
 		{
-			"id": 5570,
+			"id": 5572,
 			"text": "$1 - Serial port connected"
 		},
 		{
-			"id": 5571,
+			"id": 5573,
 			"text": "$1 - Network error"
 		},
 		{
-			"id": 5572,
+			"id": 5574,
 			"text": "$1 - Crashed"
 		},
 		{
-			"id": 5573,
+			"id": 5575,
 			"text": "$1 - Desktop content shared"
 		},
 		{
-			"id": 5574,
+			"id": 5576,
 			"text": "$1 - VR presenting to headset"
 		},
 		{
-			"id": 5575,
+			"id": 5577,
 			"text": "Pinned"
 		},
 		{
-			"id": 5587,
+			"id": 5589,
 			"text": "Share"
 		},
 		{
-			"id": 5588,
+			"id": 5590,
 			"text": "This site was updated in the background."
 		},
 		{
-			"id": 5590,
+			"id": 5592,
 			"text": "Device log"
 		},
 		{
-			"id": 5591,
+			"id": 5593,
 			"text": "Add a query param in URL to auto-refresh the page: edge://device-log/?refresh=<sec>"
 		},
 		{
-			"id": 5593,
+			"id": 5595,
 			"text": "Show:"
 		},
 		{
-			"id": 5595,
+			"id": 5597,
 			"text": "User"
 		},
 		{
-			"id": 5596,
+			"id": 5598,
 			"text": "Event"
 		},
 		{
-			"id": 5597,
+			"id": 5599,
 			"text": "Debug"
 		},
 		{
-			"id": 5598,
+			"id": 5600,
 			"text": "Sign-in"
 		},
 		{
-			"id": 5600,
+			"id": 5602,
 			"text": "Power"
 		},
 		{
-			"id": 5601,
+			"id": 5603,
 			"text": "Bluetooth"
 		},
 		{
-			"id": 5602,
+			"id": 5604,
 			"text": "USB"
 		},
 		{
-			"id": 5603,
+			"id": 5605,
 			"text": "HID"
 		},
 		{
-			"id": 5605,
+			"id": 5607,
 			"text": "FIDO"
 		},
 		{
-			"id": 5606,
+			"id": 5608,
 			"text": "File info"
 		},
 		{
-			"id": 5607,
+			"id": 5609,
 			"text": "Detailed timestamps"
 		},
 		{
-			"id": 5608,
+			"id": 5610,
 			"text": "[$1]\n        $2\n        $3"
 		},
 		{
-			"id": 5614,
+			"id": 5616,
 			"text": "Go to $1 to connect."
 		},
 		{
-			"id": 5615,
+			"id": 5617,
 			"text": "$1 detected"
 		},
 		{
-			"id": 5622,
+			"id": 5624,
 			"text": "Communications"
 		},
 		{
-			"id": 5623,
+			"id": 5625,
 			"text": "$1 wants to pair"
 		},
 		{
-			"id": 5624,
+			"id": 5626,
 			"text": "\"$1\" wants to pair"
 		},
 		{
-			"id": 5625,
+			"id": 5627,
 			"text": "No compatible devices found"
 		},
 		{
-			"id": 5626,
+			"id": 5628,
 			"text": "$1 to allow pairing"
 		},
 		{
-			"id": 5627,
+			"id": 5629,
 			"text": "Turn on Bluetooth"
 		},
 		{
-			"id": 5628,
+			"id": 5630,
 			"text": " while scanning for devices…"
 		},
 		{
-			"id": 5629,
+			"id": 5631,
 			"text": "Rescan"
 		},
 		{
-			"id": 5630,
+			"id": 5632,
 			"text": "Rescan Bluetooth devices"
 		},
 		{
-			"id": 5631,
+			"id": 5633,
 			"text": "Scanning…"
 		},
 		{
-			"id": 5632,
+			"id": 5634,
 			"text": "Scanning for Bluetooth devices…"
 		},
 		{
-			"id": 5633,
+			"id": 5635,
 			"text": "Pair"
 		},
 		{
-			"id": 5638,
+			"id": 5640,
 			"text": "$1 - Paired"
 		},
 		{
-			"id": 5639,
+			"id": 5641,
 			"text": "$1 wants to connect"
 		},
 		{
-			"id": 5640,
+			"id": 5642,
 			"text": "\"$1\" wants to connect"
 		},
 		{
-			"id": 5641,
+			"id": 5643,
 			"text": "$1 ($2)"
 		},
 		{
-			"id": 5643,
+			"id": 5645,
 			"text": "Connect"
 		},
 		{
-			"id": 5644,
+			"id": 5646,
 			"text": "Unknown device from $1"
 		},
 		{
-			"id": 5645,
+			"id": 5647,
 			"text": "Unknown device [$1:$2]"
 		},
 		{
-			"id": 5646,
+			"id": 5648,
 			"text": "Unknown product $1 from $2"
 		},
 		{
-			"id": 5647,
+			"id": 5649,
 			"text": "Unknown product $1 from vendor $2"
 		},
 		{
-			"id": 5648,
+			"id": 5650,
 			"text": "Devices from vendor $1"
 		},
 		{
-			"id": 5649,
+			"id": 5651,
 			"text": "Devices from $1"
 		},
 		{
-			"id": 5650,
+			"id": 5652,
 			"text": "Devices from any vendor"
 		},
 		{
-			"id": 5651,
+			"id": 5653,
 			"text": "$1 wants to connect to a serial port"
 		},
 		{
-			"id": 5652,
+			"id": 5654,
 			"text": "\"$1\" wants to connect to a serial port"
 		},
 		{
-			"id": 5656,
+			"id": 5658,
 			"text": "$1 extension may collect all the text you type, including personal data like passwords and credit card numbers. Do you want to use this extension?"
 		},
 		{
-			"id": 5657,
+			"id": 5659,
 			"text": "Never show this again."
 		},
 		{
-			"id": 5658,
+			"id": 5660,
 			"text": "Always allow ads on this site"
 		},
 		{
-			"id": 5660,
+			"id": 5662,
 			"text": "Ads blocked"
 		},
 		{
-			"id": 5661,
+			"id": 5663,
 			"text": "This site shows intrusive or misleading ads."
 		},
 		{
-			"id": 5662,
+			"id": 5664,
 			"text": "Ads blocked on this site"
 		},
 		{
-			"id": 5663,
+			"id": 5665,
 			"text": "Windows Utilities"
 		},
 		{
-			"id": 5664,
+			"id": 5666,
 			"text": "Redirect blocked:"
 		},
 		{
-			"id": 5665,
+			"id": 5667,
 			"text": "Redirect blocked"
 		},
 		{
-			"id": 5666,
+			"id": 5668,
 			"text": "Redirect blocked on this page."
 		},
 		{
-			"id": 5667,
+			"id": 5669,
 			"text": "The web browser by Microsoft"
 		},
 		{
-			"id": 5668,
+			"id": 5670,
 			"text": "Sign in to Microsoft Edge with your Microsoft account to get your favorites, history, passwords, and other stuff on all your devices."
 		},
 		{
-			"id": 5692,
+			"id": 5694,
 			"text": "Microsoft Edge is being controlled by automated test software."
 		},
 		{
-			"id": 5693,
+			"id": 5695,
 			"text": "See the make and model of your Security Key"
 		},
 		{
-			"id": 5701,
+			"id": 5703,
 			"text": "Open download"
 		},
 		{
-			"id": 5702,
+			"id": 5704,
 			"text": "Allow $1 to open $2?"
 		},
 		{
-			"id": 5703,
+			"id": 5705,
 			"text": "{0, plural,\n        =1 {Upload a file to this site?}\n        other {Upload # files to this site?}\n      }"
 		},
 		{
-			"id": 5704,
+			"id": 5706,
 			"text": "This will upload all files from \"$1\". Do this only if you trust the site."
 		},
 		{
-			"id": 5705,
+			"id": 5707,
 			"text": "Upload"
 		},
 		{
-			"id": 5706,
+			"id": 5708,
 			"text": "Refresh now"
 		},
 		{
-			"id": 5707,
+			"id": 5709,
 			"text": "Got it"
 		},
 		{
-			"id": 5708,
+			"id": 5710,
 			"text": "Use your security key with $1"
 		},
 		{
-			"id": 5709,
+			"id": 5711,
 			"text": "$1 wants to verify your identity"
 		},
 		{
-			"id": 5710,
+			"id": 5712,
 			"text": "Verifying your identity helps protect your personal information"
 		},
 		{
-			"id": 5712,
+			"id": 5714,
 			"text": "Verify your identity with $1"
 		},
 		{
-			"id": 5713,
+			"id": 5715,
 			"text": "Choose an option"
 		},
 		{
-			"id": 5714,
+			"id": 5716,
 			"text": "Bluetooth security key"
 		},
 		{
-			"id": 5715,
+			"id": 5717,
 			"text": "USB security key"
 		},
 		{
-			"id": 5716,
+			"id": 5718,
 			"text": "NFC security key"
 		},
 		{
-			"id": 5717,
+			"id": 5719,
 			"text": "Built-in sensor"
 		},
 		{
-			"id": 5718,
+			"id": 5720,
 			"text": "Your phone"
 		},
 		{
-			"id": 5719,
+			"id": 5721,
 			"text": "External security key or built-in sensor"
 		},
 		{
-			"id": 5720,
+			"id": 5722,
 			"text": "Insert your security key and touch it"
 		},
 		{
-			"id": 5721,
+			"id": 5723,
 			"text": "Something went wrong"
 		},
 		{
-			"id": 5722,
+			"id": 5724,
 			"text": "Try a different key"
 		},
 		{
-			"id": 5723,
+			"id": 5725,
 			"text": "You already registered this key before. You don't have to register it again."
 		},
 		{
-			"id": 5724,
+			"id": 5726,
 			"text": "You're using a key that's not registered with this website"
 		},
 		{
-			"id": 5725,
+			"id": 5727,
 			"text": "The request timed out"
 		},
 		{
-			"id": 5727,
+			"id": 5729,
 			"text": "Your identity couldn't be verified"
 		},
 		{
-			"id": 5729,
+			"id": 5731,
 			"text": "This device doesn't support the type of security key requested by this website"
 		},
 		{
-			"id": 5730,
+			"id": 5732,
 			"text": "Turn on Bluetooth?"
 		},
 		{
-			"id": 5731,
+			"id": 5733,
 			"text": "Bluetooth will be temporarily turned on to communicate with your security key"
 		},
 		{
-			"id": 5733,
+			"id": 5735,
 			"text": "Bluetooth is disabled"
 		},
 		{
-			"id": 5734,
+			"id": 5736,
 			"text": "Check your device settings and turn it on to continue"
 		},
 		{
-			"id": 5736,
+			"id": 5738,
 			"text": "Ready to pair your security key?"
 		},
 		{
-			"id": 5737,
+			"id": 5739,
 			"text": "Pair your key to this device so you can use it to sign in to your account"
 		},
 		{
-			"id": 5738,
+			"id": 5740,
 			"text": "Begin"
 		},
 		{
-			"id": 5739,
+			"id": 5741,
 			"text": "Get into pairing mode"
 		},
 		{
-			"id": 5740,
+			"id": 5742,
 			"text": "Press and hold the button on your security key for at least 5 seconds"
 		},
 		{
-			"id": 5741,
+			"id": 5743,
 			"text": "Select a security key"
 		},
 		{
-			"id": 5742,
+			"id": 5744,
 			"text": "Find the name printed on the back of your key"
 		},
 		{
-			"id": 5743,
+			"id": 5745,
 			"text": "Searching…"
 		},
 		{
-			"id": 5744,
+			"id": 5746,
 			"text": "If your security key isn't listed, press the key's button for at least 5 seconds."
 		},
 		{
-			"id": 5745,
+			"id": 5747,
 			"text": "Pair with $1"
 		},
 		{
-			"id": 5746,
+			"id": 5748,
 			"text": "Enter the 6-digit PIN from the back of your key"
 		},
 		{
-			"id": 5747,
+			"id": 5749,
 			"text": "PIN"
 		},
 		{
-			"id": 5751,
+			"id": 5753,
 			"text": "Verifying your security key"
 		},
 		{
-			"id": 5752,
+			"id": 5754,
 			"text": "To use most keys, just press the button"
 		},
 		{
-			"id": 5753,
+			"id": 5755,
 			"text": "Choose another option"
 		},
 		{
-			"id": 5754,
+			"id": 5756,
 			"text": "Verify via USB"
 		},
 		{
-			"id": 5755,
+			"id": 5757,
 			"text": "Verify via Bluetooth"
 		},
 		{
-			"id": 5756,
+			"id": 5758,
 			"text": "Add another Bluetooth security key"
 		},
 		{
-			"id": 5757,
+			"id": 5759,
 			"text": "Verify via NFC"
 		},
 		{
-			"id": 5758,
+			"id": 5760,
 			"text": "Verify via built-in sensor"
 		},
 		{
-			"id": 5759,
+			"id": 5761,
 			"text": "Verify via your phone"
 		},
 		{
-			"id": 5760,
+			"id": 5762,
 			"text": "Check your phone"
 		},
 		{
-			"id": 5761,
+			"id": 5763,
 			"text": "A notification was sent to your phone. Follow the prompts to confirm it's you."
 		},
 		{
-			"id": 5762,
+			"id": 5764,
 			"text": "PIN required"
 		},
 		{
-			"id": 5763,
+			"id": 5765,
 			"text": "Enter the PIN for your security key"
 		},
 		{
-			"id": 5766,
+			"id": 5768,
 			"text": "Set up a new PIN for your security key"
 		},
 		{
-			"id": 5767,
+			"id": 5769,
 			"text": "Confirm PIN"
 		},
 		{
-			"id": 5768,
+			"id": 5770,
 			"text": "PIN contains invalid characters"
 		},
 		{
-			"id": 5769,
+			"id": 5771,
 			"text": "PIN must be at least 4 characters"
 		},
 		{
-			"id": 5770,
+			"id": 5772,
 			"text": "{NUM_ATTEMPTS, plural,\n          =1 {Incorrect PIN. You have one attempt remaining.}\n          other {Incorrect PIN. You have # attempts remaining.}}"
 		},
 		{
-			"id": 5771,
+			"id": 5773,
 			"text": "Incorrect PIN"
 		},
 		{
-			"id": 5773,
+			"id": 5775,
 			"text": "Touch your security key again to complete the request."
 		},
 		{
-			"id": 5774,
+			"id": 5776,
 			"text": "The PINs you entered don’t match"
 		},
 		{
-			"id": 5775,
+			"id": 5777,
 			"text": "The security key is locked because the wrong PIN was entered too many times. To unlock it, remove and reinsert it."
 		},
 		{
-			"id": 5776,
+			"id": 5778,
 			"text": "The security key is locked because the wrong PIN was entered too many times. You’ll need to reset the security key."
 		},
 		{
-			"id": 5777,
+			"id": 5779,
 			"text": "Reinsert your security key and try again"
 		},
 		{
-			"id": 5780,
+			"id": 5782,
 			"text": "Select account"
 		},
 		{
-			"id": 5781,
+			"id": 5783,
 			"text": "Select an account to sign in:"
 		},
 		{
-			"id": 5782,
+			"id": 5784,
 			"text": "Unknown account"
 		},
 		{
-			"id": 5783,
+			"id": 5785,
 			"text": "This will leave a record of your visit to this site on your security key."
 		},
 		{
-			"id": 5784,
+			"id": 5786,
 			"text": "Your security key can't be used with this site"
 		},
 		{
-			"id": 5785,
+			"id": 5787,
 			"text": "That security key does not support internal storage of credentials, but that feature was requested."
 		},
 		{
-			"id": 5786,
+			"id": 5788,
 			"text": "$1 may require a newer or different kind of security key"
 		},
 		{
-			"id": 5787,
+			"id": 5789,
 			"text": "Your security key does not have enough free space for any more accounts."
 		},
 		{
-			"id": 5788,
+			"id": 5790,
 			"text": "Allow this site to see your security key?"
 		},
 		{
-			"id": 5789,
+			"id": 5791,
 			"text": "$1 wants to see the make and model of your security key"
 		},
 		{
-			"id": 5797,
+			"id": 5799,
 			"text": "InPrivate Browsing"
 		},
 		{
-			"id": 5798,
+			"id": 5800,
 			"text": "{0, plural,\n        =1 {You have one window open.}\n        other {You have # windows open.}\n      }"
 		},
 		{
-			"id": 5799,
+			"id": 5801,
 			"text": "{0, plural,\n          =1 {Close InPrivate window}\n          other {Close InPrivate windows}\n        }"
 		},
 		{
-			"id": 5800,
+			"id": 5802,
 			"text": "Show this page using Internet Explorer"
 		},
 		{
@@ -18195,335 +18203,335 @@
 			"index": 994
 		},
 		{
-			"id": 4982,
+			"id": 4984,
 			"index": 1034
 		},
 		{
-			"id": 4983,
+			"id": 4985,
 			"index": 1034
 		},
 		{
-			"id": 4995,
+			"id": 4997,
 			"index": 1303
 		},
 		{
-			"id": 5025,
+			"id": 5027,
 			"index": 464
 		},
 		{
-			"id": 5026,
+			"id": 5028,
 			"index": 1013
-		},
-		{
-			"id": 5030,
-			"index": 1012
 		},
 		{
 			"id": 5032,
-			"index": 486
+			"index": 1012
 		},
 		{
 			"id": 5034,
+			"index": 486
+		},
+		{
+			"id": 5036,
 			"index": 1013
 		},
 		{
-			"id": 5035,
-			"index": 1020
-		},
-		{
 			"id": 5037,
-			"index": 1898
-		},
-		{
-			"id": 5038,
 			"index": 1020
 		},
 		{
-			"id": 5042,
-			"index": 43
+			"id": 5039,
+			"index": 1898
 		},
 		{
-			"id": 5043,
-			"index": 1898
+			"id": 5040,
+			"index": 1020
+		},
+		{
+			"id": 5044,
+			"index": 43
 		},
 		{
 			"id": 5045,
+			"index": 1898
+		},
+		{
+			"id": 5047,
 			"index": 43
 		},
 		{
-			"id": 5046,
+			"id": 5048,
 			"index": 52
 		},
 		{
-			"id": 5051,
+			"id": 5053,
 			"index": 93
 		},
 		{
-			"id": 5052,
+			"id": 5054,
 			"index": 1256
 		},
 		{
-			"id": 5058,
+			"id": 5060,
 			"index": 1138
 		},
 		{
-			"id": 5063,
+			"id": 5065,
 			"index": 93
 		},
 		{
-			"id": 5067,
+			"id": 5069,
 			"index": 90
 		},
 		{
-			"id": 5088,
+			"id": 5090,
 			"index": 1446
 		},
 		{
-			"id": 5094,
+			"id": 5096,
 			"index": 955
 		},
 		{
-			"id": 5101,
-			"index": 2555
+			"id": 5103,
+			"index": 2557
 		},
 		{
-			"id": 5108,
+			"id": 5110,
 			"index": 1002
 		},
 		{
-			"id": 5113,
-			"index": 2597
-		},
-		{
-			"id": 5114,
-			"index": 2597
-		},
-		{
-			"id": 5116,
-			"index": 542
-		},
-		{
-			"id": 5118,
-			"index": 1898
-		},
-		{
-			"id": 5119,
-			"index": 2597
-		},
-		{
-			"id": 5130,
-			"index": 2607
-		},
-		{
-			"id": 5132,
+			"id": 5115,
 			"index": 2599
 		},
 		{
-			"id": 5135,
-			"index": 2597
+			"id": 5116,
+			"index": 2599
 		},
 		{
-			"id": 5139,
-			"index": 1342
+			"id": 5118,
+			"index": 542
 		},
 		{
-			"id": 5142,
+			"id": 5120,
 			"index": 1898
 		},
 		{
-			"id": 5143,
+			"id": 5121,
+			"index": 2599
+		},
+		{
+			"id": 5132,
+			"index": 2609
+		},
+		{
+			"id": 5134,
+			"index": 2601
+		},
+		{
+			"id": 5137,
+			"index": 2599
+		},
+		{
+			"id": 5141,
+			"index": 1342
+		},
+		{
+			"id": 5144,
+			"index": 1898
+		},
+		{
+			"id": 5145,
 			"index": 595
 		},
 		{
-			"id": 5155,
+			"id": 5157,
 			"index": 1303
 		},
 		{
-			"id": 5162,
+			"id": 5164,
 			"index": 277
 		},
 		{
-			"id": 5172,
+			"id": 5174,
 			"index": 2156
 		},
 		{
-			"id": 5173,
+			"id": 5175,
 			"index": 659
 		},
 		{
-			"id": 5176,
+			"id": 5178,
 			"index": 1303
 		},
 		{
-			"id": 5182,
+			"id": 5184,
 			"index": 1150
 		},
 		{
-			"id": 5343,
-			"index": 2642
+			"id": 5345,
+			"index": 2644
 		},
 		{
-			"id": 5380,
+			"id": 5382,
 			"index": 655
 		},
 		{
-			"id": 5381,
+			"id": 5383,
 			"index": 82
 		},
 		{
-			"id": 5384,
+			"id": 5386,
 			"index": 645
 		},
 		{
-			"id": 5385,
+			"id": 5387,
 			"index": 646
 		},
 		{
-			"id": 5390,
+			"id": 5392,
 			"index": 564
 		},
 		{
-			"id": 5391,
+			"id": 5393,
 			"index": 1001
 		},
 		{
-			"id": 5425,
+			"id": 5427,
 			"index": 916
 		},
 		{
-			"id": 5426,
+			"id": 5428,
 			"index": 1808
 		},
 		{
-			"id": 5432,
+			"id": 5434,
 			"index": 1915
 		},
 		{
-			"id": 5433,
+			"id": 5435,
 			"index": 1916
 		},
 		{
-			"id": 5460,
+			"id": 5462,
 			"index": 563
 		},
 		{
-			"id": 5468,
+			"id": 5470,
 			"index": 93
 		},
 		{
-			"id": 5469,
+			"id": 5471,
 			"index": 1341
 		},
 		{
-			"id": 5507,
+			"id": 5509,
 			"index": 1198
 		},
 		{
-			"id": 5508,
+			"id": 5510,
 			"index": 396
 		},
 		{
-			"id": 5517,
+			"id": 5519,
 			"index": 831
 		},
 		{
-			"id": 5539,
+			"id": 5541,
 			"index": 659
 		},
 		{
-			"id": 5542,
-			"index": 2618
+			"id": 5544,
+			"index": 2620
 		},
 		{
-			"id": 5589,
+			"id": 5591,
 			"index": 1348
 		},
 		{
-			"id": 5592,
+			"id": 5594,
 			"index": 58
 		},
 		{
-			"id": 5594,
+			"id": 5596,
 			"index": 405
 		},
 		{
-			"id": 5599,
+			"id": 5601,
 			"index": 1816
 		},
 		{
-			"id": 5604,
+			"id": 5606,
 			"index": 1271
 		},
 		{
-			"id": 5621,
+			"id": 5623,
 			"index": 34
 		},
 		{
-			"id": 5634,
+			"id": 5636,
 			"index": 93
 		},
 		{
-			"id": 5642,
-			"index": 2827
-		},
-		{
-			"id": 5653,
-			"index": 2839
-		},
-		{
-			"id": 5654,
-			"index": 1905
+			"id": 5644,
+			"index": 2829
 		},
 		{
 			"id": 5655,
-			"index": 2840
+			"index": 2841
 		},
 		{
-			"id": 5669,
+			"id": 5656,
+			"index": 1905
+		},
+		{
+			"id": 5657,
+			"index": 2842
+		},
+		{
+			"id": 5671,
 			"index": 464
 		},
 		{
-			"id": 5670,
+			"id": 5672,
 			"index": 444
 		},
 		{
-			"id": 5711,
+			"id": 5713,
 			"index": 1256
 		},
 		{
-			"id": 5726,
-			"index": 2883
-		},
-		{
 			"id": 5728,
-			"index": 2888
+			"index": 2885
 		},
 		{
-			"id": 5732,
+			"id": 5730,
+			"index": 2890
+		},
+		{
+			"id": 5734,
 			"index": 570
 		},
 		{
-			"id": 5735,
+			"id": 5737,
 			"index": 659
 		},
 		{
-			"id": 5748,
+			"id": 5750,
 			"index": 563
 		},
 		{
-			"id": 5764,
-			"index": 2905
+			"id": 5766,
+			"index": 2907
 		},
 		{
-			"id": 5765,
+			"id": 5767,
 			"index": 563
 		},
 		{
-			"id": 5772,
-			"index": 2921
+			"id": 5774,
+			"index": 2923
 		},
 		{
-			"id": 5790,
+			"id": 5792,
 			"index": 916
 		},
 		{
@@ -18544,7 +18552,7 @@
 		},
 		{
 			"id": 15136,
-			"index": 2979
+			"index": 2981
 		},
 		{
 			"id": 15198,
@@ -18612,7 +18620,7 @@
 		},
 		{
 			"id": 15299,
-			"index": 3051
+			"index": 3053
 		},
 		{
 			"id": 15303,
@@ -18644,7 +18652,7 @@
 		},
 		{
 			"id": 15422,
-			"index": 2717
+			"index": 2719
 		},
 		{
 			"id": 15445,
@@ -18728,7 +18736,7 @@
 		},
 		{
 			"id": 15521,
-			"index": 2940
+			"index": 2942
 		},
 		{
 			"id": 15553,
@@ -18760,11 +18768,11 @@
 		},
 		{
 			"id": 15579,
-			"index": 2625
+			"index": 2627
 		},
 		{
 			"id": 15583,
-			"index": 3235
+			"index": 3237
 		},
 		{
 			"id": 15624,
@@ -18868,7 +18876,7 @@
 		},
 		{
 			"id": 15693,
-			"index": 3303
+			"index": 3305
 		},
 		{
 			"id": 15694,
@@ -18888,7 +18896,7 @@
 		},
 		{
 			"id": 15714,
-			"index": 2700
+			"index": 2702
 		},
 		{
 			"id": 15722,
@@ -18896,7 +18904,7 @@
 		},
 		{
 			"id": 15730,
-			"index": 3044
+			"index": 3046
 		},
 		{
 			"id": 15739,
@@ -18904,7 +18912,7 @@
 		},
 		{
 			"id": 15759,
-			"index": 3331
+			"index": 3333
 		},
 		{
 			"id": 15760,
@@ -18944,7 +18952,7 @@
 		},
 		{
 			"id": 15854,
-			"index": 3390
+			"index": 3392
 		},
 		{
 			"id": 15855,
@@ -18984,11 +18992,11 @@
 		},
 		{
 			"id": 15931,
-			"index": 3414
+			"index": 3416
 		},
 		{
 			"id": 15932,
-			"index": 3415
+			"index": 3417
 		},
 		{
 			"id": 15933,
@@ -19004,19 +19012,19 @@
 		},
 		{
 			"id": 15938,
-			"index": 3413
+			"index": 3415
 		},
 		{
 			"id": 15941,
-			"index": 2791
+			"index": 2793
 		},
 		{
 			"id": 15981,
-			"index": 3436
+			"index": 3438
 		},
 		{
 			"id": 15984,
-			"index": 3434
+			"index": 3436
 		},
 		{
 			"id": 16014,
@@ -19028,15 +19036,15 @@
 		},
 		{
 			"id": 16024,
-			"index": 3496
-		},
-		{
-			"id": 16027,
 			"index": 3498
 		},
 		{
+			"id": 16027,
+			"index": 3500
+		},
+		{
 			"id": 16031,
-			"index": 2756
+			"index": 2758
 		},
 		{
 			"id": 16040,
@@ -19076,11 +19084,11 @@
 		},
 		{
 			"id": 16234,
-			"index": 2840
+			"index": 2842
 		},
 		{
 			"id": 16243,
-			"index": 2700
+			"index": 2702
 		},
 		{
 			"id": 16244,
@@ -19104,11 +19112,11 @@
 		},
 		{
 			"id": 16280,
-			"index": 3582
+			"index": 3584
 		},
 		{
 			"id": 16304,
-			"index": 3523
+			"index": 3525
 		},
 		{
 			"id": 16305,
@@ -19116,11 +19124,11 @@
 		},
 		{
 			"id": 16319,
-			"index": 3323
+			"index": 3325
 		},
 		{
 			"id": 16320,
-			"index": 3593
+			"index": 3595
 		},
 		{
 			"id": 16325,
@@ -19128,7 +19136,7 @@
 		},
 		{
 			"id": 16326,
-			"index": 3582
+			"index": 3584
 		},
 		{
 			"id": 16327,
@@ -19136,23 +19144,23 @@
 		},
 		{
 			"id": 16332,
-			"index": 3554
+			"index": 3556
 		},
 		{
 			"id": 16343,
-			"index": 3269
+			"index": 3271
 		},
 		{
 			"id": 16360,
-			"index": 3661
+			"index": 3663
 		},
 		{
 			"id": 16392,
-			"index": 3691
+			"index": 3693
 		},
 		{
 			"id": 16420,
-			"index": 3593
+			"index": 3595
 		},
 		{
 			"id": 16429,
@@ -19236,7 +19244,7 @@
 		},
 		{
 			"id": 16592,
-			"index": 3182
+			"index": 3184
 		},
 		{
 			"id": 16593,
@@ -19272,15 +19280,15 @@
 		},
 		{
 			"id": 20111,
-			"index": 3801
+			"index": 3803
 		},
 		{
 			"id": 20112,
-			"index": 3801
+			"index": 3803
 		},
 		{
 			"id": 20113,
-			"index": 3801
+			"index": 3803
 		},
 		{
 			"id": 20117,
@@ -19296,7 +19304,7 @@
 		},
 		{
 			"id": 20276,
-			"index": 3829
+			"index": 3831
 		},
 		{
 			"id": 20285,
@@ -19304,7 +19312,7 @@
 		},
 		{
 			"id": 20287,
-			"index": 3807
+			"index": 3809
 		},
 		{
 			"id": 20288,
@@ -19336,7 +19344,7 @@
 		},
 		{
 			"id": 20328,
-			"index": 3412
+			"index": 3414
 		},
 		{
 			"id": 20329,
@@ -19348,63 +19356,63 @@
 		},
 		{
 			"id": 24763,
-			"index": 2844
+			"index": 2846
 		},
 		{
 			"id": 24765,
-			"index": 2843
+			"index": 2845
 		},
 		{
 			"id": 24771,
-			"index": 3958
+			"index": 3960
 		},
 		{
 			"id": 25919,
-			"index": 3029
+			"index": 3031
 		},
 		{
 			"id": 25920,
-			"index": 3028
+			"index": 3030
 		},
 		{
 			"id": 25921,
-			"index": 3019
-		},
-		{
-			"id": 25922,
-			"index": 3020
-		},
-		{
-			"id": 25923,
 			"index": 3021
 		},
 		{
-			"id": 25924,
+			"id": 25922,
 			"index": 3022
 		},
 		{
-			"id": 25926,
+			"id": 25923,
 			"index": 3023
 		},
 		{
-			"id": 25927,
+			"id": 25924,
 			"index": 3024
 		},
 		{
-			"id": 25929,
+			"id": 25926,
 			"index": 3025
 		},
 		{
-			"id": 25930,
+			"id": 25927,
 			"index": 3026
 		},
 		{
-			"id": 25931,
+			"id": 25929,
 			"index": 3027
 		},
 		{
+			"id": 25930,
+			"index": 3028
+		},
+		{
+			"id": 25931,
+			"index": 3029
+		},
+		{
 			"id": 25932,
-			"index": 3018
+			"index": 3020
 		},
 		{
 			"id": 25933,
@@ -19416,15 +19424,15 @@
 		},
 		{
 			"id": 27352,
-			"index": 4011
-		},
-		{
-			"id": 27356,
 			"index": 4013
 		},
 		{
-			"id": 27359,
+			"id": 27356,
 			"index": 4015
+		},
+		{
+			"id": 27359,
+			"index": 4017
 		},
 		{
 			"id": 27380,
@@ -19440,15 +19448,15 @@
 		},
 		{
 			"id": 27403,
-			"index": 2868
+			"index": 2870
 		},
 		{
 			"id": 27406,
-			"index": 4046
+			"index": 4048
 		},
 		{
 			"id": 27411,
-			"index": 4046
+			"index": 4048
 		},
 		{
 			"id": 27417,
@@ -19496,35 +19504,35 @@
 		},
 		{
 			"id": 27446,
-			"index": 4057
+			"index": 4059
 		},
 		{
 			"id": 27447,
-			"index": 4058
+			"index": 4060
 		},
 		{
 			"id": 27471,
-			"index": 3901
-		},
-		{
-			"id": 27472,
-			"index": 3902
-		},
-		{
-			"id": 27473,
 			"index": 3903
 		},
 		{
-			"id": 27474,
+			"id": 27472,
 			"index": 3904
 		},
 		{
-			"id": 27475,
+			"id": 27473,
 			"index": 3905
 		},
 		{
+			"id": 27474,
+			"index": 3906
+		},
+		{
+			"id": 27475,
+			"index": 3907
+		},
+		{
 			"id": 27492,
-			"index": 2638
+			"index": 2640
 		},
 		{
 			"id": 27506,
