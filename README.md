@@ -1,6 +1,10 @@
 # EdgeChinese
 新版edge汉化工具
 
+# 停止更新
+新版edge已经加上了中文，并且质量越来越高，本项目已经没有必要继续更新。
+——2019年7月5日
+
 # 依赖
 pak_tools.exe (pak_tools \[mac版] ) 可以解包打包pak文件，我写的
 
